@@ -11,9 +11,6 @@ If you have the Amazon Chime client app installed and have signed in from your i
 1. In the **Meeting Starting** dialog box, choose **Join**\.
 
 1. Choose one of the following audio options:
-
    + If you are the only audio source in the room, choose **Use My Audio**\.
-
    + If you are dialing in or if there is another user in the room using their Audio, choose **Don't Use My Audio**\.
-
    + If your cellular data isn’t strong and you want to use your mobile phone to dial into the meeting, choose **Dial In**\. Dial the number that appears on the screen and choose **Call**\.

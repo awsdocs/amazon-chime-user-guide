@@ -1,6 +1,6 @@
 # Assign a Delegate<a name="delegates"></a>
 
-If you have a pro license, you can give other pro users delegate status to enable them to schedule meetings on your behalf and attend meetings with full organizer privileges\.
+If you have a pro license, you can give delegate status to other pro users and enable them to schedule meetings on your behalf and to attend meetings with full organizer privileges\.
 
 ## Assign Delegates<a name="assign-delegates"></a>
 
@@ -28,7 +28,7 @@ If you are a delegate who schedules meetings on behalf of others and you are not
 
 **To schedule a meeting as a delegate with a calendar app**
 
-1. When you are first assigned as a delegate, ask the user you are scheduling meetings for to follow these steps:
+1. When you are first assigned as a delegate, ask the user for whom you are scheduling meetings to follow these steps:
 
    1. From the **Amazon Chime** app, choose **Meetings**, **Schedule a Meeting**\.
 
@@ -38,7 +38,7 @@ If you are a delegate who schedules meetings on behalf of others and you are not
 
 1. Use the Meeting ID provided in the instructions to create an email address with the following format: **pin\+\{meeting\_ID\}@chime\.aws**\. Save this address and the full meeting instructions on your computer\.
 
-1. To schedule an Amazon Chime meeting as a delegate, schedule the meeting in your calendar app as you normally would\. Be sure to include in your invite the user you are scheduling the meetings for, meet@chime\.aws, and the pin\+ email address you created in step 2\. Optionally, you can also include the full meeting instructions in your invite\. 
+1. To schedule an Amazon Chime meeting as a delegate, schedule the meeting in your calendar app as you normally would\. Be sure to include in your invite the user for whom you are scheduling the meetings, meet@chime\.aws, and the pin\+ email address you created in step 2\. Optionally, you can also include the full meeting instructions in your invite\. 
 
 ## Schedule Meetings as a Delegate using the Outlook Add\-In<a name="delegate-outlook"></a>
 

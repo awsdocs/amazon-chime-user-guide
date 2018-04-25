@@ -18,6 +18,6 @@ You can schedule meetings with your existing calendar app\.
 
    If you are using a One\-time Meeting ID, add meet@chime\.aws and the pin\+ email address as attendees to your meeting\.
 
-1. Choose **Send** to send the invitation\.
+1. Choose **Send**\.
 
 To update a meeting, update in your calendar app as you normally would, but make sure to send the invite to all attendees\. This ensures that the invite is updated in Amazon Chime as well\.

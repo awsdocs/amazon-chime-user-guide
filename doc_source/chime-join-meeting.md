@@ -17,5 +17,4 @@ If you don't have the Amazon Chime app installed, you can still join a meeting i
 1. Choose **Join Meeting** and enter the **Meeting ID**\.
 
 **To join a meeting by using the dial\-in number**
-
 + Dial the conference number provided in your meeting invitation and enter the meeting ID when prompted\.

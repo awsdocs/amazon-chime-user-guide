@@ -2,12 +2,12 @@
 
 No matter which app you schedule your meeting from, here are some helpful tips to follow when setting up meetings\.
 
-
+**Topics**
 + [Create a Personalized Link](#personalized-link)
 + [Help Mobile Users Join Your Meeting](#mobile-users)
 + [Enable or Disable Auto\-call](#autocall)
 + [Invite a Distribution List](#distribution-list)
-+ [Change Meeting Details](#w3ab1c13c25c14)
++ [Change Meeting Details](#meeting-details)
 
 ## Create a Personalized Link<a name="personalized-link"></a>
 
@@ -17,15 +17,15 @@ Create a name that is easy for people to associate with you, like your email add
 
 ## Help Mobile Users Join Your Meeting<a name="mobile-users"></a>
 
-When inviting mobile users to your meeting, copy and paste the **One\-click Mobile Dial\-in** into the **Location** field of your meeting invite\. When the calendar reminder appears for the meeting on their mobile devices, they can choose the string to dial\-in automatically and enter the **Personal Meeting ID**\.
+When inviting mobile users to your meeting, copy and paste the **One\-click Mobile Dial\-in** into the **Location** field of your meeting invite\. When the calendar reminder appears for the meeting on their mobile devices, they can choose the string to dial in automatically and enter the **Personal Meeting ID**\.
 
 ## Enable or Disable Auto\-call<a name="autocall"></a>
 
 When your meeting starts, Amazon Chime can call every attendee automatically on all registered devices with Auto\-call\. You and your attendees don’t have to watch the calendar to join the meeting\.
 
-To enable Auto\-call, make sure **meet@chime\.aws** is invited to your meeting\.
+To enable Auto\-call, make sure that **meet@chime\.aws** is invited to your meeting\.
 
-If you don’t want everyone’s devices to ring at the same time \(for example, if everyone is in the same office\), or if your attendees would rather just open the invite and choose the meeting link, remove** meet@chime\.aws** from the invitee list\.
+To avoid having everyone’s devices ring at the same time \(for example, if everyone is in the same office\), remove **meet@chime\.aws** from the invitee list\. You can also remove **meet@chime\.aws** if your attendees would rather just open the invite and choose the meeting link,
 
 ## Invite a Distribution List<a name="distribution-list"></a>
 
@@ -33,8 +33,8 @@ If you have a weekly or monthly meeting with a large team or department, and you
 
 Attendees can open the meeting link in the instructions, choose **Meetings**, **Join a Meeting**, and enter the PIN manually\.
 
-Use caution when using distribution lists with meet@chime\.com, which doesn't call individual attendees\. You must list individual users to have Amazon Chime initiate the call\.
+Use caution when using distribution lists with meet@chime\.com\. To have Amazon Chime initiate the call, you must list individual users\.
 
-## Change Meeting Details<a name="w3ab1c13c25c14"></a>
+## Change Meeting Details<a name="meeting-details"></a>
 
 When changing meeting details or adding meet@chime\.com to an existing meeting, remember to choose **Send Updates to All**\.

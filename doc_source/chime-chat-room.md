@@ -33,3 +33,7 @@ To make someone an administrator, choose **Settings**, **Edit Members**, select 
 Because chat rooms are continuous conversations, you can send an audible notification \(a sound on your desktop or a push notification on your mobile device\) to call attention to new messages\.
 
 Type @ or choose **At\-mention** and select a member’s name, the entire chat room, or present members\. Chosen members see new messages in bold with their name highlighted\. If they’re online but the chat room is closed, the chat room pops open automatically on their screens\.
+
+## Join a Chat Room<a name="join-chat"></a>
+
+ To join a chat room, accept the invite from the chat room administrator\. Only administrators can send chat room invites\.

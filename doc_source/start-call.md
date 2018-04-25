@@ -1,6 +1,6 @@
 # Start an Instant Meeting or Call<a name="start-call"></a>
 
-If you want to start a meeting right away rather then schedule one in advance, you can use instant meetings or call another user directly from chat\.
+To start a meeting right away rather than scheduling in advance, you can use instant meetings or call another user directly from chat\.
 
 **To start an instant meeting**
 

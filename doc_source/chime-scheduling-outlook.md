@@ -8,12 +8,10 @@ You can schedule Amazon Chime meetings one of two ways using the Outlook for Win
 
 1. For **Schedule Meeting**, choose **Outlook Calendar**\.
 
-1. For **Meeting Settings**, enter your information, including dial\-in numbers, which will be added to the meeting instructions\.
+1. For **Meeting Settings**, enter your information, including dial\-in numbers, which are added to the meeting instructions\.
 
 1. Choose one of the following options:
-
    + **Personal Meeting ID**—This is a personal meeting ID that is assigned to you\. It's a convenient way to schedule meetings, because you don't have to remember new meeting details for each new meeting\.
-
    + **One\-Time Meeting ID**—This is a 10\-digit pin that Amazon Chime generates that you can use for single or recurring meetings\. This is ideal for back\-to\-back, overlapping, or confidential meetings\.
 
 1. Review the **Schedule Meetings Instructions** field, which is automatically populated\.
