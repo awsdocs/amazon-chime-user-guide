@@ -1,13 +1,8 @@
 # Document History<a name="doc-history"></a>
 
-The following table describes the documentation for this release of Amazon Chime\.
-+ **Latest documentation update:** April 23, 2018
-
-
-****  
+The following table describes important changes to the *Amazon Chime User Guide*, beginning in April 2018\. For notifications about updates to this documentation, you can subscribe to an RSS feed\.
 
 | Change | Description | Date | 
-| --- | --- | --- | 
-| Use the Amazon Chime Assistant to get attachments or delete your account | [Use the Amazon Chime Assistant](chime-using-assistant.md) | April 23, 2018 | 
-| Webhooks support | [Automate Chat Messages with Webhooks](webhooks.md) | November 21, 2017 | 
-| Initial release | Initial release | February 14, 2017 | 
+| --- |--- |--- |
+| Amazon Chime Web App | The Amazon Chime Web App is available\. For more information, see [Using the Amazon Chime Web App](http://docs.aws.amazon.com/chime/latest/ug/chime-web-app.html) in the Amazon Chime User Guide\. | May 17, 2018 | 
+| Amazon Chime Assistant | The Amazon Chime Assistant is available\. For more information, see [Use the Amazon Chime Assistant](http://docs.aws.amazon.com/chime/latest/ug/chime-using-assistant.html) in the Amazon Chime User Guide\. | April 23, 2018 | 

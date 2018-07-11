@@ -1,20 +1,40 @@
 # Join a Meeting without the Amazon Chime App<a name="chime-join-meeting"></a>
 
-If you don't have the Amazon Chime app installed, you can still join a meeting if the host includes meeting instructions in the calendar invite\. You can see when someone shares their screen in your browser, and use all of the typical Amazon Chime controls, including remote mute and seeing volume indicators\. There are three ways to do this\.
+If you don't have the Amazon Chime app installed, you can still join a meeting if the host includes meeting instructions in the calendar invite\.
 
-**To join a meeting from the meeting invite**
+If you are using the latest three versions of Mozilla Firefox or Google Chrome, you can join meetings with the Amazon Chime web app\. You can see when someone shares their screen in your browser, hear the meeting's audio through your computer, dial in and participate in meeting chat, and use Amazon Chime meeting controls\.
+
+**To join a meeting from the meeting invite with the web app**
+
+1. In the calendar invite, open the link to join the meeting from your browser\.
+
+1. 
+
+   1. If you have an Amazon Chime account, choose **Sign in now** and sign in with your account credentials\.
+
+   1. Otherwise, type your name, and choose **Next**\.
+
+1. Select your audio source to join the meeting\.
+
+Browsers that aren't supported by the web app are supported by the simple screen share viewer\. For a complete list of supported browsers, see [Review System Requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
+
+**To join a meeting from the meeting invite with the simple screen share viewer**
 
 1. In the calendar invite, open the link to join the meeting\.
+**Note**  
+If you aren't using a browser supported by the web app, you are automatically redirected to the simple screen share viewer\.
 
-1. In the prompt, choose **Browser**\.
+1. Type the name, and choose **Next**\.
 
-1. Enter the name, and choose **Join Meeting**\.
+1. Dial into the meeting using the phone number and meeting PIN\.
+
+1. Choose **Continue in Browser**\.
 
 **To join a meeting from the Amazon Chime website**
 
 1. Go to [http://chime\.aws](http://chime.aws)\.
 
-1. Choose **Join Meeting** and enter the **Meeting ID**\.
+1. Choose **Join Meeting** and type the **Meeting ID**\.
 
 **To join a meeting by using the dial\-in number**
-+ Dial the conference number provided in your meeting invitation and enter the meeting ID when prompted\.
++ Dial the conference number provided in your meeting invitation and type the meeting ID when prompted\.

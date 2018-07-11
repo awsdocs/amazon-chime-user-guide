@@ -8,6 +8,6 @@ If you need to get set up for a meeting before the start time, or just prefer st
 
 1. Meetings that start in the next 30 minutes appear\. Select the meeting to join\.
 **Note**  
-If you don't see the meeting in the list, enter the meeting ID to join\.
+If you don't see the meeting in the list, type the meeting ID to join\.
 
 1. If anyone else joins early, you can see their information and communicate with them before the meeting starts\.

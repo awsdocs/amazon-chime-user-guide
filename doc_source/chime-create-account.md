@@ -4,7 +4,7 @@ To join a Amazon Chime team, first download Amazon Chime and create an account\.
 
 ## Download Amazon Chime<a name="download"></a>
 
-To begin, first download and install the Amazon Chime client from [http://chime\.aws/download](http://chime.aws/download)\.
+To begin, first download and install the Amazon Chime client from [http://chime\.aws/download](http://chime.aws/download), or access the Amazon Chime web client at [https://app\.chime\.aws/](https://app.chime.aws/)\.
 
 ## Create an Amazon Chime Account<a name="create-account"></a>
 
@@ -34,7 +34,7 @@ You can create a personalized meeting link to create a friendly name for your me
 
 ## Add Contacts<a name="contacts"></a>
 
-Use the following steps to add a contact in Windows or OSX\.
+Use the following steps to add a contact in Windows or macOS\.
 
 **To add contacts**
 

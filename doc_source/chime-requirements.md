@@ -2,7 +2,7 @@
 
 Before you get set up with Amazon Chime, first make sure that you meet the following requirements for your operating system\.
 
-Amazon Chime works on common versions of the most popular operating systems\. In most cases, you can just download Amazon Chime and it will work\.
+Amazon Chime works on common versions of the most popular operating systems\. In most cases, you can just download Amazon Chime or access it in your web browser and it will work\.
 
 ## Windows<a name="windows"></a>
 
@@ -25,9 +25,9 @@ Screen share configuration requirements:
 + **Display Setting Scaling** must be set to **100% and custom settings**\.
 
 Microsoft Outlook Add\-in:
-+ Microsoft Outlook 2010, 2013, and 2016 are supported\.
++ Microsoft Outlook 2010, Outlook 2013, and Outlook 2016 are supported\.
 
-## Mac OS<a name="mac"></a>
+## macOS<a name="mac"></a>
 
 Supported versions:
 + OS X 10\.10 and later
@@ -64,7 +64,18 @@ PSTN dial\-in functionality is not available on devices without telephony\.
 
 ## Browser Requirements<a name="browser"></a>
 
-Supported browsers:
+The following browsers are supported for the Amazon Chime web app\. To open the app, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) from your web browser\.
++ Browsers supported for chat:
+  + Google Chrome \(latest three versions\)
+  + Mozilla Firefox \(latest three versions\)
+  + Safari 10 or later
+  + Microsoft Edge \(latest version\)
+  + Internet Explorer 11
++ Browsers supported for meetings:
+  + Google Chrome \(latest three versions\)
+  + Mozilla Firefox \(latest three versions\)
+
+The following browsers are supported for the simple screen share viewer, which provides meeting support for additional browsers and allows attendees to view shared screens and dial in for audio\.
 + Internet Explorer Edge, 9, 10, and 11 \(Desktop and Metro mode\)
 + Firefox 48 and later
 + Chrome 54 and later

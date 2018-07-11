@@ -23,10 +23,10 @@ To get more information about a user's status, the following icons are available
   + Private—The attendee is only available on mobile devices\. To set this status, choose **Settings**, **Share availability information with No one**\.
 
   Screen share icons
-  + Screen icon—The attendee is sharing his or her screen\.
+  + Screen icon—The attendee is sharing their screen\.
   + Eye icon—The attendee is viewing the screen share in the Amazon Chime app or web screen viewer\.
 + Video icons
-  + Video camera icon—The attendee has his or her webcam enabled\.
+  + Video camera icon—The attendee has their webcam enabled\.
   + Video tiles—A maximum of 16 tiles are displayed on a first\-come basis\.
 **Note**  
 Meeting attendees can view video tiles without enabling their webcam\.
