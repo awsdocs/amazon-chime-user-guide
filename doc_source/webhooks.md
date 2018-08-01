@@ -45,6 +45,7 @@ Users can't interact with webhooks or send messages back\.
 The following is a list of webhook\-related errors:
 + The incoming webhook rate limit for each webhook is 1 TPS per chat room\. Throttling results in an HTTP 429 error\. 
 + Messages posted by a webhook must be 4 KB or less\. A bigger message payload results in an HTTP 413 error\.
++ Messages posted by a webhook with @All and @Present annotations work only for chat rooms with 50 or fewer members\. More than 50 members results in an HTTP 404 error\.
 + If the webhook URL is regenerated, using the old URL results in an HTTP 404 error\.
 + If the webhook in a room is deleted, using the old URL results in an HTTP 404 error\.
 + Invalid webhook URLs result in HTTP 403 errors\.
