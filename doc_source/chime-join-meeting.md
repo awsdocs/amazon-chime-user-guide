@@ -2,7 +2,9 @@
 
 If you don't have the Amazon Chime app installed, you can still join a meeting if the host includes meeting instructions in the calendar invite\.
 
-If you are using the latest three versions of Mozilla Firefox or Google Chrome, you can join meetings with the Amazon Chime web app\. You can see when someone shares their screen in your browser, hear the meeting's audio through your computer, dial in and participate in meeting chat, and use Amazon Chime meeting controls\.
+If you are using the latest three versions of Mozilla Firefox or Google Chrome, you can join meetings with the Amazon Chime web app\. You can see in your browser when someone shares their screen, hear the meeting's audio through your computer, dial in and participate in meeting chat, and use Amazon Chime meeting controls\.
+
+If your administrator has enabled the Amazon Chime call me feature, you can choose **Call me at a phone number** to have Amazon Chime call you at your preferred phone number\.
 
 **To join a meeting from the meeting invite with the web app**
 
@@ -14,9 +16,9 @@ If you are using the latest three versions of Mozilla Firefox or Google Chrome, 
 
    1. Otherwise, type your name, and choose **Next**\.
 
-1. Select your audio source to join the meeting\.
+1. Select your audio source to join the meeting\. 
 
-Browsers that aren't supported by the web app are supported by the simple screen share viewer\. For a complete list of supported browsers, see [Review System Requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
+Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a complete list of supported browsers, see [Review System Requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
 
 **To join a meeting from the meeting invite with the simple screen share viewer**
 
@@ -34,7 +36,17 @@ If you aren't using a browser supported by the web app, you are automatically re
 
 1. Go to [http://chime\.aws](http://chime.aws)\.
 
-1. Choose **Join Meeting** and type the **Meeting ID**\.
+1. Choose **Join Meeting** and enter the **Meeting ID**\.
 
 **To join a meeting by using the dial\-in number**
-+ Dial the conference number provided in your meeting invitation and type the meeting ID when prompted\.
++ Dial the conference number provided in your meeting invitation and enter the meeting ID when prompted\.
+
+You can join a meeting using the Amazon Chime call me feature if your administrator has enabled it\.
+
+**To join a meeting by using the Amazon Chime call me feature**
+
+1. Go to [http://chime\.aws](http://chime.aws)\.
+
+1. Choose **Join Meeting** and enter the **Meeting ID**\.
+
+1. Choose **Call me at a phone number**\.

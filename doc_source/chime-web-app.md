@@ -2,7 +2,9 @@
 
 The Amazon Chime web application brings Amazon Chime meetings and chat to your browser\. The web application makes it easy for clients, vendors, and other third parties to join your meetings, even if they are new to Amazon Chime\. There's no need to create an account and no downloads are required to participate in meetings\. Users with Amazon Chime accounts can sign in to access many of the same features available on our downloadable clients\. It's a great option for users on operating systems that aren't supported by the Amazon Chime desktop and mobile apps, users that can't download the Amazon Chime desktop and mobile apps, or users that prefer web applications\.
 
-Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attend Meetings Using Amazon Chime](chime-attend-meetings.md) and [Schedule Meetings Using Amazon Chime](chime-schedule-meetings.md)\. Attendees that choose to join your meetings on the web application can view shared screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\.
+Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attend Meetings Using Amazon Chime](chime-attend-meetings.md) and [Schedule Meetings Using Amazon Chime](chime-schedule-meetings.md)\. Attendees that join your meetings by using the web application can view shared screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\. 
+
+Additionally, if your administrator has enabled the Amazon Chime call me feature, your meeting attendees can choose **Call me at a phone number** to have Amazon Chime call them at their preferred phone number\.
 
 The Amazon Chime web application also lets you format messages in rich text, search as you type, request chat room access using a web application URL, and preview external content URLs\. For more information, see [Chat Features in the Amazon Chime Web Application](#web-app-chat) and [Additional Features in the Amazon Chime Web Application](#web-app-features)\. 
 
@@ -48,6 +50,9 @@ Choose from the following audio options when you join a meeting using the Amazon
 
 **Use my computer's microphone and speakers**  
 Amazon Chime provides high\-quality audio using your computer's internet connection\. 
+
+**Call me at a phone number**  
+If your administrator has enabled the Amazon Chime call me feature, Amazon Chime calls you at your preferred phone number\. This feature is recommended for unreliable or slow internet connections\. Depending on the destination country of the phone number that Amazon Chime calls, different rates apply\. For more information about Amazon Chime pricing, see [http://chime\.aws](http://chime.aws)\.
 
 **I will dial in manually and enter the meeting PIN**  
 Amazon Chime provides dial\-in phone numbers and a unique meeting ID\. This option is recommended for unreliable or slow internet connections\. Depending on the dial\-in option that you choose, charges may apply\.
