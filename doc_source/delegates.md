@@ -1,24 +1,36 @@
 # Assign a Delegate<a name="delegates"></a>
 
-If you have a pro license, you can give delegate status to other pro users and enable them to schedule meetings on your behalf and to attend meetings with full organizer privileges\.
+If you have a pro license, you can give delegate status to other pro users\. This enables them to schedule meetings on your behalf and attend meetings with full organizer permissions\.
 
 ## Assign Delegates<a name="assign-delegates"></a>
 
 Assign delegates from the desktop client\.
 
-**To assign delegates**
+**To assign delegates using Windows clients**
 
-1. From the **Amazon Chime** menu, choose **Amazon Chime**, **Preferences**, **Meetings**\.
+1. On the **File** menu, choose **Settings**, **Meetings**\.
 
-1. Choose **Add Delegate** and enter the name of the contact to add as a delegate\.
+1. For **Name**, choose the name of the contact, then choose **Add**, **Done**\.
+
+**To assign delegates using macOS clients**
+
+1. On the **Amazon Chime** menu, choose **Amazon Chime**, **Preferences**, **Meetings**\.
+
+1. Choose **Add Delegate**, then enter the name of the contact\.
 
 ## Remove Delegates<a name="remove-delegates"></a>
 
-Remove delegates from the same location in the client\.
+Remove delegates from the desktop client\.
 
-**To remove delegates**
+**To remove delegates using Windows clients**
 
-1. From the **Amazon Chime** menu, choose **Amazon Chime**, **Preferences**, **Meetings**\.
+1. On the **File** menu, choose **Settings**, **Meetings**\.
+
+1. Choose an existing delegate from the list, and choose **Remove**\.
+
+**To remove delegates using macOS clients**
+
+1. On the **Amazon Chime** menu, choose **Amazon Chime**, **Preferences**, **Meetings**\.
 
 1. Choose an existing delegate from the list, and choose **Remove**\.
 
@@ -34,7 +46,7 @@ If you are a delegate who schedules meetings on behalf of others and you are not
 
    1. Under **Meeting Settings**, choose **Personal Meeting ID**\.
 
-   1. Under **Steps to Schedule a Meeting**, choose **Copy** and send the text to you\.
+   1. Under **Schedule Meeting Instructions**, choose **Copy** and send the text to you\.
 
 1. Use the Meeting ID provided in the instructions to create an email address with the following format: **pin\+\{meeting\_ID\}@chime\.aws**\. Save this address and the full meeting instructions on your computer\.
 
