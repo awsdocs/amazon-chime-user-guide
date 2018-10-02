@@ -64,17 +64,15 @@ PSTN dial\-in functionality is not available on devices without telephony\.
 
 ## Browser Requirements<a name="browser"></a>
 
-The following browsers are supported for the Amazon Chime web app\. To open the app, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) from your web browser\.
+The following browsers are supported for the Amazon Chime web application\. To open the application, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) from your web browser\.
 + Browsers supported for chat:
   + Google Chrome \(latest three versions\)
   + Mozilla Firefox \(latest three versions\)
   + Safari 10 or later for macOS
   + Microsoft Edge \(latest version\)
-+ Browsers supported for meetings:
++ Browsers supported for meetings and video:
   + Google Chrome \(latest three versions\)
   + Mozilla Firefox \(latest three versions\)
-**Note**  
-Video conferencing is currently only supported in Google Chrome\.
 + Browsers with limited meeting support:
   + Microsoft Edge \(latest version\)
   + Safari 10 or later for macOS
