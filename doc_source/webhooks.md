@@ -22,10 +22,17 @@ Webhooks can only be a part of a chat room and can't be shared\.
 
    1. The URL accepts an HTTP POST request\. 
 
-   1. Amazon Chime webhooks accept a JSON payload with a single key **Content**\. The following is a sample curl command with a sample payload:
+   1. Amazon Chime webhooks accept a JSON payload with a single key **Content**\.
+   
+   The following is a sample curl command with a sample payload:
 
       ```
       curl -X POST "<Insert your webhook URL here>" -H "Content-Type:application/json" --data '{"Content":"Message Body emoji test: :) :+1: link test: http://sample.com email test: marymajor@example.com All member callout: @All All Present member callout: @Present"}'
+      ```
+   The following is a sample PowerShell command for Windows users:
+
+      ```
+      Invoke-WebRequest -Uri "<Insert your webhook URL here>" -Method 'Post' -ContentType "application/JSON" -Body '{"Content":"Message Body emoji test: :) :+1: link test: http://sample.com email test: marymajor@example.com All member callout: @All All Present member callout: @Present"}'
       ```
 
 1. After the external program sends the HTTP POST to the webhook URL, the server validates that the webhook is valid and has an assigned chat room\.
