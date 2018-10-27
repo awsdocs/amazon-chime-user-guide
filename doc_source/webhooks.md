@@ -29,7 +29,7 @@ Webhooks can only be a part of a chat room and can't be shared\.
       ```
       curl -X POST "<Insert your webhook URL here>" -H "Content-Type:application/json" --data '{"Content":"Message Body emoji test: :) :+1: link test: http://sample.com email test: marymajor@example.com All member callout: @All All Present member callout: @Present"}'
       ```
-   The following is a sample PowerShell command for Windows users:
+   The following is a sample PowerShell command with a sample payload:
 
       ```
       Invoke-WebRequest -Uri "<Insert your webhook URL here>" -Method 'Post' -ContentType "application/JSON" -Body '{"Content":"Message Body emoji test: :) :+1: link test: http://sample.com email test: marymajor@example.com All member callout: @All All Present member callout: @Present"}'
