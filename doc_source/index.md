@@ -49,6 +49,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Use One-on-One Chat](direct-chat.md)
    + [Start a Group Chat](group-chat.md)
    + [Create a Chat Room](chime-chat-room.md)
+   + [Use Chat Features](chat-features.md)
    + [Automate Chat Messages with Webhooks](webhooks.md)
 + [Use the Amazon Chime Web Application](chime-web-app.md)
 + [Use the Amazon Chime Assistant](chime-using-assistant.md)

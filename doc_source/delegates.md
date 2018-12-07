@@ -42,11 +42,11 @@ If you are a delegate who schedules meetings on behalf of others and you are not
 
 1. When you are first assigned as a delegate, ask the user for whom you are scheduling meetings to follow these steps:
 
-   1. From the **Amazon Chime** app, choose **Meetings**, **Schedule a Meeting**\.
+   1. From the **Amazon Chime** app, choose **Meetings**, **Schedule a meeting**\.
 
-   1. Under **Meeting Settings**, choose **Personal Meeting ID**\.
+   1. Select **My personal meeting ID**, and choose **Next**\.
 
-   1. Under **Schedule Meeting Instructions**, choose **Copy** and send the text to you\.
+   1. Choose **Copy invitation**, and send the invitation instructions to yourself\.
 
 1. Use the Meeting ID provided in the instructions to create an email address with the following format: **pin\+\{meeting\_ID\}@chime\.aws**\. Save this address and the full meeting instructions on your computer\.
 

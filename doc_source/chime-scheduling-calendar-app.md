@@ -4,20 +4,20 @@ You can schedule meetings with your existing calendar app\.
 
 **To schedule a meeting with a calendar app**
 
-1. From the Amazon Chime app, choose **Meetings**, **Schedule a Meeting**\.
+1. From the Amazon Chime app, choose **Meetings**, **Schedule a meeting**\.
 
-1. For **Calendar app**, choose **Other**\.
+1. Select your meeting options, and choose **Next**\.
 
-1. Choose your meeting settings and choose **Copy**\.
+1. For **Select your calendar app**, choose **Other**\.
 
-1. Go to your calendar app and open the meeting to update\.
+1. Create a new meeting in your calendar application\.
 
-1. Paste the attendee details into the calendar invite\.
+1. Choose **Copy addresses**, and paste the required email addresses into your calendar invite\.
 
-1. If you are using your Personal Meeting ID, you only need to add meet@chime\.aws as an attendee to your meeting\.
+1. Choose **Copy invitation**, and copy the invitation text into your calendar invitation\.
 
-   If you are using a One\-time Meeting ID, add meet@chime\.aws and the pin\+ email address as attendees to your meeting\.
+1. Send the meeting invitation from your calendar app\.
 
-1. Choose **Send**\.
+1. In the Amazon Chime app, choose **I am done**\.
 
 To update a meeting, update in your calendar app as you normally would, but make sure to send the invite to all attendees\. This ensures that the invite is updated in Amazon Chime as well\.

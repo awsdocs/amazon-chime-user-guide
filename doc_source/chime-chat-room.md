@@ -1,6 +1,6 @@
 # Create a Chat Room<a name="chime-chat-room"></a>
 
-To collaborate in a less direct way on projects, invite others during escalations, or discussions topics or teams on an ongoing basis, you can create a chat room\.
+To collaborate in a less direct way on projects, invite others during escalations, or discussions topics or teams on an ongoing basis, you can create a chat room\. There is no limit to the number of users that can be invited to a chat room, nor is there a limit to the number of chat rooms that an individual user can join\.
 
 **To create a chat room**
 
@@ -34,6 +34,9 @@ Because chat rooms are continuous conversations, you can send an audible notific
 
 Type @ or choose **At\-mention** and select a member’s name, the entire chat room, or present members\. Chosen members see new messages in bold with their name highlighted\. If they’re online but the chat room is closed, the chat room pops open automatically on their screens\.
 
+**Note**  
+**@all** and **@present** notifications are not enabled for chat rooms with more than 50 users\. Windows users who type @ to mention a chat room member will not see the member's presence status in the **At\-mention** user list in chat rooms with more than 50 users\.
+
 ## Join a Chat Room<a name="join-chat"></a>
 
- To join a chat room, accept the invite from the chat room administrator\. Only administrators can send chat room invites\.
+ To join a chat room, accept the chat room invite\. By default, only chat room administrators can invite new members to the chat room\. To allow all chat room members to invite new members, administrators can choose **Chat room settings**, **Edit chat room**\. Then, for **Who can invite new members to this room?**, select **All members**\.

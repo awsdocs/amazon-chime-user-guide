@@ -6,8 +6,6 @@ Joining and scheduling meetings from the web application works the same way as t
 
 Additionally, if your administrator has enabled the Amazon Chime call me feature, your meeting attendees can choose **Call me at a phone number** to have Amazon Chime call them at their preferred phone number\.
 
-The Amazon Chime web application also lets you format messages in rich text, search as you type, request chat room access using a web application URL, and preview external content URLs\. For more information, see [Chat Features in the Amazon Chime Web Application](#web-app-chat) and [Additional Features in the Amazon Chime Web Application](#web-app-features)\. 
-
 To use the Amazon Chime web application, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) from your web browser\.
 
 **Note**  
@@ -21,7 +19,9 @@ For a complete list of supported browsers, see [Browser Requirements](chime-requ
 
 ## Chat Features in the Amazon Chime Web Application<a name="web-app-chat"></a>
 
-Chat features in the Amazon Chime web application include the ability to send direct messages, request chat room access using web application URLs, navigate with browser controls, and view your complete conversation history\.
+Chat features in the Amazon Chime web application lets you send direct messages, request chat room access using web application URLs, and navigate with browser controls\.
+
+You can also use keyboard shortcuts in the web application\. Type `Ctrl + /` to view Windows shortcuts, or `cmd + /` to view macOS shortcuts\. 
 
 **To send a direct message using a web application URL**
 + Open a direct message to a user in your browser with a URL\. You can message other users with a link from internal web pages, such as a corporate directory or wiki\.
@@ -41,9 +41,6 @@ Chat features in the Amazon Chime web application include the ability to send di
 **To navigate with browser controls**
 + Use the back and forward buttons in your browser to navigate through rooms and conversations you have visited\. Each room and conversation in the Amazon Chime web application has its own URL\.
 
-**To view the complete conversation history**
-+ Under **Recent Messages**, choose **All messages** to view complete conversation history arranged by time sent, from most to least recent\. 
-
 ## Meeting Audio Options for the Amazon Chime Web Application<a name="web-app-audio"></a>
 
 Choose from the following audio options when you join a meeting using the Amazon Chime web application:
@@ -61,28 +58,6 @@ Amazon Chime provides dial\-in phone numbers and a unique meeting ID\. This opti
 This option is recommended if you are already dialed in using a phone, or if you're in the same room with another attendee who is already connected to audio on their computer\. 
 
 The Amazon Chime web application uses your default audio device\. If you use Mozilla Firefox to join your meeting, you can select a different audio input source in your browser's settings\. 
-
-## Additional Features in the Amazon Chime Web Application<a name="web-app-features"></a>
-
-The Amazon Chime web application lets you search as you type, preview external content URLs, and use rich text messages formatting, keyboard shortcuts, emojis, and \.gif files\.
-
-**Search as you type**  
-Searches your contacts, conversations, and chat rooms and starts displaying results as you type in the search bar\. Press **Enter** to search all content\.
-
-**External content URL previews**  
-Shows a preview of content, such as titles, descriptions, or thumbnails, when pasting URLs to external sites\.
-
-**Rich text support**  
-Supports formatting, such as bold, lists, or heading levels, in messages you send to other web application users\. To send a rich text message, type `/md` and then compose your message using [markdown syntax](http://commonmark.org/help)\.
-
-**Keyboard shortcuts**  
-Type `Ctrl + /` to view Windows shortcuts, or `cmd + /` to view macOS shortcuts\. 
-
-**Emoji and \.gif support**  
-To insert an emoji, choose **Pick an emoji** next to the chat input field\. Upload saved \.gif files into the chat input field to play it inline, or use markdown to display \.gif files from the web\.
-
-**Note**  
-If Amazon Chime users aren't using the web application, they see messages in plain text\.
 
 ## Unsupported Features in the Amazon Chime Web Application<a name="web-app-unsupported"></a>
 

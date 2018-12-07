@@ -6,6 +6,6 @@ All chat messages are public, meaning any message posted is visible to all meeti
 
 Messages can include both file attachments and emojis\.
 
-To save all of the chat messages for a meeting, press Ctrl \+ A to copy the messages before the meeting ends\.
+To save the chat messages for a meeting, select and copy the messages to save before the meeting ends\.
 
 For information about using chat in Amazon Chime, see [Collaborate Using Amazon Chime Chat](chime-using-chat.md)

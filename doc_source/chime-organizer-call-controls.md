@@ -35,4 +35,4 @@ The host can perform the following actions in event mode, which enables the orga
 + Disable an attendee's ability to present by choosing a name on the roster and **Remove from Presenters**\.
 + Turn Event Mode off by choosing the event mode icon and **Disable Event Mode**\. This enables attendees to mute, unmute, share their screen, and enable video\.
 
-Lastly, the host can prevent unauthenticated users from joining the meeting by locking the meeting\. Attendees with no Amazon Chime account receive a message that the meeting is locked, whether they try to join the meeting with the 10\-digit dial\-in, web screen viewer, or the Amazon Chime add\-in\.
+To prevent unauthenticated users from joining the meeting, the host can lock the meeting\. Attendees with no Amazon Chime account receive a message that the meeting is locked, whether they try to join the meeting with the 10\-digit dial\-in, web screen viewer, or the Amazon Chime add\-in\.

@@ -16,7 +16,7 @@ Hardware requirements:
 + Webcam \(for sharing video\)
 
 Software requirements:
-+ \.NET 4\.0 Full Profile \(for Amazon Chime client\)
++ \.NET 4\.5\.2 or later \(for the Amazon Chime client\)
 **Note**  
 If this is missing, Amazon Chime will prompt the user to download it during installation\.
 

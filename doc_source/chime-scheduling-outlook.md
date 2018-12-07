@@ -1,20 +1,18 @@
 # Schedule Meetings with the Outlook Add\-In<a name="chime-scheduling-outlook"></a>
 
-You can schedule Amazon Chime meetings one of two ways using the Outlook for Windows Add\-in: either from the Amazon Chime app, or from Outlook itself\. You can also add Amazon Chime to an existing meeting on your Outlook calendar\.
+You can schedule Amazon Chime meetings in one of two ways using the Outlook for Windows Add\-in\. You can use either the Amazon Chime app, or from Outlook itself\. You can also add Amazon Chime to an existing meeting on your Outlook calendar\.
 
-**To schedule a meeting using Outlook from the Amazon Chime app**
+You can schedule a meeting using Outlook from the Amazon Chime app on macOS\. For instructions, see [Schedule Meetings with a Calendar App](chime-scheduling-calendar-app.md)\. Also, make sure to insert a semicolon between the email addresses in your invite\.
 
-1. Open the Amazon Chime app, and choose **Meetings**, **Schedule Meeting**\.
+**To schedule a meeting using Outlook from the Amazon Chime app on Windows**
 
-1. For **Schedule Meeting**, choose **Outlook Calendar**\.
+1. From the Amazon Chime app, choose **Meetings**, **Schedule a meeting**\.
 
-1. For **Meeting Settings**, enter your information, including dial\-in numbers, which are added to the meeting instructions\.
+1. Select your meeting options, and choose **Next**\.
 
-1. Choose one of the following options:
-   + **Personal Meeting ID**—This is a personal meeting ID that is assigned to you\. It's a convenient way to schedule meetings, because you don't have to remember new meeting details for each new meeting\.
-   + **One\-Time Meeting ID**—This is a 10\-digit pin that Amazon Chime generates that you can use for single or recurring meetings\. This is ideal for back\-to\-back, overlapping, or confidential meetings\.
+1. For **Select your calendar app**, choose **Microsoft Outlook**\.
 
-1. Review the **Schedule Meetings Instructions** field, which is automatically populated\.
+1. Review the **Meeting instruction preview** field, which is automatically populated\.
 
 1. Choose **Schedule with Outlook**\.
 **Note**  
