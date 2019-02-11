@@ -2,7 +2,9 @@
 
 The Amazon Chime meeting roster gives you visibility into who is on the call, running late, using video, muting, and more\. Users appear in the list of attendees after they join, and users that were invited but haven't joined yet appear in the **Invited** section\. Users that are running late appear under **Running Late**, and users that leave appear under **Left**\. Users whose connections have dropped appear in the **Dropped** section\.
 
-If you are an authenticated user, you can mute other attendees from the roster\. If another attendee is signed into the application, you can message them directly instead of using the meeting chat which is seen by all attendees\. Choose or right\-click an individual user to mute or message them directly\.
+If you are an authenticated user, you can mute other attendees from the roster, or unmute attendees who have joined from a phone or an in\-room video system\. If another attendee is signed into the application, you can message them directly instead of using the meeting chat, which is seen by all attendees\. Choose or right\-click an individual user to mute or message them directly\.
+
+If you are the meeting host or delegate, you can also remove individual attendees from the meeting when using the Windows or macOS Amazon Chime clients\.
 
 The following indicators provide more information about each user in the roster:
 + Display names

@@ -1,13 +1,13 @@
 # Host a Meeting<a name="chime-organizer-call-controls"></a>
 
-The host, or meeting organizer, can perform additional actions during a meeting\. The controls are available above the **Chat** window or in the **More** menu\.
+The meeting host or delegate can perform additional actions during a meeting\. The controls to perform these actions are available above the **Chat** window or in the **More** menu\.
 
-The host can perform the following muting actions from the audio icon or the **More** menu:
+The meeting host or delegate can perform the following muting actions from the audio icon or the **More** menu:
 + **Mute All Others** \- Mutes meeting attendees\. Use this to eliminate an echo or external noise\. Attendees are able to unmute themselves to resume audio\.
 + **Disable Attendee Unmute** \- Meeting attendees are not able to unmute themselves\.
 + **Enable Attendee Unmute** \- Returns unmute control to meeting attendees\.
 
-The host can perform the following recording actions:
+The meeting host or delegate can perform the following recording actions:
 + Start and stop recording the meeting by choosing the record icon, or by choosing the **More** menu, **Stop Recording**\. 
 **Note**  
 Meeting attendees receive an update that the meeting is no longer being recorded\.  
@@ -19,8 +19,8 @@ Meeting attendees are notified audibly and visually that their meeting is being 
 **Note**  
 These files tend to be a large size\. To share them with attendees, upload them to a file\-sharing service, such as Amazon WorkDocs, and share the file link\. Videos are not included in the recordings\.
 
-The host can perform the following actions in event mode, which enables the organizer to quickly mute attendees and control other interactions:
-+ Turn on event mode by choosing **Event Mode** after the meeting has started\. This sets the following controls:
+The meeting host or delegate can perform the following actions in Event Mode:
++ Turn on Event Mode by choosing **Event Mode** after the meeting has started\. This sets the following controls:
   + Attendees are muted and anyone who joins is muted immediately\.
   + Attendees who are not presenters cannot mute other attendees, choose to share their screen, or turn on their webcam\. 
   + Roster notifications for attendees who join, leave, or change status are disabled\. 
@@ -33,6 +33,6 @@ The host can perform the following actions in event mode, which enables the orga
 
   1. Attendees who are given permission to present are notified and identified by the Event Mode icon in the roster\.
 + Disable an attendee's ability to present by choosing a name on the roster and **Remove from Presenters**\.
-+ Turn Event Mode off by choosing the event mode icon and **Disable Event Mode**\. This enables attendees to mute, unmute, share their screen, and enable video\.
++ Turn Event Mode off by choosing the Event Mode icon and **Disable Event Mode**\. This enables attendees to mute, unmute, share their screen, and enable video\.
 
-To prevent unauthenticated users from joining the meeting, the host can lock the meeting\. Attendees with no Amazon Chime account receive a message that the meeting is locked, whether they try to join the meeting with the 10\-digit dial\-in, web screen viewer, or the Amazon Chime add\-in\.
+The meeting host or delegate can remove attendees from a meeting by choosing or right\-clicking the attendee's name in the meeting roster and choosing **Remove from meeting**\. To prevent unauthenticated users from joining the meeting, the meeting host or delegate can lock the meeting\. Attendees with no Amazon Chime account, when they try to join the meeting, receive a message that the meeting is locked\. This occurs whether they try to join the meeting with the 10\-digit dial\-in, web screen viewer, or the Amazon Chime add\-in\.

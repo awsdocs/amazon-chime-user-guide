@@ -1,7 +1,7 @@
 # Amazon Chime User Guide
 
 -----
-*****Copyright &copy; 2018 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy; 2019 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -33,7 +33,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Enable Video](use-video.md)
    + [Share Your Screen](screen-share.md)
    + [Request Desktop Control](remote-control.md)
-   + [Mute and Unmute Others](chime-mute.md)
+   + [Mute and Unmute](chime-mute.md)
    + [Switch from VoIP to Dial-In](dial-switch.md)
 + [Schedule Meetings Using Amazon Chime](chime-schedule-meetings.md)
    + [Choose a Meeting ID](personal-ID.md)

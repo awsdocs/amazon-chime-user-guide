@@ -34,7 +34,7 @@ If you aren't using a browser supported by the web app, you are automatically re
 
 **To join a meeting from the Amazon Chime website**
 
-1. Go to [http://chime\.aws](http://chime.aws)\.
+1. Go to [http://app\.chime\.aws](http://app.chime.aws)\.
 
 1. Choose **Join Meeting** and enter the **Meeting ID**\.
 
@@ -45,7 +45,7 @@ You can join a meeting using the Amazon Chime call me feature if your administra
 
 **To join a meeting by using the Amazon Chime call me feature**
 
-1. Go to [http://chime\.aws](http://chime.aws)\.
+1. Go to [http://app\.chime\.aws](http://app.chime.aws)\.
 
 1. Choose **Join Meeting** and enter the **Meeting ID**\.
 
