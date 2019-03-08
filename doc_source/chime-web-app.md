@@ -2,7 +2,7 @@
 
 The Amazon Chime web application brings Amazon Chime meetings and chat to your browser\. The web application makes it easy for clients, vendors, and other third parties to join your meetings, even if they are new to Amazon Chime\. There's no need to create an account and no downloads are required to participate in meetings\. Users with Amazon Chime accounts can sign in to access many of the same features available on our downloadable clients\. It's a great option for users on operating systems that aren't supported by the Amazon Chime desktop and mobile apps, users that can't download the Amazon Chime desktop and mobile apps, or users that prefer web applications\.
 
-Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attend Meetings Using Amazon Chime](chime-attend-meetings.md) and [Schedule Meetings Using Amazon Chime](chime-schedule-meetings.md)\. Attendees that join your meetings by using the web application can view shared screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\. 
+Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attend Meetings Using Amazon Chime](chime-attend-meetings.md) and [Schedule Meetings Using Amazon Chime](chime-schedule-meetings.md)\. Attendees that join your meetings using the web app can view and share screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\. 
 
 Additionally, if your administrator has enabled the Amazon Chime call me feature, your meeting attendees can choose **Call me at a phone number** to have Amazon Chime call them at their preferred phone number\.
 
@@ -61,10 +61,7 @@ The Amazon Chime web application uses your default audio device\. If you use Moz
 
 ## Unsupported Features in the Amazon Chime Web Application<a name="web-app-unsupported"></a>
 
-The following features are not currently supported in the Amazon Chime web application\.
-
-**Screen sharing**  
-You can't share your screen with other users from the Amazon Chime web application\. However, you can view screens that are shared with you\.
+The following feature is not currently supported in the Amazon Chime web application\.
 
 **Remote Desktop Control**  
 Remote desktop control is not supported at this time\.

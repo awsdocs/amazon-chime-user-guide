@@ -44,6 +44,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Host a Meeting](chime-organizer-call-controls.md)
    + [Assign a Delegate](delegates.md)
    + [Cancel a Meeting](cancel-meeting.md)
+   + [Remove Yourself from a Recurring Meeting](remove-recurring.md)
    + [Scheduling Best Practices](chime-scheduling-best-practices.md)
 + [Collaborate Using Amazon Chime Chat](chime-using-chat.md)
    + [Use One-on-One Chat](direct-chat.md)

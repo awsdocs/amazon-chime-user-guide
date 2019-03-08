@@ -13,4 +13,4 @@ If you want to take control of another attendee's desktop, you can do so as long
 1. To end the shared session, either the viewer or the sharer chooses **End**\.
 
 **Note**  
-Request desktop control is not available for the Amazon Chime web app\.
+Desktop control can't be requested or accepted when screen sharing from the Amazon Chime web app\.

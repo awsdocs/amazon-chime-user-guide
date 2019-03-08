@@ -73,6 +73,8 @@ The following browsers are supported for the Amazon Chime web application\. To o
 + Browsers supported for meetings and video:
   + Google Chrome \(latest three versions\)
   + Mozilla Firefox \(latest three versions\)
++ Browsers supported for screen sharing:
+  + Google Chrome for Windows, macOS, and Linux desktops \(latest three versions\)
 + Browsers with limited meeting support:
   + Microsoft Edge \(latest version\)
   + Safari 10 or later for macOS

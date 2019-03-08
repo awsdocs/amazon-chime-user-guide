@@ -13,4 +13,5 @@ Amazon Chime makes scheduling meetings easy, whether you are using Outlook, Goog
 + [Host a Meeting](chime-organizer-call-controls.md)
 + [Assign a Delegate](delegates.md)
 + [Cancel a Meeting](cancel-meeting.md)
++ [Remove Yourself from a Recurring Meeting](remove-recurring.md)
 + [Scheduling Best Practices](chime-scheduling-best-practices.md)
