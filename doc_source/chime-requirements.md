@@ -24,9 +24,6 @@ Screen share configuration requirements:
 + **Screen Share** must be set to **Aero and Non\-Aero themes**\.
 + **Display Setting Scaling** must be set to **100% and custom settings**\.
 
-Microsoft Outlook Add\-in:
-+ Microsoft Outlook 2010, Outlook 2013, and Outlook 2016 are supported\.
-
 ## macOS<a name="mac"></a>
 
 Supported versions:
@@ -83,3 +80,32 @@ Limited meeting support requires attendees to dial in for audio\.
 
 The following browsers are supported for the simple screen share viewer, which provides meeting support for additional browsers and allows attendees to view shared screens and dial in for audio\.
 + Internet Explorer 9, 10, and 11
+
+## Amazon Chime Add\-In for Outlook<a name="addin"></a>
+
+The Amazon Chime Add\-In for Outlook is compatible with Office 365 and recent versions of Exchange On\-premises\. To decide whether it is right for your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\.
+
+Supported Outlook versions:
++ Outlook on the Web in Office 365 and Outlook\.com
++ Outlook 2013 or newer for Windows
++ Outlook 2016 or newer for macOS
+
+Supported Exchange versions:
++ Office 365
++ On\-premises Exchange version 2013 or newer, when used with a supported client
+
+**Note**  
+macOS users must be on macOS version 10\.12 \(Sierra\) or newer\.
+
+## Amazon Chime Add\-In for Outlook on Windows<a name="addin-windows"></a>
+
+For users with Outlook 2010 and Exchange 2010 on Windows, use the Amazon Chime Add\-In for Outlook on Windows\.
+
+Supported Outlook versions:
++ Microsoft Outlook 2010
++ Outlook 2013
++ Outlook 2016
+
+Supported Exchange versions:
++ Office 365
++ On\-premises exchange

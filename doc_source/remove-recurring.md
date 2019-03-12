@@ -9,7 +9,7 @@ The following steps are supported only for recurring events, and are available o
 
 1. From the **Amazon Chime** app, choose **Home**\.
 
-1. **In progress meetings** and **Upcoming meetings** meetings starting in the next 30 minutes  display\.
+1. **In progress meetings** and **Upcoming meetings** meetings starting in the next 30 minutes display\.
 
 1. Select a meeting, and choose **Remove me from series**\.
 

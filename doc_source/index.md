@@ -39,7 +39,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Choose a Meeting ID](personal-ID.md)
    + [Schedule Meetings with a Calendar App](chime-scheduling-calendar-app.md)
    + [Schedule Meetings with Google Calendar](chime-scheduling-google.md)
-   + [Schedule Meetings with the Outlook Add-In](chime-scheduling-outlook.md)
+   + [Schedule Meetings with the Add-In for Outlook](chime-scheduling-outlook.md)
    + [Start an Instant Meeting or Call](start-call.md)
    + [Host a Meeting](chime-organizer-call-controls.md)
    + [Assign a Delegate](delegates.md)

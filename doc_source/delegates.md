@@ -54,4 +54,4 @@ If you are a delegate who schedules meetings on behalf of others and you are not
 
 ## Schedule Meetings as a Delegate using the Outlook Add\-In<a name="delegate-outlook"></a>
 
-When scheduling meetings with the Outlook add\-in, you receive a prompt to select who you are scheduling the meeting for\. For more information, see [Schedule Meetings with the Outlook Add\-In](chime-scheduling-outlook.md)\.
+When scheduling meetings with the Outlook add\-in, you receive a prompt to select who you are scheduling the meeting for\. For more information, see [Schedule Meetings with the Add\-In for Outlook](chime-scheduling-outlook.md)\.
