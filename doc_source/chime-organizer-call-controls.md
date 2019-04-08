@@ -1,4 +1,4 @@
-# Host a Meeting<a name="chime-organizer-call-controls"></a>
+# Hosting a Meeting<a name="chime-organizer-call-controls"></a>
 
 The meeting host or delegate can perform additional actions during a meeting\. The controls to perform these actions are available above the **Chat** window or in the **More** menu\.
 

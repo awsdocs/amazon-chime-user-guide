@@ -1,12 +1,12 @@
-# Create an Amazon Chime Account<a name="chime-create-account"></a>
+# Creating an Amazon Chime Account<a name="chime-create-account"></a>
 
 To join a Amazon Chime team, first download Amazon Chime and create an account\. Then you can set a personalized meeting link, add contacts, and start to schedule meetings\.
 
-## Download Amazon Chime<a name="download"></a>
+## Downloading Amazon Chime<a name="download"></a>
 
-To begin, first download and install the Amazon Chime client from [http://chime\.aws/download](http://chime.aws/download), or access the Amazon Chime web client at [https://app\.chime\.aws/](https://app.chime.aws/)\.
+To begin, first download and install the Amazon Chime client from [Download Amazon Chime](http://aws.amazon.com/chime/download-chime/), or access the Amazon Chime web client at [https://app\.chime\.aws/](https://app.chime.aws/)\.
 
-## Create an Amazon Chime Account<a name="create-account"></a>
+## Creating an Amazon Chime Account<a name="create-account"></a>
 
 Use the following steps to create your Amazon Chime account\.
 
@@ -22,7 +22,7 @@ Use the following steps to create your Amazon Chime account\.
 
 1. If want to install Amazon Chime on other mobile or desktop devices, repeat the steps above and use the same log\-in credentials\. All of your devices are synced together\.
 
-## Set a Personalized Link<a name="set-link"></a>
+## Setting a Personalized Link<a name="set-link"></a>
 
 You can create a personalized meeting link to create a friendly name for your meeting\.
 
@@ -32,7 +32,7 @@ You can create a personalized meeting link to create a friendly name for your me
 
 1. Enter the name of your personalized link and choose **Save**\.
 
-## Add Contacts<a name="contacts"></a>
+## Adding Contacts<a name="contacts"></a>
 
 Use the following steps to add a contact in Windows or macOS\.
 
@@ -48,6 +48,6 @@ Use the following steps to add a contact in Windows or macOS\.
 
    If the colleague has not yet created an Amazon Chime account, they receive an invite\. 
 
-## Schedule Meetings<a name="schedule"></a>
+## Scheduling Meetings<a name="schedule"></a>
 
-For information about how to start scheduling meetings, see [Schedule Meetings Using Amazon Chime](chime-schedule-meetings.md)\.
+For information about how to start scheduling meetings, see [Scheduling Meetings Using Amazon Chime](chime-schedule-meetings.md)\.

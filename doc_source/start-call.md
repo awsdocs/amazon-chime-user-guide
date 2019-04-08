@@ -1,4 +1,4 @@
-# Start an Instant Meeting or Call<a name="start-call"></a>
+# Starting an Instant Meeting or Call<a name="start-call"></a>
 
 To start a meeting right away rather than scheduling in advance, you can use instant meetings or call another user directly from chat\.
 
@@ -14,7 +14,7 @@ To start a meeting right away rather than scheduling in advance, you can use ins
 
 **To start a call from chat**
 
-1. [Use One\-on\-One Chat](direct-chat.md) or [Start a Group Chat](group-chat.md)\.
+1. [Using One\-on\-One Chat](direct-chat.md) or [Starting a Group Chat](group-chat.md)\.
 
 1. Choose the phone icon in the top\-right corner of the screen\.
 

@@ -1,4 +1,4 @@
-# Join a Meeting Early<a name="join-meeting-early"></a>
+# Joining a Meeting Early<a name="join-meeting-early"></a>
 
 If you need to get set up for a meeting before the start time, or just prefer stay ahead of schedule, you can join a meeting early\.
 

@@ -1,4 +1,4 @@
-# Cancel a Meeting<a name="cancel-meeting"></a>
+# Canceling a Meeting<a name="cancel-meeting"></a>
 
 Meeting organizers can cancel a meeting from the original calendar application in which the meeting was created\.
 

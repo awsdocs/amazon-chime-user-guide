@@ -1,4 +1,4 @@
-# Share Your Screen<a name="screen-share"></a>
+# Sharing Your Screen<a name="screen-share"></a>
 
 Anyone joining a meeting with a supported Amazon Chime app can share their screen or get remote access, not only the meeting organizer\.
 

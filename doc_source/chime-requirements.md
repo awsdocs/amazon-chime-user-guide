@@ -1,4 +1,4 @@
-# Review System Requirements<a name="chime-requirements"></a>
+# System Requirements<a name="chime-requirements"></a>
 
 Before you get set up with Amazon Chime, first make sure that you meet the following requirements for your operating system\.
 

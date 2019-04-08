@@ -1,4 +1,4 @@
-# Automate Chat Messages with Webhooks<a name="webhooks"></a>
+# Automating Chat Messages with Webhooks<a name="webhooks"></a>
 
 You can use incoming webhooks to programmatically send messages to chat rooms\. For example, you can notify a customer service team about the creation of a new, high\-priority ticket and add a link to the ticket in the chat room\. Webhooks require custom development or third\-party tools that can help integrate external systems with Amazon Chime\. You can create up to 10 webhooks for each chat room\.
 

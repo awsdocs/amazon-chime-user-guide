@@ -1,4 +1,4 @@
-# Schedule Meetings with Google Calendar<a name="chime-scheduling-google"></a>
+# Scheduling Meetings with Google Calendar<a name="chime-scheduling-google"></a>
 
 If you use Google Calendar, you can also schedule Amazon Chime meetings\.
 

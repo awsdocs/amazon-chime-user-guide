@@ -1,4 +1,4 @@
-# Join an Auto\-call Meeting Using the Amazon Chime Client<a name="chime-join-meeting-client"></a>
+# Joining an Auto\-call Meeting Using the Amazon Chime Client<a name="chime-join-meeting-client"></a>
 
 If a meeting has been set up for Auto\-call, you can join the meeting by using the Amazon Chime client\.
 

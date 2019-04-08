@@ -1,4 +1,4 @@
-# Enable Video<a name="use-video"></a>
+# Enabling Video<a name="use-video"></a>
 
 Amazon Chime provides an HD video experience that makes meetings more productive and engaging\.
 

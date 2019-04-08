@@ -1,4 +1,4 @@
-# Join a Meeting Anonymously<a name="join-anonymous"></a>
+# Joining a Meeting Anonymously<a name="join-anonymous"></a>
 
 If you don't have an account, you can join a meeting anonymously\.
 

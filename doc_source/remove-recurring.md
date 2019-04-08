@@ -1,4 +1,4 @@
-# Remove Yourself from a Recurring Meeting<a name="remove-recurring"></a>
+# Removing Yourself from a Recurring Meeting<a name="remove-recurring"></a>
 
 We recommend that hosts remove attendees from recurring meetings using the calendar app\. However, there can be times when Amazon Chime doesn't receive an update indicating that an attendee has been removed\. Therefore, **Amazon Chime** might continue to auto\-call an attendee for meetings that are no longer displayed on their calendar\. You can remove yourself as an attendee from recurring meetings by following these steps\. 
 

@@ -1,4 +1,4 @@
-# Schedule Meetings with a Calendar App<a name="chime-scheduling-calendar-app"></a>
+# Scheduling Meetings with a Calendar App<a name="chime-scheduling-calendar-app"></a>
 
 You can schedule meetings with your existing calendar app\.
 

@@ -7,7 +7,9 @@ The Assistant supports the following commands:
 
   **To confirm your attachment request, copy and paste this exact command:**
 
-  **Get my attachments ktsben**
+  ```
+  Get my attachments ktsben
+  ```
 
   After you provide the requested confirmation, Amazon Chime processes your request and sends you a link to a file in the chat thread within about 24 hours\. The file contains a list of digitally signed links to your attachments\. If there are no attachments that meet the criteria, the file is empty\. The chat message included with the file from the Assistant includes the date and time when the links expire \(about 6 days after delivery\)\.
 
@@ -20,7 +22,9 @@ The Assistant supports the following commands:
 
   **To confirm your account deletion request, copy and paste this exact command:**
 
-  **Delete me aofrkq**
+  ```
+  Delete me aofrkq
+  ```
 
   The confirmation is valid for 10 minutes\. If you don't confirm within 10 minutes of the request or if you don't enter the command correctly, the Assistant provides a new confirmation code for you to use to retry the request\.
 

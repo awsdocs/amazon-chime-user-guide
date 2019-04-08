@@ -1,4 +1,4 @@
-# Join a Meeting without the Amazon Chime App<a name="chime-join-meeting"></a>
+# Joining a Meeting without the Amazon Chime App<a name="chime-join-meeting"></a>
 
 If you don't have the Amazon Chime app installed, you can still join a meeting if the host includes meeting instructions in the calendar invite\.
 
@@ -18,7 +18,7 @@ If your administrator has enabled the Amazon Chime call me feature, you can choo
 
 1. Select your audio source to join the meeting\. 
 
-Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a complete list of supported browsers, see [Review System Requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
+Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a complete list of supported browsers, see [System Requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
 
 **To join a meeting from the meeting invite with the simple screen share viewer**
 

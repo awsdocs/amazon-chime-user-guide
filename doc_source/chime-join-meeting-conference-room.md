@@ -1,4 +1,4 @@
-# Join a Meeting Using an In\-Room Video Conference System<a name="chime-join-meeting-conference-room"></a>
+# Joining a Meeting Using an In\-Room Video Conference System<a name="chime-join-meeting-conference-room"></a>
 
 To join Amazon Chime meetings with video and audio from an in\-room system, you can do so by using the SIP or H\.323 protocol\. 
 

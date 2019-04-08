@@ -1,4 +1,4 @@
-# Request Desktop Control<a name="remote-control"></a>
+# Requesting Desktop Control<a name="remote-control"></a>
 
 If you want to take control of another attendee's desktop, you can do so as long as both of you are using the Windows or macOS desktop app\. This is especially useful for demonstration or troubleshooting purposes\.
 

@@ -1,4 +1,4 @@
-# Choose a Meeting ID<a name="personal-ID"></a>
+# Choosing a Meeting ID<a name="personal-ID"></a>
 
 There are two types of meeting IDs: Personal Meeting IDs and One\-time Meeting IDs\.
 

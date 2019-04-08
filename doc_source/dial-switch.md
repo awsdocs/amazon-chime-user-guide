@@ -1,4 +1,4 @@
-# Switch from VoIP to Dial\-In<a name="dial-switch"></a>
+# Switching from VoIP to Dial\-In<a name="dial-switch"></a>
 
 If your internet connection is poor, you can switch from VoIP to dial\-in at any time\.
 

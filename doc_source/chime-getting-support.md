@@ -1,4 +1,4 @@
-# Get User Support<a name="chime-getting-support"></a>
+# Getting User Support<a name="chime-getting-support"></a>
 
 If you are a member of an Amazon Chime team or enterprise account and need to contact support, ask your administrator to submit a ticket for you\. For more information, see [Getting Administrator Support](https://docs.aws.amazon.com/chime/latest/ag/chime-getting-admin-support.html)\.
 

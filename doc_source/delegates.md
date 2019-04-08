@@ -1,8 +1,8 @@
-# Assign a Delegate<a name="delegates"></a>
+# Assigning a Delegate<a name="delegates"></a>
 
 If you have a pro license, you can give delegate status to other pro users\. This enables them to schedule meetings on your behalf and attend meetings with full organizer permissions\.
 
-## Assign Delegates<a name="assign-delegates"></a>
+## Assigning Delegates<a name="assign-delegates"></a>
 
 Assign delegates from the desktop client\.
 
@@ -18,7 +18,7 @@ Assign delegates from the desktop client\.
 
 1. Choose **Add Delegate**, then enter the name of the contact\.
 
-## Remove Delegates<a name="remove-delegates"></a>
+## Removing Delegates<a name="remove-delegates"></a>
 
 Remove delegates from the desktop client\.
 
@@ -34,7 +34,7 @@ Remove delegates from the desktop client\.
 
 1. Choose an existing delegate from the list, and choose **Remove**\.
 
-## Schedule Meetings as a Delegate with a Calendar App<a name="delegate-calendar"></a>
+## Scheduling Meetings as a Delegate with a Calendar App<a name="delegate-calendar"></a>
 
 If you are a delegate who schedules meetings on behalf of others and you are not using the Outlook add\-in, follow these steps\.
 
@@ -52,6 +52,6 @@ If you are a delegate who schedules meetings on behalf of others and you are not
 
 1. To schedule an Amazon Chime meeting as a delegate, schedule the meeting in your calendar app as you normally would\. Be sure to include in your invite the user for whom you are scheduling the meetings, meet@chime\.aws, and the pin\+ email address you created in step 2\. Optionally, you can also include the full meeting instructions in your invite\. 
 
-## Schedule Meetings as a Delegate using the Outlook Add\-In<a name="delegate-outlook"></a>
+## Scheduling Meetings as a Delegate using the Outlook Add\-In<a name="delegate-outlook"></a>
 
-When scheduling meetings with the Outlook add\-in, you receive a prompt to select who you are scheduling the meeting for\. For more information, see [Schedule Meetings with the Add\-In for Outlook](chime-scheduling-outlook.md)\.
+When scheduling meetings with the Outlook add\-in, you receive a prompt to select who you are scheduling the meeting for\. For more information, see [Scheduling Meetings with the Add\-In for Outlook](chime-scheduling-outlook.md)\.

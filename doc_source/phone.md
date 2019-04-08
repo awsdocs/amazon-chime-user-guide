@@ -1,4 +1,4 @@
-# Dial Phone Numbers with Amazon Chime<a name="phone"></a>
+# Dialing Phone Numbers with Amazon Chime<a name="phone"></a>
 
 If your administrator has enabled the corresponding telephony options for your Amazon Chime account, you can use the Amazon Chime client to dial phone numbers, send SMS messages to phone numbers, add phone numbers to your contacts, and access voicemail\.
 
@@ -15,9 +15,9 @@ Amazon Chime is not a replacement for your telephone\. It can not be used for em
 
 1. Choose **Dial**\.
 
-When the person you call answers their phone, an instant meeting opens in Amazon Chime\. As the meeting host with Amazon Chime Pro permissions, you can choose **More** to invite others to the call, or to change your meeting settings\. For more information, see [Host a Meeting](chime-organizer-call-controls.md)\.
+When the person you call answers their phone, an instant meeting opens in Amazon Chime\. As the meeting host with Amazon Chime Pro permissions, you can choose **More** to invite others to the call, or to change your meeting settings\. For more information, see [Hosting a Meeting](chime-organizer-call-controls.md)\.
 
-## Send an SMS Message to a Phone Number<a name="sms-phone"></a>
+## Sending an SMS Message to a Phone Number<a name="sms-phone"></a>
 
 If your administrator has enabled SMS messages for your account, you can send an SMS message to a phone number contact\.
 
@@ -36,7 +36,7 @@ An SMS message is sent to the phone number\.
 **Note**  
 Text messaging to and from short codes is not supported\.
 
-## Add a Phone Number to Your Contacts<a name="phone-contact"></a>
+## Adding a Phone Number to Your Contacts<a name="phone-contact"></a>
 
 You can add phone numbers to your **Contacts** list\. To edit the contact name after you create it, search for and select the contact in your **Contacts** list, and choose **Edit contact name**\.
 
@@ -48,7 +48,7 @@ You can add phone numbers to your **Contacts** list\. To edit the contact name a
 
 1. Choose **Create a new contact**\.
 
-## Access Voicemail<a name="vm"></a>
+## Accessing Voicemail<a name="vm"></a>
 
 If your administrator enables inbound calling, unanswered and declined calls are redirected to your voicemail\.
 

@@ -1,4 +1,4 @@
-# Use One\-on\-One Chat<a name="direct-chat"></a>
+# Using One\-on\-One Chat<a name="direct-chat"></a>
 
 **To chat directly with a colleague**
 

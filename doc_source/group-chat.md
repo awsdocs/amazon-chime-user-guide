@@ -1,4 +1,4 @@
-# Start a Group Chat<a name="group-chat"></a>
+# Starting a Group Chat<a name="group-chat"></a>
 
 **To send the same messages to more than one person**
 
