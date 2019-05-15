@@ -16,3 +16,4 @@ The following statuses indicate whether a user is available to chat\.
 + [Creating a Chat Room](chime-chat-room.md)
 + [Using Chat Features](chat-features.md)
 + [Automating Chat Messages with Webhooks](webhooks.md)
++ [Using Chat Bots](chat-bots.md)

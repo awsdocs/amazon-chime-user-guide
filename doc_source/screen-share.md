@@ -7,4 +7,4 @@ To share your screen, choose **Screen**, and then choose **Share Screen** to sha
 If you're sharing your entire screen on your Windows or macOS desktop app, one or multiple attendees can request keyboard and mouse control of your desktop by choosing **Share**, **Request Shared Control**\.
 
 **Note**  
-The Amazon Chime web app supports screen sharing on Chrome browsers for Windows, macOS, and Linux desktops with the installation of an extension\.
+The Amazon Chime web app supports screen sharing on Chrome browsers for Windows, macOS, and Linux desktops with the installation of an extension\. To install the extension, initiate screen sharing in the Amazon Chime web app, and follow the installation prompts\.
