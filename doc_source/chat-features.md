@@ -12,7 +12,7 @@ Shows a preview of content, such as titles, descriptions, and thumbnails, when p
 Supports rich text formatting, such as bold font, lists, or heading levels\. To compose a rich text message, type `/md` in front of your message, and compose your message using [markdown syntax](http://commonmark.org/help) before pressing **Enter** to send\. To send blocks of code, type `/code` in front of your code block before pressing **Enter** to send\.
 
 **Emoji and \.gif support**  
-To insert an emoji, choose **Pick an emoji** next to the chat input field\. Upload saved \.gif files into the chat input field to play it inline, or use markdown to display \.gif files from the web\.
+To insert an emoji, choose **Pick an emoji** next to the chat input field\. Choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\.
 
 **Drag and drop files**  
 Drag and drop files into the chat pane, or copy and paste images directly from your clipboard\.

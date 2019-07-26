@@ -24,13 +24,19 @@ Use the following steps to create your Amazon Chime account\.
 
 ## Setting a Personalized Link<a name="set-link"></a>
 
-You can create a personalized meeting link to create a friendly name for your meeting\.
+You can create a personalized meeting link that generates a friendly name for your meeting\.
 
 **To set a personalized link**
 
-1. In the upper\-left corner, choose **Add Personalized Link**\.
+1. Choose the menu in the upper\-left corner by your name, and choose **My meeting bridge information**\.
 
-1. Enter the name of your personalized link and choose **Save**\.
+1. For **Personalized ID:**, choose **Create your personalized ID**\.
+
+1. Review the information in the message that displays, and choose **Acknowledge and continue**\.
+
+1. Enter the name of your personalized link\. It must be between 12\-35 characters long\. Your personalized link is unique within the Amazon Chime service\.
+
+1. Choose **Save**\.
 
 ## Adding Contacts<a name="contacts"></a>
 

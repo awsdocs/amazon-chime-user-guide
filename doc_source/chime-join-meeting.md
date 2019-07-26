@@ -4,6 +4,8 @@ If you don't have the Amazon Chime app installed, you can still join a meeting i
 
 If you are using the latest three versions of Mozilla Firefox or Google Chrome, you can join meetings with the Amazon Chime web app\. You can see in your browser when someone shares their screen, hear the meeting's audio through your computer, dial in and participate in meeting chat, and use Amazon Chime meeting controls\.
 
+If you are joining a moderated meeting, you are unable to interact with other attendees until a moderator joins and starts the meeting\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+
 If your administrator has enabled the Amazon Chime call me feature, you can choose **Call me at a phone number** to have Amazon Chime call you at your preferred phone number\.
 
 **To join a meeting from the meeting invite with the web app**

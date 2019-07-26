@@ -20,4 +20,4 @@ If attendees join the meeting using their computer audio or the Amazon Chime cli
 
 Attendees who join the meeting from a phone, in\-room video system, or other SIP or H\.323 device can override Amazon Chime mute controls using their local device\. For example, if they push the mute button on their local device, this overrides any unmute requests from the Amazon Chime application\. 
 
-Meeting hosts and delegates can choose **Disable Attendee Unmute** to keep others from unmuting attendees\.
+Meeting hosts, delegates, and moderators who are signed in to the Amazon Chime app can choose **Disable Attendee Unmute** to keep others from unmuting attendees\.

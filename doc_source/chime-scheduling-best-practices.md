@@ -2,13 +2,6 @@
 
 No matter which app you schedule your meeting from, here are some helpful tips to follow when setting up meetings\.
 
-**Topics**
-+ [Creating a Personalized Link](#personalized-link)
-+ [Helping Mobile Users Join Your Meeting](#mobile-users)
-+ [Enabling or Disabling Auto\-call](#autocall)
-+ [Inviting a Distribution List](#distribution-list)
-+ [Changing Meeting Details](#meeting-details)
-
 ## Creating a Personalized Link<a name="personalized-link"></a>
 
 When you create an account with Amazon Chime, you receive a 10\-digit Personal Meeting ID\. To make it easier for attendees to join your meetings, you can create a personalized link by choosing **Add Personalized Link** under your name\.
@@ -25,7 +18,7 @@ When your meeting starts, Amazon Chime can call every attendee automatically on 
 
 To enable Auto\-call, make sure that **meet@chime\.aws** is invited to your meeting\.
 
-To avoid having everyone’s devices ring at the same time \(for example, if everyone is in the same office\), remove **meet@chime\.aws** from the invitee list\. You can also remove **meet@chime\.aws** if your attendees would rather just open the invite and choose the meeting link,
+To avoid having everyone’s devices ring at the same time \(for example, if everyone is in the same office\), remove **meet@chime\.aws** from the invitee list\. You can also remove **meet@chime\.aws** if your attendees would rather just open the invite and choose the meeting link\.
 
 ## Inviting a Distribution List<a name="distribution-list"></a>
 
@@ -33,8 +26,8 @@ If you have a weekly or monthly meeting with a large team or department, and you
 
 Attendees can open the meeting link in the instructions, choose **Meetings**, **Join a Meeting**, and enter the PIN manually\.
 
-Use caution when using distribution lists with meet@chime\.com\. To have Amazon Chime initiate the call, you must list individual users\.
+Use caution when using distribution lists with meet@chime\.aws\. To have Amazon Chime initiate the call, you must list individual users\.
 
 ## Changing Meeting Details<a name="meeting-details"></a>
 
-When changing meeting details or adding meet@chime\.com to an existing meeting, remember to choose **Send Updates to All**\.
+When changing meeting details or adding meet@chime\.aws to an existing meeting, remember to choose **Send Updates to All**\.

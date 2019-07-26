@@ -1,12 +1,14 @@
 # Scheduling Meetings with the Add\-In for Outlook<a name="chime-scheduling-outlook"></a>
 
-Amazon Chime provides two add\-ins for Outlook: the Amazon Chime Add\-In for Outlook on Windows and the Amazon Chime Add\-In for Outlook\. These add\-ins offer the same scheduling features, but support different types of users\. Microsoft Office 365 subscribers and organizations using on\-premises Microsoft Exchange 2013 or later can use the Amazon Chime Add\-In for Outlook\. Windows users with an on\-premises Exchange server running Exchange Server 2010 or earlier and Outlook 2010 users must use the Amazon Chime Add\-in for Outlook on Windows\.
+Amazon Chime provides two add\-ins for Outlook: the Amazon Chime Add\-In for Outlook on Windows and the Amazon Chime Add\-In for Outlook\. These add\-ins offer the same scheduling features, but support different types of users\.
++ **Amazon Chime Add\-In for Outlook** – Recommended for Microsoft Office 365 subscribers and organizations using on\-premises Microsoft Exchange 2013 or later\. Also recommended for Amazon Chime delegates who are using macOS\.
++ **Amazon Chime Add\-In for Outlook on Windows** – Must be used by Windows users with an on\-premises Exchange server running Exchange Server 2010 or earlier and Outlook 2010 users\. Also recommended for Amazon Chime delegates who are using Windows\.
 
-Windows users who do not have permissions to install the Amazon Chime Add\-in for Outlook should opt for the Amazon Chime Add\-in for Outlook on Windows\. For information about which add\-in is right for you and your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\. 
+For information about which add\-in is right for you and your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\.
 
 No matter which add\-in you use, the steps to schedule your meeting from Outlook are similar, with the following differences:
-+ **Amazon Chime Add\-In for Outlook on Windows** – Opens a new window and prompts you to choose your meeting ID type before populating your event\.
 + **Amazon Chime Add\-In for Outlook** – Opens in a side panel within Outlook and prompts you to select your options within a form\.
++ **Amazon Chime Add\-In for Outlook on Windows** – Opens a new window and prompts you to choose your meeting ID type before populating your event\.
 
 **To schedule a meeting from Outlook**
 
@@ -20,7 +22,9 @@ No matter which add\-in you use, the steps to schedule your meeting from Outlook
 
 1. The invite is automatically populated with meet@chime\.aws, instructions, meeting link, dial\-in info, and meeting ID\.
 
-1. Edit the meeting instructions if necessary, and choose **Send**\.
+1. Edit the meeting instructions if necessary, and choose **Schedule**\.
+
+1. \(Optional\) If you created a moderated meeting with a passcode, you must also send the moderator passcode to one or more attendees who will act as meeting moderators\. Moderator information is not included in the Amazon Chime meeting invite and must be sent to moderators separately\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
 
 **To add Amazon Chime to an existing meeting on your Outlook Calendar**
 
