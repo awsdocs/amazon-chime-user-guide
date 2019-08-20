@@ -8,6 +8,9 @@ Searches your contacts, conversations, and chat rooms and starts displaying resu
 **External content URL previews**  
 Shows a preview of content, such as titles, descriptions, and thumbnails, when pasting URLs to external sites\.
 
+**Message actions**  
+**Message actions** are available in the menu next to a message\. **Copy this message** copies the message to your clipboard\. **Quote this message** inserts the selected message into your compose message field as a quotation, using markdown\. Quoting a message lets you respond to previous messages in context\.
+
 **Rich text support**  
 Supports rich text formatting, such as bold font, lists, or heading levels\. To compose a rich text message, type `/md` in front of your message, and compose your message using [markdown syntax](http://commonmark.org/help) before pressing **Enter** to send\. To send blocks of code, type `/code` in front of your code block before pressing **Enter** to send\.
 

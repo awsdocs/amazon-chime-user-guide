@@ -4,6 +4,8 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Call History](#doc-history) | Call or send messages to phone numbers or contacts from your **Call history**\. For more information, see [Dialing Phone Numbers with Amazon Chime](https://docs.aws.amazon.com/chime/latest/ug/phone.html) in the Amazon Chime User Guide\. | August 19, 2019 | 
+| [Quoting Messages](#doc-history) | Amazon Chime supports quoting a message in chat\. For more information, see [Using Chat Features](https://docs.aws.amazon.com/chime/latest/ug/chat-features.html) in the Amazon Chime User Guide\. | August 6, 2019 | 
 | [Moderated Meetings](#doc-history) | Amazon Chime supports moderated meetings\. For more information, see [Scheduling a Moderated Meeting](https://docs.aws.amazon.com/chime/latest/ug/moderate-meeting.html) in the Amazon Chime User Guide\. | July 25, 2019 | 
 | [Using Chat Bots with Amazon Chime](#doc-history) | Amazon Chime supports integration with chat bots that your Amazon Chime Enterprise account administrator creates\. For more information, see [Using Chat Bots](https://docs.aws.amazon.com/chime/latest/ug/chat-bots.html) in the Amazon Chime User Guide\. | May 14, 2019 | 
 | [Dial Phone Numbers with Amazon Chime](#doc-history) | If your administrator has enabled the corresponding telephony options for your Amazon Chime account, you can use the Amazon Chime client to dial phone numbers and send and receive text messages\. For more information, see [Dialing Phone Numbers with Amazon Chime](https://docs.aws.amazon.com/chime/latest/ug/phone.html) in the Amazon Chime User Guide\. | March 18, 2019 | 

@@ -4,7 +4,7 @@ Amazon Chime provides two add\-ins for Outlook: the Amazon Chime Add\-In for Out
 + **Amazon Chime Add\-In for Outlook** – Recommended for Microsoft Office 365 subscribers and organizations using on\-premises Microsoft Exchange 2013 or later\. Also recommended for Amazon Chime delegates who are using macOS\.
 + **Amazon Chime Add\-In for Outlook on Windows** – Must be used by Windows users with an on\-premises Exchange server running Exchange Server 2010 or earlier and Outlook 2010 users\. Also recommended for Amazon Chime delegates who are using Windows\.
 
-For information about which add\-in is right for you and your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\.
+For information about which add\-in is right for you and your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\. For more information about installing these add\-ins, see [Amazon Chime Add\-in for Outlook Installation Guide for End Users](https://answers.chime.aws/articles/673/amazon-chime-add-in-for-outlook-installation-guide-1.html)\.
 
 No matter which add\-in you use, the steps to schedule your meeting from Outlook are similar, with the following differences:
 + **Amazon Chime Add\-In for Outlook** – Opens in a side panel within Outlook and prompts you to select your options within a form\.

@@ -48,6 +48,9 @@ Users can't interact with webhooks or send messages back\.
 
 1. Repeat the process for each chat room in which you would like to use incoming webhooks\.
 
+**Note**  
+CORS is not currently enabled for webhooks\.
+
 ## Webhooks Errors<a name="webhooks-errors"></a>
 
 The following is a list of webhook\-related errors:

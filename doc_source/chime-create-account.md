@@ -40,19 +40,27 @@ You can create a personalized meeting link that generates a friendly name for yo
 
 ## Adding Contacts<a name="contacts"></a>
 
-Use the following steps to add a contact in Windows or macOS\.
+Use the following steps to add a contact\.
 
 **To add contacts**
 
-1. At the top of the Amazon Chime window, choose **Add Contact**\. 
+1. In the Amazon Chime client, choose **Contacts**\. 
 
-1. Enter the email address of the colleague to collaborate with\.
+1. Search for the contact by name, email address, or phone number\.
 
-1. Choose **Add Contact**\.
+1. If the contact appears in your search, select the contact, and choose **Done**\.
 
-1. If the colleague has created an Amazon Chime account using the email address that you entered, they are added to your contacts\. To view your contacts, choose **Message** at the top of the Amazon Chime window\.
+If the contact does not appear in your search, choose **Invite contact** to send them an email invitation\.
 
-   If the colleague has not yet created an Amazon Chime account, they receive an invite\. 
+**To add a contact from your history**
+
+1. Do one of the following:
+   + From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
+   + From the Amazon Chime mobile app, choose **Calls**\.
+
+1. Select the contact to open the actions menu\.
+
+1. Choose **Add to my contacts**\.
 
 ## Scheduling Meetings<a name="schedule"></a>
 
