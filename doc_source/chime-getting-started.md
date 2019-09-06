@@ -6,4 +6,5 @@ To continue using the Amazon Chime Pro version after the 30 day free trial perio
 
 **Topics**
 + [System Requirements](chime-requirements.md)
++ [Amazon Chime Readiness Checker](checker.md)
 + [Creating an Amazon Chime Account](chime-create-account.md)

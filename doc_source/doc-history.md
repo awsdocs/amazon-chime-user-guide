@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Amazon Chime Readiness Checker](#doc-history) | To see if your device is ready to use with Amazon Chime, use the Amazon Chime Readiness Checker at [https://app\.chime\.aws/check](https://app.chime.aws/check)\. For more information, see [Amazon Chime Readiness Checker](https://docs.aws.amazon.com/chime/latest/ug/checker.html) in the Amazon Chime User Guide\. | September 6, 2019 | 
 | [Call History](#doc-history) | Call or send messages to phone numbers or contacts from your **Call history**\. For more information, see [Dialing Phone Numbers with Amazon Chime](https://docs.aws.amazon.com/chime/latest/ug/phone.html) in the Amazon Chime User Guide\. | August 19, 2019 | 
 | [Quoting Messages](#doc-history) | Amazon Chime supports quoting a message in chat\. For more information, see [Using Chat Features](https://docs.aws.amazon.com/chime/latest/ug/chat-features.html) in the Amazon Chime User Guide\. | August 6, 2019 | 
 | [Moderated Meetings](#doc-history) | Amazon Chime supports moderated meetings\. For more information, see [Scheduling a Moderated Meeting](https://docs.aws.amazon.com/chime/latest/ug/moderate-meeting.html) in the Amazon Chime User Guide\. | July 25, 2019 | 

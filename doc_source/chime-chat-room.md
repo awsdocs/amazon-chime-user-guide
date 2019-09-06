@@ -20,6 +20,8 @@ To collaborate in a less direct way on projects, invite others during escalation
 
 1. To leave the chat room \(you must be re\-invited to return\), choose **Settings**, **Leave the chat room**\.
 
+If you are using the Amazon Chime web application, you can share the chat room URL with other users\. For more information, see [Chat Features in the Amazon Chime Web Application](chime-web-app.md#web-app-chat)\.
+
 ## Administering a Chat Room<a name="chat-admins"></a>
 
 Chat room administrators have a crown icon next their names\. Administrators can add or edit members, edit the chat room name and invite policy, and delete the chat room and thread history under **Settings**\. Chat room administrators can also add chat bots to chat rooms if the Amazon Chime account administrator has enabled chat bots for the account\. For more information, see [Using Chat Bots](chat-bots.md)\.

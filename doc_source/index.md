@@ -17,6 +17,7 @@ Amazon's trademarks and trade dress may not be used in
 + [What is Amazon Chime?](what-is-chime.md)
 + [Getting Started with Amazon Chime](chime-getting-started.md)
    + [System Requirements](chime-requirements.md)
+   + [Amazon Chime Readiness Checker](checker.md)
    + [Creating an Amazon Chime Account](chime-create-account.md)
 + [Attending Meetings Using Amazon Chime](chime-attend-meetings.md)
    + [Joining a Meeting](join-meetings.md)
