@@ -12,8 +12,8 @@ The following statuses indicate whether a user is available to chat\.
 
 **Topics**
 + [Using One\-on\-One Chat](direct-chat.md)
-+ [Starting a Group Chat](group-chat.md)
++ [Using Group Chats](group-chat.md)
 + [Creating a Chat Room](chime-chat-room.md)
 + [Using Chat Features](chat-features.md)
-+ [Automating Chat Messages with Webhooks](webhooks.md)
++ [Adding Webhooks to Chat Rooms](webhooks.md)
 + [Using Chat Bots](chat-bots.md)

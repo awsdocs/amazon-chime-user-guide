@@ -12,6 +12,8 @@ If you don't see the name that you want, choose **Contacts**\. Search for or inv
 
 1. To start an instant meeting, choose the phone icon in the upper\-right corner to call the other person\.
 
+When you’re in a chat conversation, you can edit the members of the chat to create a new group chat conversation with the users that you select\. For more information, see [Using Group Chats](group-chat.md)\.
+
 **To message a colleague from your history**
 
 1. Do one of the following:

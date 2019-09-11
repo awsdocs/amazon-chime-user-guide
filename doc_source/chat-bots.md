@@ -2,13 +2,13 @@
 
 Amazon Chime supports integration with chat bots that your Amazon Chime Enterprise account administrator creates\. With chat bots, you can use the power of Amazon Lex, AWS Lambda, and other AWS services to streamline common tasks with intelligent conversational interfaces that are accessible to users in Amazon Chime chat rooms\.
 
-Amazon Chime administrators can use chat bots to allow users to perform various tasks, such as the following:
-+ Querying for information from internal systems
-+ Automating tasks
-+ Receiving notifications for critical issues
-+ Creating support tickets
+Amazon Chime Enterprise account administrators can use chat bots to allow users to perform such tasks as:
++ Querying internal systems for information\.
++ Automating tasks\.
++ Receiving notifications for critical issues\.
++ Creating support tickets\.
 
-When Amazon Chime administrators integrate chat bots with Amazon Chime, users can interact with the chat bot in chat rooms created by members of the same Amazon Chime account\. For more information about how administrators can integrate a chat bot with Amazon Chime, see [Managing Chat Bots](https://docs.aws.amazon.com/chime/latest/ag/manage-chat-bots.html) in the *Amazon Chime Administrator Guide*\.
+When Amazon Chime administrators integrate chat bots with Amazon Chime, users can interact with the chat bot in chat rooms created by members of the same Amazon Chime account\. For more information about how administrators can integrate a chat bot with Amazon Chime, see [Chat Bots](https://docs.aws.amazon.com/chime/latest/dg/chat-bots.html) in the *Amazon Chime Developer Guide*\.
 
 ## Adding a Chat Bot to a Chat Room<a name="add-bot-chat"></a>
 
