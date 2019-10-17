@@ -59,6 +59,24 @@ This option is recommended if you are already dialed in using a phone, or if you
 
 The Amazon Chime web application uses your default audio device\. If you use Mozilla Firefox to join your meeting, you can select a different audio input source in your browser's settings\. 
 
+## Screen Sharing Options for the Amazon Chime Web Application<a name="web-app-sharing"></a>
+
+You can share your screen or an application window, if you are using the latest three versions of Mozilla Firefox or Google Chrome\. Screen share is available for Chrome version 72 and Firefox version 66 or later\.
+
+**To share your screen or application window**
+
+1. In the Amazon Chime web application, choose **Screen**, **Start screen share**\.
+
+1. From the drop\-down menu, choose the application window or screen that you want to share\.
+
+1. If prompted, choose **Allow the browser to share**\.
+
+1. To choose a different application window or screen, choose **Screen**, **Change screen share source**\.
+
+1. When you're ready to stop sharing, choose **Screen**, **Stop screen share**\.
+**Note**  
+If another attendee takes over the meeting, or if the meeting ends, sharing automatically stops\.
+
 ## Unsupported Features in the Amazon Chime Web Application<a name="web-app-unsupported"></a>
 
 The following feature is not currently supported in the Amazon Chime web application\.
