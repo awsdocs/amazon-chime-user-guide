@@ -55,6 +55,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Using Chat Bots](chat-bots.md)
 + [Dialing Phone Numbers with Amazon Chime](phone.md)
 + [Using the Amazon Chime Web Application](chime-web-app.md)
++ [Using Amazon Chime on Dolby Voice Room](using-dolby.md)
 + [Using the Amazon Chime Assistant](chime-using-assistant.md)
    + [Setting Up the Amazon Chime Assistant](setup-assistant.md)
    + [Supported Commands](assistant-commands.md)

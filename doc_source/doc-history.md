@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Amazon Chime on Dolby Voice Room](#doc-history) | If Dolby Voice Room is enabled with Amazon Chime, you can join an Amazon Chime meeting quickly from a conference room\. For more information, see [Using Amazon Chime on Dolby Voice Room](https://docs.aws.amazon.com/chime/latest/ug/using-dolby.html) in the Amazon Chime User Guide\. | October 29, 2019 | 
 | [Screen share browser support](#doc-history) | Mozilla Firefox is now supported for screen sharing\. For more information, see [Screen Sharing Options for the Amazon Chime Web Application](https://docs.aws.amazon.com/chime/latest/ug/chime-web-app.html#web-app-sharing) in the Amazon Chime User Guide\. | October 8, 2019 | 
 | [Edit Conversation Members](#doc-history) | Edit the members of a chat conversation\. For more information, see [Using Group Chats](https://docs.aws.amazon.com/chime/latest/ug/group-chat.html) in the Amazon Chime User Guide\. | September 11, 2019 | 
 | [Amazon Chime Readiness Checker](#doc-history) | To see if your device is ready to use with Amazon Chime, use the Amazon Chime Readiness Checker at [https://app\.chime\.aws/check](https://app.chime.aws/check)\. For more information, see [Amazon Chime Readiness Checker](https://docs.aws.amazon.com/chime/latest/ug/checker.html) in the Amazon Chime User Guide\. | September 6, 2019 | 
