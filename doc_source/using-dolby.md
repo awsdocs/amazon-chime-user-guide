@@ -29,10 +29,11 @@ During meetings, you can perform the following actions:
 + To share video from the room, choose **Enable video**\.
 + To share content, choose **Share content** and one of the following options:
   + If your administrator has set up the whiteboard, choose **Whiteboard** to share content on a whiteboard in your room\.
-  + To share content from your laptop screen, attach an HDMI cable from the hub to your laptop and choose **HDMI**\.
+  + To share content from your laptop screen, attach an HDMI cable from the hub to your laptop and choose **HDMI**\. You can also share content when you're not in a meeting by choosing **Share**, **HDMI**\.
   + If Event Mode is on, make sure the host or delegate adds the room or user as a **Presenter** from the **More** menu\.
 + To see the list of attendees on the phone screen, choose **Attendees** on the left\.
 + To see the list of attendees on the large screen, choose **Show attendees** on the right\.
++ To turn Alexa off or on, use the **Alexa** toggle switch\.
 + To mute and unmute the device, press the microphone button on the conference phone\. When the device is muted, the ring on top of the phone will turn red\.
 + To exit the meeting, choose **Leave meeting**\.
 
