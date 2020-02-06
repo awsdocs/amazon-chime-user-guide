@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Do Not Disturb Status](#doc-history) | **Do not disturb** status is available for Amazon Chime users\. For more information, see [Collaborating Using Amazon Chime Chat](https://docs.aws.amazon.com/chime/latest/ug/chime-using-chat.html) in the Amazon Chime User Guide\. | February 5, 2020 | 
 | [Amazon Chime Meetings App for Slack](#doc-history) | Amazon Chime supports the Amazon Chime Meetings App for Slack\. For more information, see [Using the Amazon Chime Meetings App for Slack](https://docs.aws.amazon.com/chime/latest/ug/using-slack.html) in the Amazon Chime User Guide\. | December 4, 2019 | 
 | [Amazon Chime on Dolby Voice Room](#doc-history) | If Dolby Voice Room is enabled with Amazon Chime, you can join an Amazon Chime meeting quickly from a conference room\. For more information, see [Using Amazon Chime on Dolby Voice Room](https://docs.aws.amazon.com/chime/latest/ug/using-dolby.html) in the Amazon Chime User Guide\. | October 29, 2019 | 
 | [Screen share browser support](#doc-history) | Mozilla Firefox is now supported for screen sharing\. For more information, see [Screen Sharing Options for the Amazon Chime Web Application](https://docs.aws.amazon.com/chime/latest/ug/chime-web-app.html#web-app-sharing) in the Amazon Chime User Guide\. | October 8, 2019 | 

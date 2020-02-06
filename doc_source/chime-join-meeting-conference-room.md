@@ -8,7 +8,7 @@ To join Amazon Chime meetings with video and audio from an in\-room system, you 
 
 1. Enter one of the following as instructed by your Amazon Chime meeting invitation:
    + **SIP** – ***10\-digit meeting ID*@meet\.chime\.in**, **u@meet\.chime\.in**, or **meet\.chime\.in**
-   + **H\.323** – **52\.23\.133\.56**
+   + **H\.323** – **13\.248\.147\.139** or **76\.223\.18\.152**
 
 1. Choose **Call** and wait a few seconds to connect to Amazon Chime\.
 

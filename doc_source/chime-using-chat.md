@@ -9,6 +9,7 @@ The following statuses indicate whether a user is available to chat\.
 + Gray forward slash—The user is offline\.
 + Green mobile icon—The user is available on mobile\.
 + Gray lock icon—The user's presence is hidden\. To set this status, from a mobile device or the Amazon Chime web application, choose **Settings**, **Share availability information with No one**\.
++ Do not disturb icon—The user’s status is set to **Do not disturb**\. Their chat notifications and meeting auto\-calls are muted\.
 
 **Topics**
 + [Using One\-on\-One Chat](direct-chat.md)
