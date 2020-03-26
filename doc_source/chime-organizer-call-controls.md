@@ -25,13 +25,21 @@ Recorded meeting files tend to be a large size\. To share them with attendees, u
 
 ## Event Mode Actions<a name="event-actions"></a>
 
-The meeting host, delegate, or moderators who are signed in to the Amazon Chime app can turn on **Event Mode** after the meeting has started\. This sets the following controls:
-+ Attendees are muted\. Anyone who joins is muted immediately\.
-+ Attendees who are not presenters cannot mute other attendees, share their screen, or turn on their webcam\.
-+ Roster notifications are disabled for attendees who join, leave, or change status\.
-+ Attendees who try to perform a restricted task receive a message that the action has been disabled by the host\.
+The meeting host, delegate, or moderators who are signed in to the Amazon Chime app can turn on **Event Mode** after the meeting has started\. Turning on **Event Mode** causes the following to happen:
++ The meeting host, delegate, or moderators who are signed in to the Amazon Chime app are automatically granted presenter permissions\.
++ Attendees who are already in the meeting are muted\.
++ Attendees who join the meeting during **Event Mode** are muted, unless they are joining from an in\-room video conference system\. These attendees can mute themselves by using their video conference device, or another attendee can mute them in the Amazon Chime app\.
++ Only the attendees that are presenters can mute other presenters, share their screen, or turn on their webcam\.
++ Notifications are not displayed for the following roster event changes:
+  + Attendees joining the meeting
+  + Attendees leaving the meeting
+  + Attendees dropping from the meeting
++ Attendees who try to perform a restricted task receive a message that the action has been turned off by the host\.
++ If attendees join from an in\-room conference system after **Event Mode** is turned on, the video from their room is blocked and they are unable to share content\. Other attendees can view videos only from presenters or from in\-room conference systems that join before **Event Mode** is turned on\. Presenters can allow new rooms to join with video by turning off **Event Mode** before the new room joins\. However, any other rooms that joined while **Event Mode** was on must leave the meeting and join again to share their video and content\.
+**Note**  
+If attendees join from an in\-room conference system before **Event Mode** is turned on, the video from their room is not blocked and they are able to share content\.
 
-The meeting host, delegate, or moderators who are signed in to the Amazon Chime app are automatically granted presenter permissions\. They can promote an attendee to a presenter by following these steps:
+The meeting host, delegate, or moderators who are signed in to the Amazon Chime app can promote an attendee to a presenter by following these steps:
 
 **To promote an attendee to presenter**
 
@@ -41,9 +49,12 @@ The meeting host, delegate, or moderators who are signed in to the Amazon Chime 
 
 1. Attendees who are given permission to present are notified and identified by the Event Mode icon in the roster\.
 
+**Note**  
+The presenter role does not affect in\-room video conference systems\.
+
 The meeting host, delegate, or moderators who are signed in to the Amazon Chime app can also perform the following actions in Event Mode:
 + Turn off an attendee's ability to present by choosing a name on the roster and **Remove from Presenters**\.
-+ Turn Event Mode off by choosing the Event Mode icon and **Disable Event Mode**\. This allows attendees to mute, unmute, share their screen, and turn on video\.
++ Turn Event Mode off by choosing **More**, **Disable Event Mode**\. This allows attendees to mute, unmute, share their screen, and turn on video\.
 
 ## Remove Attendee Actions<a name="remove-actions"></a>
 
@@ -52,3 +63,15 @@ The meeting host, delegate, or moderators who are signed in to the Amazon Chime 
 ## Lock Meeting Actions<a name="lock-actions"></a>
 
 To prevent a removed attendee or an uninvited or unauthenticated user from joining a meeting, the meeting host, delegate, or moderators can lock the meeting\. If attendees with no Amazon Chime account or attendees who are not invited try to join a locked meeting, they receive a message that the meeting is locked\. Attendees who are signed in to their Amazon Chime accounts and are invited can still join the meeting, even if they have to drop and reconnect after the meeting is locked\. Attendees who join a locked meeting from an in\-room video system or by using the **Dial\-in** or **Switch to dial\-in** options must enter the 13\-digit meeting ID that appears in the Amazon Chime client or web app in order to join\.
+
+## Large Meeting Experience Settings<a name="large-meeting-settings"></a>
+
+For meetings that you host with more than 25 invitees and attendees, Amazon Chime applies the following large meeting experience settings:
++ New attendees are muted when they join the meeting, unless they are joining from an in\-room video system\.
++ Notifications are not displayed for the following roster event changes:
+  + Attendees joining the meeting
+  + Attendees leaving the meeting
+  + Attendees dropping from the meeting
+  + Invitees declining the meeting
++ Join and leave tones are turned off\.
++ Attendees who join from an Amazon Chime app receive a message in the meeting chat with information about the changed meeting experience for the large meeting\.

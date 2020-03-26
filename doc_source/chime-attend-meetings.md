@@ -6,7 +6,7 @@ There are several different ways you can join a meeting, depending on where you 
 + [Joining a Meeting](join-meetings.md)
 + [Using the Amazon Chime Roster](chime-roster.md)
 + [Chatting with Users](chime-chat.md)
-+ [Enabling Video](use-video.md)
++ [Using Video](use-video.md)
 + [Sharing Your Screen](screen-share.md)
 + [Requesting Desktop Control](remote-control.md)
 + [Muting and Unmuting](chime-mute.md)

@@ -29,7 +29,7 @@ Amazon's trademarks and trade dress may not be used in
       + [Joining a Meeting Early](join-meeting-early.md)
    + [Using the Amazon Chime Roster](chime-roster.md)
    + [Chatting with Users](chime-chat.md)
-   + [Enabling Video](use-video.md)
+   + [Using Video](use-video.md)
    + [Sharing Your Screen](screen-share.md)
    + [Requesting Desktop Control](remote-control.md)
    + [Muting and Unmuting](chime-mute.md)

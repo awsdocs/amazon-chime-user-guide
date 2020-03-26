@@ -10,13 +10,15 @@ You can schedule meetings with your existing calendar app\.
 
 1. For **Select your calendar app**, choose **Other**\.
 
-1. Create a new meeting in your calendar application\.
+1. In your calendar app, create a new meeting\.
 
-1. Choose **Copy addresses**, and paste the required email addresses into your calendar invite\.
+1. In the Amazon Chime app, choose **Copy addresses**, and paste the required email addresses into your calendar invitation\.
 
 1. Choose **Copy invitation**, and copy the invitation text into your calendar invitation\.
 
 1. \(Optional\) If you created a moderated meeting with a passcode, choose **Copy moderator info** and send the moderator information to one or more attendees who will act as meeting moderators\. Moderator information is not included in the Amazon Chime meeting invite and must be sent to moderators separately\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+
+1. In your calendar app, update the meeting invitation with additional attendees as needed\.
 
 1. Send the meeting invitation from your calendar app\.
 

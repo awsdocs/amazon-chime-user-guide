@@ -55,7 +55,7 @@ Supported versions:
 Supported devices:
 + iPad Air, Air 2, Mini, Mini 2, Mini 3, 4th generation, 3rd generation, iPad 2
 + iPhone 6 Plus, 6, 5S, 5C, 5, 4S
-+ iPod Touch 5th generation
++ iPod Touch 6th generation
 **Note**  
 PSTN dial\-in functionality is not available on devices without telephony\.
 

@@ -26,7 +26,8 @@ If there's no meeting, Alexa prompts you for the meeting ID\.
 ## Attending Meetings<a name="attend-dolby"></a>
 
 During meetings, you can perform the following actions:
-+ To share video from the room, choose **Enable video**\.
++ To stop or start sharing video from the room, choose **Video controls**, **My video**\.
++ To stop or start viewing attendee videos, choose **Video controls**, **Attendee videos**\.
 + To share content, choose **Share content** and one of the following options:
   + If your administrator has set up the whiteboard, choose **Whiteboard** to share content on a whiteboard in your room\.
   + To share content from your laptop screen, attach an HDMI cable from the hub to your laptop and choose **HDMI**\. You can also share content when you're not in a meeting by choosing **Share**, **HDMI**\.

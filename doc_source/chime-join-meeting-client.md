@@ -23,4 +23,8 @@ If you are joining a moderated meeting, the meeting window opens after a moderat
 
 If you don't see the meeting window open, choose **Home**, **Join Meeting**\. Choose your meeting from the list of meetings that appears\.
 
+To adjust your audio source during a meeting, choose **More** in the Windows client or **Settings** in the macOS client, then choose **Change audio**\.
+
+To change your default audio settings for Amazon Chime, choose **File**, **Settings**, **Audio** in the Windows client, or **Amazon Chime**, **Preferences**, **Audio** in the macOS client\.
+
 If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.

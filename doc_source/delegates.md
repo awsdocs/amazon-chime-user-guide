@@ -66,7 +66,7 @@ After you receive this information from your meeting host, schedule the meeting 
 
 1. Add the other meeting attendees to the appointment and finish scheduling it\.
 
-If you are scheduling back\-to\-back meetings, or if is it possible that a meeting might run over into the time slot for another meeting, use a different set of meeting information to schedule the other meetings\.
+If you are scheduling back\-to\-back meetings, or if it's possible that a meeting might run over into the time slot for another meeting, use a different set of meeting information to schedule the other meetings\.
 
 **Note**  
 As a delegate, do not use your own Amazon Chime meeting ID on a delegator's calendar\. This can cause a meeting scheduling failure or split meeting attendees onto different meeting bridges\.
