@@ -28,3 +28,17 @@ To adjust your audio source during a meeting, choose **More** in the Windows cli
 To change your default audio settings for Amazon Chime, choose **File**, **Settings**, **Audio** in the Windows client, or **Amazon Chime**, **Preferences**, **Audio** in the macOS client\.
 
 If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+
+## Using Headset Call Controls<a name="headset"></a>
+
+When you are signed in to the Amazon Chime client app for Windows or macOS, you can use a compatible headset device to join auto\-call meetings, leave meetings, answer incoming calls, end calls, mute audio, and adjust volume\. 
+
+The following headset brands are compatible:
++ Jabra
++ Poly \(including Plantronics\)
++ Sennheiser
+
+The following headset types are compatible:
++ USB
++ DECT with USB base station
++ Bluetooth with USB dongle
