@@ -4,4 +4,6 @@ To turn on your webcam and view videos during an Amazon Chime meeting, choose **
 
 You can also watch videos without turning on your own\. To turn off video, either hover over your tile and choose the camera icon, or choose **Video**\. If you don’t want to see the video of yourself, choose **Settings**, **Show Preview for my Own Video**\.
 
-To change your video source during a meeting, choose **More** in the Windows client or **Settings** in the macOS client, then choose **Change video**\. To change your default video settings for Amazon Chime, choose **File**, **Settings**, **Video** in the Windows client, or **Amazon Chime**, **Preferences**, **Video** in the macOS client\.
+To change your video source during a meeting, choose **More** in the Windows client or **Settings** in the macOS client, then choose **Change video**\. If you are using the Amazon Chime web application, you can select your video source when you turn on video in the meeting\.
+
+To change your default video settings for Amazon Chime, choose **File**, **Settings**, **Video** in the Windows client, or **Amazon Chime**, **Preferences**, **Video** in the macOS client\.

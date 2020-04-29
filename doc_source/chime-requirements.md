@@ -27,7 +27,7 @@ Screen share configuration requirements:
 ## macOS<a name="mac"></a>
 
 Supported versions:
-+ OS X 10\.10 and later
++ OS X 10\.11 and later
 
 Hardware requirements:
 + Microphone and speakers \(for phone calls\)

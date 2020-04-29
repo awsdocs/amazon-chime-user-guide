@@ -42,3 +42,6 @@ The following headset types are compatible:
 + USB
 + DECT with USB base station
 + Bluetooth with USB dongle
+
+**Note**  
+Some headset devices might play audio cues when the headset call controls are used\. You can turn off those audio cues by adjusting your headset device settings in the headset vendor's software\.
