@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Attendee Access Options](#doc-history) | Set attendee access options for meetings that you schedule\. For more information, see [Choosing a Meeting Type](https://docs.aws.amazon.com/chime/latest/ug/personal-ID.html) in the Amazon Chime User Guide\. | May 4, 2020 | 
 | [Large Meeting Experience](#doc-history) | For meetings that you host with more than 25 invitees and attendees, Amazon Chime applies large meeting experience settings\. For more information, see [Large Meeting Experience Settings](https://docs.aws.amazon.com/chime/latest/ug/chime-organizer-call-controls.html#large-meeting-settings) in the Amazon Chime User Guide\. | March 25, 2020 | 
 | [Do Not Disturb Status](#doc-history) | **Do not disturb** status is available for Amazon Chime users\. For more information, see [Collaborating Using Amazon Chime Chat](https://docs.aws.amazon.com/chime/latest/ug/chime-using-chat.html) in the Amazon Chime User Guide\. | February 5, 2020 | 
 | [Amazon Chime Meetings App for Slack](#doc-history) | Amazon Chime supports the Amazon Chime Meetings App for Slack\. For more information, see [Using the Amazon Chime Meetings App for Slack](https://docs.aws.amazon.com/chime/latest/ug/using-slack.html) in the Amazon Chime User Guide\. | December 4, 2019 | 

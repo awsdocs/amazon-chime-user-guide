@@ -62,4 +62,4 @@ Amazon's trademarks and trade dress may not be used in
    + [Supported Commands](assistant-commands.md)
 + [Getting User Support](chime-getting-support.md)
 + [Document History](doc-history.md)
-+ [AWS Glossary](glossary.md)
++ [AWS glossary](glossary.md)
