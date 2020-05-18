@@ -24,7 +24,7 @@ If you are using the Amazon Chime web application, you can share the chat room U
 
 ## Administering a Chat Room<a name="chat-admins"></a>
 
-Chat room administrators have a crown icon next their names\. Administrators can add or edit members, edit the chat room name and invite policy, and delete the chat room and thread history under **Settings**\. Chat room administrators can also add chat bots to chat rooms if the Amazon Chime account administrator has enabled chat bots for the account\. For more information, see [Using Chat Bots](chat-bots.md)\.
+Chat room administrators have a crown icon next their names\. Administrators can add or edit members, edit the chat room name and invite policy, and delete the chat room and thread history under **Settings**\. Chat room administrators can also add chatbots to chat rooms if the Amazon Chime account administrator has enabled chatbots for the account\. For more information, see [Using Chatbots](chat-bots.md)\.
 
 Administrators can't leave the chat room if they are the only administrator\. They must promote another member to administrator before they leave\.
 

@@ -9,7 +9,7 @@ Searches your contacts, conversations, and chat rooms and starts displaying resu
 Shows a preview of content, such as titles, descriptions, and thumbnails, when pasting URLs to external sites\.
 
 **Message actions**  
-Message actions display in the menu next to a message\. Use **Copy this message** to copy the message to your clipboard\. Use **Quote this message** to insert the selected message into your compose message field as a quotation, using markdown\. Quoting a message lets you respond to previous messages in context\.
+Message actions display in the menu next to a message\. Choose **Copy** to copy the message to your clipboard\. Choose **Quote message** to insert the selected message into your compose message field as a quotation\. To report a message to your administrator for removal, choose **Copy message ID** to copy the message ID information to your clipboard, then send the information to your administrator\.
 
 **Rich text support for markdown and code blocks**  
 Use [markdown syntax](http://commonmark.org/help) to format text using bold font, lists, and heading levels, and other options\. Amazon Chime also supports sending code blocks\. For more information, see [Sending Markdown Messages](#send-chat-markdown) and [Sending Code Blocks in Messages](#send-chat-code)\.
@@ -24,7 +24,7 @@ Drag and drop files into the chat pane, or copy and paste images directly from y
 
 To send an Amazon Chime chat message using [markdown syntax](http://commonmark.org/help), type `/md` followed by a space at the beginning of your message\. Compose your message using markdown syntax\. Press **Enter** to send\.
 
-The following example demonstrates how to format a Amazon Chime chat message using markdown syntax\.
+The following example demonstrates how to format an Amazon Chime chat message using markdown syntax\.
 
 ```
 /md **Hello world!**
@@ -40,7 +40,7 @@ Hello world!
 
 To send a code block in an Amazon Chime chat message, type `/code` followed by a space at the beginning of your message\. Copy and paste your code block into the message\. Press **Enter** to send\.
 
-The following example demonstrates how to send a code block in a Amazon Chime chat message\.
+The following example demonstrates how to send a code block in an Amazon Chime chat message\.
 
 ```
 /code CreateBotRequest createBotRequest = new CreateBotRequest()
