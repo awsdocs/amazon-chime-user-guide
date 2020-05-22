@@ -19,7 +19,7 @@ Amazon Chime chat room administrators can use the following procedure to add a w
 
 1. In the **Manage webhooks** dialog box, choose **New**, enter a name for the webhook, and choose **Create**\.
 
-1. Verify that the webhook that you created is listed, and choose **Copy webhook URL**\.
+1. Verify that the webhook that you created is listed, and choose **Copy webhook URL** to copy the webhook URL to your clipboard\.
 
 1. Send the webhook URL to the webhook developer\.
 

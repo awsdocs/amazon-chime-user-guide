@@ -15,7 +15,7 @@ Message actions display in the menu next to a message\. Choose **Copy** to copy 
 Use [markdown syntax](http://commonmark.org/help) to format text using bold font, lists, and heading levels, and other options\. Amazon Chime also supports sending code blocks\. For more information, see [Sending Markdown Messages](#send-chat-markdown) and [Sending Code Blocks in Messages](#send-chat-code)\.
 
 **Emoji and \.gif support**  
-To insert an emoji, choose **Pick an emoji** next to the chat input field\. Choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\.
+To insert an emoji, choose **Pick an emoji** next to the chat input field\. Choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\. For more information about using markdown, see [Sending Markdown Messages](#send-chat-markdown)\.
 
 **Drag and drop files**  
 Drag and drop files into the chat pane, or copy and paste images directly from your clipboard\.
@@ -34,6 +34,12 @@ The following example demonstrates how the sent message appears in Amazon Chime\
 
 ```
 Hello world!
+```
+
+The following example demonstrates how to format a web link to a \.gif file using markdown syntax\. This displays the \.gif file in your Amazon Chime chat message\.
+
+```
+/md ![](https://example.com/filename.gif)
 ```
 
 ## Sending Code Blocks in Messages<a name="send-chat-code"></a>
