@@ -1,4 +1,4 @@
-# Joining a Meeting Using an In\-Room Video Conference System<a name="chime-join-meeting-conference-room"></a>
+# Joining a meeting using an in\-room video conference system<a name="chime-join-meeting-conference-room"></a>
 
 To join Amazon Chime meetings with video and audio from an in\-room system, you can do so by using the SIP or H\.323 protocol\.
 
@@ -20,4 +20,4 @@ If you enter the 13\-digit meeting ID, generated using an Amazon Chime client, y
 
 If you are joining a moderated meeting, you are unable to interact with other attendees until a moderator joins and starts the meeting\.
 
-If you have the moderator passcode, enter the passcode to join as a moderator and start the meeting\. Moderators who join a moderated a meeting using a supported in\-room video system can also perform additional actions from the dialpad\. For more information about moderator dialpad actions, see [Moderator Actions using Phone or In\-room Video System](moderate-meeting.md#actions-phone-vid)\. For more information about moderated meetings, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+If you have the moderator passcode, enter the passcode to join as a moderator and start the meeting\. Moderators who join a moderated a meeting using a supported in\-room video system can also perform additional actions from the dialpad\. For more information about moderator dialpad actions, see [Moderator actions using phone or in\-room video systems](moderate-meeting.md#actions-phone-vid)\. For more information about moderated meetings, see [Scheduling a moderated meeting](moderate-meeting.md)\.

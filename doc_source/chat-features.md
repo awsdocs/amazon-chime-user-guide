@@ -1,4 +1,4 @@
-# Using Chat Features<a name="chat-features"></a>
+# Using chat features<a name="chat-features"></a>
 
 You can use the following features with Amazon Chime chat\.
 
@@ -12,15 +12,15 @@ Shows a preview of content, such as titles, descriptions, and thumbnails, when p
 Message actions display in the menu next to a message\. Choose **Copy** to copy the message to your clipboard\. Choose **Quote message** to insert the selected message into your compose message field as a quotation\. To report a message to your administrator for removal, choose **Copy message ID** to copy the message ID information to your clipboard, then send the information to your administrator\.
 
 **Rich text support for markdown and code blocks**  
-Use [markdown syntax](http://commonmark.org/help) to format text using bold font, lists, and heading levels, and other options\. Amazon Chime also supports sending code blocks\. For more information, see [Sending Markdown Messages](#send-chat-markdown) and [Sending Code Blocks in Messages](#send-chat-code)\.
+Use [markdown syntax](http://commonmark.org/help) to format text using bold font, lists, and heading levels, and other options\. Amazon Chime also supports sending code blocks\. For more information, see [Sending markdown messages](#send-chat-markdown) and [Sending code blocks in messages](#send-chat-code)\.
 
 **Emoji and \.gif support**  
-To insert an emoji, choose **Pick an emoji** next to the chat input field\. Choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\. For more information about using markdown, see [Sending Markdown Messages](#send-chat-markdown)\.
+To insert an emoji, choose **Pick an emoji** next to the chat input field\. Choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\. For more information about using markdown, see [Sending markdown messages](#send-chat-markdown)\.
 
 **Drag and drop files**  
 Drag and drop files into the chat pane, or copy and paste images directly from your clipboard\.
 
-## Sending Markdown Messages<a name="send-chat-markdown"></a>
+## Sending markdown messages<a name="send-chat-markdown"></a>
 
 To send an Amazon Chime chat message using [markdown syntax](http://commonmark.org/help), type `/md` followed by a space at the beginning of your message\. Compose your message using markdown syntax\. Press **Enter** to send\.
 
@@ -42,7 +42,7 @@ The following example demonstrates how to format a web link to a \.gif file usin
 /md ![](https://example.com/filename.gif)
 ```
 
-## Sending Code Blocks in Messages<a name="send-chat-code"></a>
+## Sending code blocks in messages<a name="send-chat-code"></a>
 
 To send a code block in an Amazon Chime chat message, type `/code` followed by a space at the beginning of your message\. Copy and paste your code block into the message\. Press **Enter** to send\.
 

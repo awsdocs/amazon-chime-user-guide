@@ -20,9 +20,9 @@ Is the camera connected and turned on?
 Confirm your default system camera\.  
 Check your browser settings to confirm that Amazon Chime is allowed to access your camera\.
 
-**Screen Share**  
+**Screen share**  
 Are you using the Google Chrome or Mozilla Firefox browser?  
 Update your browser to the latest version\. Screen share is available for Chrome version 72 and Firefox version 66 or later, and native Amazon Chime desktop applications\.
 
 **Connectivity**  
-For detailed information about connectivity requirements, see [Network Configuration and Bandwidth Requirements](https://docs.aws.amazon.com/chime/latest/ag/network-config.html) in the *Amazon Chime Administrator Guide*\.
+For detailed information about connectivity requirements, see [Network configuration and bandwidth requirements](https://docs.aws.amazon.com/chime/latest/ag/network-config.html) in the *Amazon Chime Administrator Guide*\.

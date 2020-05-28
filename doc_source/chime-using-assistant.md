@@ -5,8 +5,8 @@ The Amazon Chime Assistant is a self\-service tool that you can use to get attac
 You must meet the following requirements to use the tool:
 + You are a registered user\.
 + You're using an Amazon Chime client\.
-+ You aren't a managed user associated with an Amazon Chime account \(that is, you didn't accept a team invite or weren't added to an enterprise account\)\.
++ You aren't a managed user who is associated with an Amazon Chime account\. \(That is, you didn't accept an invitation to a Team account, and you weren't added to an Enterprise account\)\.
 
 **Topics**
-+ [Setting Up the Amazon Chime Assistant](setup-assistant.md)
-+ [Supported Commands](assistant-commands.md)
++ [Setting up the Amazon Chime Assistant](setup-assistant.md)
++ [Supported commands](assistant-commands.md)

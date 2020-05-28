@@ -1,4 +1,4 @@
-# Using the Amazon Chime Roster<a name="chime-roster"></a>
+# Using the Amazon Chime roster<a name="chime-roster"></a>
 
 The Amazon Chime meeting roster gives you visibility into who is on the call, running late, using video, muting, and more\. Users appear in the list of attendees after they join, and users that were invited but haven't joined yet appear in the **Invited** section\. Users that are running late appear under **Running Late**, and users that leave appear under **Left**\. Users whose connections have dropped appear in the **Dropped** section\.
 

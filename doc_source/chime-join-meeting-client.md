@@ -1,8 +1,8 @@
-# Joining an Auto\-call Meeting Using the Amazon Chime Client<a name="chime-join-meeting-client"></a>
+# Joining an auto\-call meeting using the Amazon Chime client<a name="chime-join-meeting-client"></a>
 
-If a meeting has been set up for Auto\-call, you can join the meeting by using the Amazon Chime client\.
+If a meeting has been set up for auto\-call, you can join the meeting by using the Amazon Chime client\.
 
-**To join an Auto\-call meeting using the Amazon Chime client**
+**To join an auto\-call meeting using the Amazon Chime client**
 
 1. Sign in to the Amazon Chime client app on your Windows or macOS device\.
 
@@ -27,9 +27,9 @@ To adjust your audio source during a meeting, choose **More** in the Windows cli
 
 To change your default audio settings for Amazon Chime, choose **File**, **Settings**, **Audio** in the Windows client, or **Amazon Chime**, **Preferences**, **Audio** in the macOS client\.
 
-If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.
 
-## Using Headset Call Controls<a name="headset"></a>
+## Using headset call controls<a name="headset"></a>
 
 When you are signed in to the Amazon Chime client app for Windows or macOS, you can use a compatible headset device to join auto\-call meetings, leave meetings, answer incoming calls, end calls, mute audio, and adjust volume\. 
 

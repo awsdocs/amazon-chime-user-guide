@@ -1,4 +1,4 @@
-# Collaborating Using Amazon Chime Chat<a name="chime-using-chat"></a>
+# Collaborating using Amazon Chime chat<a name="chime-using-chat"></a>
 
 You can use Amazon Chime to chat with colleagues directly, in a group, or in a chat room\. You can share attachments up to 50 megabytes, search contacts, conversations, and chat rooms, and read conversations across all devices\. Go to **Recent Messages** to see the latest one\-on\-one and groups messages from the past 7 days, or choose **All messages** to browse through all of your chat conversation history\. Use **Favorites** to organize important threads\.
 
@@ -12,9 +12,9 @@ The following statuses indicate whether a user is available to chat\.
 + Do not disturb icon—The user’s status is set to **Do not disturb**\. Their chat notifications and meeting auto\-calls are muted\.
 
 **Topics**
-+ [Using One\-on\-One Chat](direct-chat.md)
-+ [Using Group Chats](group-chat.md)
-+ [Creating a Chat Room](chime-chat-room.md)
-+ [Using Chat Features](chat-features.md)
-+ [Adding Webhooks to Chat Rooms](webhooks.md)
-+ [Using Chatbots](chat-bots.md)
++ [Using one\-on\-one chat](direct-chat.md)
++ [Using group chats](group-chat.md)
++ [Creating a chat room](chime-chat-room.md)
++ [Using chat features](chat-features.md)
++ [Adding webhooks to chat rooms](webhooks.md)
++ [Using chatbots](chat-bots.md)

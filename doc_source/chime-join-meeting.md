@@ -1,10 +1,10 @@
-# Joining a Meeting without the Amazon Chime App<a name="chime-join-meeting"></a>
+# Joining a meeting without the Amazon Chime app<a name="chime-join-meeting"></a>
 
 If you don't have the Amazon Chime app installed, you can still join a meeting if the host includes meeting instructions in the calendar invite\.
 
 If you are using the latest three versions of Mozilla Firefox or Google Chrome, you can join meetings with the Amazon Chime web app\. Using the web app lets you share your screen or an application window, and see in your browser when someone shares their screen\. You can also hear the meeting's audio through your computer or dial\-in, participate in meeting chat, and use Amazon Chime meeting controls\.
 
-If you are joining a moderated meeting, you are unable to interact with other attendees until a moderator joins and starts the meeting\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+If you are joining a moderated meeting, you are unable to interact with other attendees until a moderator joins and starts the meeting\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.
 
 If your administrator has enabled the Amazon Chime call me feature, you can choose **Call me at a phone number** to have Amazon Chime call you at your preferred phone number\.
 
@@ -22,7 +22,7 @@ If your administrator has enabled the Amazon Chime call me feature, you can choo
 **Note**  
 If the host’s administrator enabled the call me feature, you can choose **Call me at a phone number**, select a supported country, and provide a phone number for Amazon Chime to call you for the meeting\.
 
-Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a complete list of supported browsers, see [System Requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
+Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a complete list of supported browsers, see [System requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
 
 **To join a meeting from the meeting invite with the simple screen share viewer**
 

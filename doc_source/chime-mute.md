@@ -1,4 +1,4 @@
-# Muting and Unmuting<a name="chime-mute"></a>
+# Muting and unmuting<a name="chime-mute"></a>
 
 You can mute and unmute your audio using the Amazon Chime application\.
 

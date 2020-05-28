@@ -1,4 +1,4 @@
-# Joining a Meeting<a name="join-meetings"></a>
+# Joining a meeting<a name="join-meetings"></a>
 
 There are several ways you can join an Amazon Chime meeting based on the way your environment is set up and the features that you want to use\. To determine the best way to join, review the following criteria to see which items apply to you\.
 + Audio configurations
@@ -14,9 +14,9 @@ To avoid an echo, choose one audio source for each room\.
   + If you want to use the video features, you can use the Amazon Chime client running on a Windows, macOS, or iOS device, or via an in\-room video system\.
 
 **Topics**
-+ [Joining an Auto\-call Meeting Using the Amazon Chime Client](chime-join-meeting-client.md)
-+ [Joining a Meeting Using the Amazon Chime Mobile App](chime-join-meeting-mobile-app.md)
-+ [Joining a Meeting Using an In\-Room Video Conference System](chime-join-meeting-conference-room.md)
-+ [Joining a Meeting without the Amazon Chime App](chime-join-meeting.md)
-+ [Joining a Meeting Anonymously](join-anonymous.md)
-+ [Joining a Meeting Early](join-meeting-early.md)
++ [Joining an auto\-call meeting using the Amazon Chime client](chime-join-meeting-client.md)
++ [Joining a meeting using the Amazon Chime mobile app](chime-join-meeting-mobile-app.md)
++ [Joining a meeting using an in\-room video conference system](chime-join-meeting-conference-room.md)
++ [Joining a meeting without the Amazon Chime app](chime-join-meeting.md)
++ [Joining a meeting anonymously](join-anonymous.md)
++ [Joining a meeting early](join-meeting-early.md)

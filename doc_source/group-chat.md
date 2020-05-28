@@ -1,4 +1,4 @@
-# Using Group Chats<a name="group-chat"></a>
+# Using group chats<a name="group-chat"></a>
 
 **To send the same messages to multiple users**
 

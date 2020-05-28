@@ -1,4 +1,4 @@
-# Joining a Meeting Anonymously<a name="join-anonymous"></a>
+# Joining a meeting anonymously<a name="join-anonymous"></a>
 
 If you don't have an Amazon Chime account, you can join a meeting anonymously\.
 
@@ -10,4 +10,4 @@ If you don't have an Amazon Chime account, you can join a meeting anonymously\.
 
 1. Select your dial\-in options, and choose **Continue in Amazon Chime app**\.
 
-If you are joining a moderated meeting, you are unable to interact with other attendees until a moderator joins and starts the meeting\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+If you are joining a moderated meeting, you are unable to interact with other attendees until a moderator joins and starts the meeting\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.

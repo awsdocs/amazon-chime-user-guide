@@ -1,4 +1,4 @@
-# Joining a Meeting Using the Amazon Chime Mobile App<a name="chime-join-meeting-mobile-app"></a>
+# Joining a meeting using the Amazon Chime mobile app<a name="chime-join-meeting-mobile-app"></a>
 
 If you have the Amazon Chime client app installed and have signed in from your iOS or Android device at least one time, you can join a meeting using the Amazon Chime mobile app\.
 
@@ -25,9 +25,9 @@ If you are joining a moderated meeting, the **Message all** option and other att
 
      1. Choose **Call**\.
 
-If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.
 
-## Amazon Chime Mobile App Options<a name="app-options"></a>
+## Amazon Chime mobile app options<a name="app-options"></a>
 
 If you have the Amazon Chime client app installed on a mobile device, you can choose how you receive inbound meetings and calls on that device\. The following options are provided in the settings that control how you are notified for Amazon Chime meetings and calls:
 + **Call this device for scheduled meetings \(on by default\)** – Your device rings for both scheduled, occasional, and instant meetings\. Turn this setting off if you do not want this device to ring when a scheduled meeting begins\. However, the device still rings for occasional and instant meetings\.

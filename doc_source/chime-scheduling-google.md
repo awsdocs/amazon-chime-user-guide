@@ -1,4 +1,4 @@
-# Scheduling Meetings with Google Calendar<a name="chime-scheduling-google"></a>
+# Scheduling meetings with Google Calendar<a name="chime-scheduling-google"></a>
 
 If you use Google Calendar, you can also schedule Amazon Chime meetings\.
 
@@ -29,7 +29,7 @@ To create a moderated meeting as a delegate, ask the meeting host to perform the
 + For **Copy attendee invitation**, the meeting instructions to include in the meeting invitation\.
 + For **Copy moderator info**, the moderator meeting instructions and passcode, to be sent only to the meeting moderators\.
 
-Create a new meeting on the host's calendar and use the information above to populate the **Add guests** and **Add description** fields\. Send the moderator passcode to the meeting moderators separately\. For more information about moderated meetings, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+Create a new meeting on the host's calendar and use the information above to populate the **Add guests** and **Add description** fields\. Send the moderator passcode to the meeting moderators separately\. For more information about moderated meetings, see [Scheduling a moderated meeting](moderate-meeting.md)\.
 
 **To add Amazon Chime to an existing Google Calendar meeting**
 

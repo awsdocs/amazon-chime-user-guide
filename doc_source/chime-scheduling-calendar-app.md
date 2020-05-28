@@ -1,4 +1,4 @@
-# Scheduling Meetings with a Calendar App<a name="chime-scheduling-calendar-app"></a>
+# Scheduling meetings with a calendar app<a name="chime-scheduling-calendar-app"></a>
 
 You can schedule meetings with your existing calendar app\.
 
@@ -16,7 +16,7 @@ You can schedule meetings with your existing calendar app\.
 
 1. Choose **Copy invitation**, and copy the invitation text into your calendar invitation\.
 
-1. \(Optional\) If you created a moderated meeting with a passcode, choose **Copy moderator info** and send the moderator information to one or more attendees who will act as meeting moderators\. Moderator information is not included in the Amazon Chime meeting invite and must be sent to moderators separately\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+1. \(Optional\) If you created a moderated meeting with a passcode, choose **Copy moderator info** and send the moderator information to one or more attendees who will act as meeting moderators\. Moderator information is not included in the Amazon Chime meeting invite and must be sent to moderators separately\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.
 
 1. In your calendar app, update the meeting invitation with additional attendees as needed\.
 

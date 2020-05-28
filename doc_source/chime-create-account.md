@@ -1,4 +1,4 @@
-# Creating an Amazon Chime Account<a name="chime-create-account"></a>
+# Creating an Amazon Chime account<a name="chime-create-account"></a>
 
 To join a Amazon Chime team, first download Amazon Chime and create an account\. Then you can set a personalized meeting link, add contacts, and start to schedule meetings\.
 
@@ -6,7 +6,7 @@ To join a Amazon Chime team, first download Amazon Chime and create an account\.
 
 To begin, first download and install the Amazon Chime client from [Download Amazon Chime](http://aws.amazon.com/chime/download-chime/), or access the Amazon Chime web client at [https://app\.chime\.aws/](https://app.chime.aws/)\.
 
-## Creating an Amazon Chime Account<a name="create-account"></a>
+## Creating an Amazon Chime account<a name="create-account"></a>
 
 Use the following steps to create your Amazon Chime account\.
 
@@ -22,7 +22,7 @@ Use the following steps to create your Amazon Chime account\.
 
 1. If want to install Amazon Chime on other mobile or desktop devices, repeat the steps above and use the same log\-in credentials\. All of your devices are synced together\.
 
-## Setting a Personalized Link<a name="set-link"></a>
+## Setting a personalized link<a name="set-link"></a>
 
 You can create a personalized meeting link that generates a friendly name for your meeting\.
 
@@ -38,7 +38,7 @@ You can create a personalized meeting link that generates a friendly name for yo
 
 1. Choose **Save**\.
 
-## Adding Contacts<a name="contacts"></a>
+## Adding contacts<a name="contacts"></a>
 
 Use the following steps to add a contact\.
 
@@ -62,6 +62,6 @@ If the contact does not appear in your search, choose **Invite contact** to send
 
 1. Choose **Add to my contacts**\.
 
-## Scheduling Meetings<a name="schedule"></a>
+## Scheduling meetings<a name="schedule"></a>
 
-For information about how to start scheduling meetings, see [Scheduling Meetings Using Amazon Chime](chime-schedule-meetings.md)\.
+For information about how to start scheduling meetings, see [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\.

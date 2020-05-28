@@ -2,11 +2,11 @@
 
 If Dolby Voice Room is enabled with Amazon Chime, you can join an Amazon Chime meeting quickly from a conference room\. When Alexa for Business is enabled, you can also ask Alexa to join a meeting\. With in\-room calendar integration, you can quickly select a meeting with a single tap\. And if Amazon Chime Business Calling is enabled, you can receive inbound and place outbound calls\.
 
-## Scheduling Meetings<a name="schedule-dolby"></a>
+## Scheduling meetings<a name="schedule-dolby"></a>
 
 You can use any of the Amazon Chime schedule meeting tools to schedule meetings\. From an Amazon Chime desktop or web client, choose **More** and **Schedule a meeting**, or use either of the Outlook add\-ins\. When meet@chime\.aws is invited to your meeting, along with the meeting room or a user that has a dedicated device, you can use the one\-touch option to join the meeting displayed on the device or Alexa for Business\.
 
-## Joining Meetings<a name="join-dolby"></a>
+## Joining meetings<a name="join-dolby"></a>
 
 There are several options to choose from when joining a meeting\.
 
@@ -23,7 +23,7 @@ If there's no meeting, Alexa prompts you for the meeting ID\.
 
   If the meeting is moderated and you are the moderator, choose **Enter moderator passcode** when prompted\.
 
-## Attending Meetings<a name="attend-dolby"></a>
+## Attending meetings<a name="attend-dolby"></a>
 
 During meetings, you can perform the following actions:
 + To stop or start sharing video from the room, choose **Video controls**, **My video**\.
@@ -38,13 +38,13 @@ During meetings, you can perform the following actions:
 + To mute and unmute the device, press the microphone button on the conference phone\. When the device is muted, the ring on top of the phone will turn red\.
 + To exit the meeting, choose **Leave meeting**\.
 
-## Making Amazon Chime Business Calls<a name="dolby-calls"></a>
+## Making Amazon Chime Business Calling phone calls<a name="dolby-calls"></a>
 
 If your administrator has enabled outbound calling using Amazon Chime Business Calling, from the Amazon Chime home screen of the device, tap **Call**, enter the phone number, and then tap **Call** to place the call\.
 
 If your administrator has enabled inbound calling using Amazon Chime Business Calling, from the Amazon Chime home screen of the device, tap **Answer** to connect to the incoming call or say “Alexa, answer the call\.”
 
-## Viewing Meeting and Phone Information<a name="dolby-info"></a>
+## Viewing meeting and phone information<a name="dolby-info"></a>
 
 From any Amazon Chime screen on the device, tap **Settings** and **Meeting and phone information** to view the following information:
 + **Meeting room name**

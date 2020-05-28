@@ -1,4 +1,4 @@
-# Supported Commands<a name="assistant-commands"></a>
+# Supported commands<a name="assistant-commands"></a>
 
 The Assistant supports the following commands: 
 + **Get my attachments** allows you to access attachments that you uploaded to 1:1 chat, group chat, and chat rooms that you created\.

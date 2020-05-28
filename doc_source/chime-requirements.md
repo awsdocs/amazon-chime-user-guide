@@ -1,4 +1,4 @@
-# System Requirements<a name="chime-requirements"></a>
+# System requirements<a name="chime-requirements"></a>
 
 Before you get set up with Amazon Chime, first make sure that you meet the following requirements for your operating system\.
 
@@ -55,7 +55,7 @@ Supported versions:
 Hardware requirements:
 + PSTN dial\-in functionality is not available on devices without telephony\.
 
-## Browser Requirements<a name="browser"></a>
+## Browser requirements<a name="browser"></a>
 
 The following browsers are supported for the Amazon Chime web application\. To open the application, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) from your web browser\.
 + Browsers supported for chat:

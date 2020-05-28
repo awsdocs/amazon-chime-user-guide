@@ -1,10 +1,10 @@
-# Requesting Desktop Control<a name="remote-control"></a>
+# Requesting desktop control<a name="remote-control"></a>
 
 Requesting desktop control can be useful for demonstration or troubleshooting purposes\. If you want to take control of another attendee's desktop, you must meet the following requirements:
 + Both you and the other attendee must be using the Amazon Chime desktop client for Windows or macOS\.
 + The other attendee must share their entire desktop instead of only a window\.
 
-For more information about screen sharing, see [Sharing Your Screen](screen-share.md)\.
+For more information about screen sharing, see [Sharing your screen](screen-share.md)\.
 
 **To request desktop control**
 

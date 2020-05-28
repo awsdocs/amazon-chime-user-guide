@@ -1,4 +1,4 @@
-# Setting Up the Amazon Chime Assistant<a name="setup-assistant"></a>
+# Setting up the Amazon Chime Assistant<a name="setup-assistant"></a>
 
 You must set up the Assistant before you can begin using it\.
 
@@ -14,4 +14,4 @@ You must set up the Assistant before you can begin using it\.
 
 1. Choose **Message** and add **Amazon Chime Assistant** in the **To:** field\.
 
-1. Enter a supported command\. For more information, see [Supported Commands](assistant-commands.md)\.
+1. Enter a supported command\. For more information, see [Supported commands](assistant-commands.md)\.
