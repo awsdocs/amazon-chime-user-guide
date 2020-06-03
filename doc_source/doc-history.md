@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Amazon Chime on Dolby Voice Huddle](#doc-history) | If Dolby Voice Huddle is enabled with Amazon Chime, you can join an Amazon Chime meeting quickly from a conference room\. For more information, see [Using Amazon Chime on Dolby Hardware](https://docs.aws.amazon.com/chime/latest/ug/using-dolby.html) in the Amazon Chime User Guide\. | June 3, 2020 | 
 | [Attendee access options](#doc-history) | Set attendee access options for meetings that you schedule\. For more information, see [Choosing a meeting type](https://docs.aws.amazon.com/chime/latest/ug/personal-ID.html) in the Amazon Chime User Guide\. | May 4, 2020 | 
 | [Large meeting experience](#doc-history) | For meetings that you host with more than 25 invitees and attendees, Amazon Chime applies large meeting experience settings\. For more information, see [Large meeting experience settings](https://docs.aws.amazon.com/chime/latest/ug/chime-organizer-call-controls.html#large-meeting-settings) in the Amazon Chime User Guide\. | March 25, 2020 | 
 | [Do not disturb status](#doc-history) | **Do not disturb** status is available for Amazon Chime users\. For more information, see [Collaborating using Amazon Chime chat](https://docs.aws.amazon.com/chime/latest/ug/chime-using-chat.html) in the Amazon Chime User Guide\. | February 5, 2020 | 
