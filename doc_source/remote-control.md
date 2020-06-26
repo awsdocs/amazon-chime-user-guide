@@ -4,7 +4,7 @@ Requesting desktop control can be useful for demonstration or troubleshooting pu
 + Both you and the other attendee must be using the Amazon Chime desktop client for Windows or macOS\.
 + The other attendee must share their entire desktop instead of only a window\.
 
-For more information about screen sharing, see [Sharing your screen](screen-share.md)\.
+For more information about screen sharing, see [Sharing your screen during an Amazon Chime meeting](screen-share.md)\.
 
 **To request desktop control**
 

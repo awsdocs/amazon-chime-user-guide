@@ -1,4 +1,4 @@
-# Using video<a name="use-video"></a>
+# Using video during an Amazon Chime meeting<a name="use-video"></a>
 
 To turn on your webcam and view videos during an Amazon Chime meeting, choose **Video**\. Up to 16 attendee video tiles are displayed on a first\-come, first\-served basis\. To pause or play an attendee's video, choose the video tile\. Attendees don't know when they've been paused\.
 

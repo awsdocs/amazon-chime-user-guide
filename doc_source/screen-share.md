@@ -1,6 +1,6 @@
-# Sharing your screen<a name="screen-share"></a>
+# Sharing your screen during an Amazon Chime meeting<a name="screen-share"></a>
 
-Anyone joining a meeting with a supported Amazon Chime app can share their screen or request access control\.
+Anyone joining a meeting with a supported Amazon Chime app can share their screen\. You can also stop notifications from appearing while you're sharing your screen\.
 
 To share your screen, choose **Screen**, and then choose **Share Screen** to share your whole screen, or **Share Window** to share a specific window\. Desktop users see a **Shared screen** pop\-up, and mobile users see an alert to ignore or view the shared screen\.
 

@@ -12,8 +12,8 @@ The following statuses indicate whether a user is available to chat\.
 + Do not disturb icon—The user’s status is set to **Do not disturb**\. Their chat notifications and meeting auto\-calls are muted\.
 
 **Topics**
-+ [Using one\-on\-one chat](direct-chat.md)
-+ [Using group chats](group-chat.md)
++ [Chatting with another user in Amazon Chime](direct-chat.md)
++ [Chatting with multiple users in Amazon Chime](group-chat.md)
 + [Creating a chat room](chime-chat-room.md)
 + [Using chat features](chat-features.md)
 + [Adding webhooks to chat rooms](webhooks.md)

@@ -14,7 +14,7 @@ To start a meeting right away rather than scheduling in advance, you can use ins
 
 **To start a call from chat**
 
-1. [Using one\-on\-one chat](direct-chat.md) or [Using group chats](group-chat.md)\.
+1. [Chatting with another user in Amazon Chime](direct-chat.md) or [Chatting with multiple users in Amazon Chime](group-chat.md)\.
 
 1. Choose the phone icon in the top\-right corner of the screen\.
 

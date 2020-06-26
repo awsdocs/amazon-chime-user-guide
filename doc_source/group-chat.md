@@ -1,4 +1,4 @@
-# Using group chats<a name="group-chat"></a>
+# Chatting with multiple users in Amazon Chime<a name="group-chat"></a>
 
 **To send the same messages to multiple users**
 

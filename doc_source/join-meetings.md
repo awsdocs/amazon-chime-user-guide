@@ -1,4 +1,4 @@
-# Joining a meeting<a name="join-meetings"></a>
+# Joining an Amazon Chime meeting<a name="join-meetings"></a>
 
 There are several ways you can join an Amazon Chime meeting based on the way your environment is set up and the features that you want to use\. To determine the best way to join, review the following criteria to see which items apply to you\.
 + Audio configurations
