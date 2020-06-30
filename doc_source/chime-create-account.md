@@ -1,30 +1,34 @@
 # Creating an Amazon Chime account<a name="chime-create-account"></a>
 
-To join a Amazon Chime team, first download Amazon Chime and create an account\. Then you can set a personalized meeting link, add contacts, and start to schedule meetings\.
+To start using Amazon Chime, download Amazon Chime and create a user account\. Then you can set a personalized meeting link, add contacts, and schedule meetings\.
 
 ## Downloading Amazon Chime<a name="download"></a>
 
 To begin, first download and install the Amazon Chime client from [Download Amazon Chime](http://aws.amazon.com/chime/download-chime/), or access the Amazon Chime web client at [https://app\.chime\.aws/](https://app.chime.aws/)\.
 
-## Creating an Amazon Chime account<a name="create-account"></a>
+## Creating an Amazon Chime user account<a name="create-account"></a>
 
-Use the following steps to create your Amazon Chime account\.
+Use the following steps to create your Amazon Chime user account\.
 
-**To create an Amazon Chime account**
+**To create an Amazon Chime user account**
 
-1. Launch the Amazon Chime app, choose **Sign in / Sign up**, and enter your work email address \.
+1. Open the Amazon Chime app and choose **Sign in / Sign up**\.
+
+1. Do one of the following:
+   + **If you have an invitation from an Amazon Chime administrator** – Enter the email address you use for work\.
+   + **If you are an individual user or part of a group with no administrators** – Enter the email address you use for scheduling meetings\.
 
 1. Choose **Login with Amazon**, **Create a new Amazon account**\.
 
-1. Enter your name and work email address, set a strong password, and choose **Create your Amazon account**\.
+1. Enter your name and email address, set a strong password, and choose **Create your Amazon account**\.
 
 1. Choose **I agree** to grant access for your Amazon account to be used with Amazon Chime, check your email, and choose **Verify Me**\.
 
-1. If want to install Amazon Chime on other mobile or desktop devices, repeat the steps above and use the same log\-in credentials\. All of your devices are synced together\.
+1. If you want to install Amazon Chime on other mobile or desktop devices, repeat the steps above and use the same credentials to sign in\. All of your devices are synced together\.
 
 ## Setting a personalized link<a name="set-link"></a>
 
-You can create a personalized meeting link that generates a friendly name for your meeting\.
+If you have Amazon Chime Pro permissions, you can create a personalized meeting link that generates a friendly name for meetings that you host\.
 
 **To set a personalized link**
 
@@ -64,4 +68,4 @@ If the contact does not appear in your search, choose **Invite contact** to send
 
 ## Scheduling meetings<a name="schedule"></a>
 
-For information about how to start scheduling meetings, see [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\.
+If you have Amazon Chime Pro permissions, you can schedule meetings\. For more information, see [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\.

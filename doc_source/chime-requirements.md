@@ -2,7 +2,7 @@
 
 Before you get set up with Amazon Chime, first make sure that you meet the following requirements for your operating system\.
 
-Amazon Chime works on common versions of the most popular operating systems\. In most cases, you can just download Amazon Chime or access it in your web browser and it will work\.
+Amazon Chime works on common versions of the most popular operating systems\. In most cases, you can just download Amazon Chime or access it in your web browser and it works\.
 
 ## Windows<a name="windows"></a>
 
