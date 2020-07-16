@@ -6,7 +6,8 @@ You can mute and unmute your audio using the Amazon Chime application\.
 + From the Amazon Chime application, do one of the following:
   + Choose **Mute** at the top of the meeting window\.
   + Choose the microphone icon at the top of the **Chat** window\.
-  + Type the keyboard shortcut **Ctrl\+Y**\.
+  + For Windows, type the keyboard shortcut **Ctrl\+Y**\.
+  + For macOS, type the keyboard shortcut **Cmd\+Y**\.
 
 Meeting attendees that are signed in to the Amazon Chime application can mute other meeting attendees, as well as themselves\. They can also unmute other attendees who have joined the meeting from a phone or an in\-room video system\.
 

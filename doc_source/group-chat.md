@@ -1,6 +1,8 @@
 # Chatting with multiple users in Amazon Chime<a name="group-chat"></a>
 
-**To send the same messages to multiple users**
+You can send the same message to up to 50 users in Amazon Chime\. And, while you're in a chat conversation with multiple users, you can create a new chat conversation with only the users you select\.
+
+**To send the same message to multiple users**
 
 1. Do one of the following:
    + From the Amazon Chime desktop client, choose **Messages**\.

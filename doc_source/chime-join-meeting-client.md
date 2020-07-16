@@ -21,13 +21,33 @@ If you are joining a moderated meeting, the **Message all** option and other att
 **Note**  
 If you are joining a moderated meeting, the meeting window opens after a moderator joins and starts the meeting\.
 
-If you don't see the meeting window open, choose **Home**, **Join Meeting**\. Choose your meeting from the list of meetings that appears\.
-
-To adjust your audio source during a meeting, choose **More** in the Windows client or **Settings** in the macOS client, then choose **Change audio**\.
-
-To change your default audio settings for Amazon Chime, choose **File**, **Settings**, **Audio** in the Windows client, or **Amazon Chime**, **Preferences**, **Audio** in the macOS client\.
+If you don't see the meeting window open, choose **Home** and choose your meeting from the list of meetings that appears\.
 
 If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.
+
+## Changing your audio source<a name="change-speakers-microphone"></a>
+
+If you are using the Amazon Chime client for Windows or macOS, you can change which speakers and microphone you use during a meeting\.
+
+**To change your audio source during a meeting**
+
+1. Do one of the following:
+   + **From the Windows client** – Choose **More**, **Change audio**\.
+   + **From the macOS client** – Choose **Settings**, **Change audio**\.
+
+1. Under **Microphone** and **Speakers**, select your audio sources\.
+
+You can choose to select your default audio settings for Amazon Chime before you join a meeting\.
+
+**To change your default audio settings**
+
+1. Do one of the following:
+   + **From the Windows client** – Choose **File**, **Settings**, **Audio**\.
+   + **From the macOS client** – Choose **Amazon Chime**, **Preferences**, **Audio**\.
+
+1. For **Mic** and **Speakers**, select your default audio sources\.
+
+1. Choose **Done**\.
 
 ## Using headset call controls<a name="headset"></a>
 

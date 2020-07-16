@@ -1,6 +1,6 @@
 # Scheduling best practices<a name="chime-scheduling-best-practices"></a>
 
-No matter which app you schedule your meeting from, here are some helpful tips to follow when setting up meetings\.
+No matter which app you use to schedule your Amazon Chime meeting, here are some helpful tips to follow when setting up meetings\.
 
 ## Creating a personalized link<a name="personalized-link"></a>
 
@@ -14,9 +14,9 @@ When inviting mobile users to your meeting, copy and paste the **One\-click Mobi
 
 ## Using auto\-call<a name="autocall"></a>
 
-When your meeting starts, Amazon Chime can call every attendee automatically on all registered devices with Auto\-call\. You and your attendees don’t have to watch the calendar to join the meeting\.
+When your meeting starts, Amazon Chime can call every attendee automatically on all registered devices with auto\-call\. You and your attendees don’t have to watch the calendar to join the meeting\.
 
-To use Auto\-call, make sure that **meet@chime\.aws** is invited to your meeting\.
+To use auto\-call, make sure that **meet@chime\.aws** is invited to your meeting\.
 
 You can remove **meet@chime\.aws** from the meeting invite to avoid having everyone’s devices ring at the same time; for example, if everyone is in the same office\. You can also remove **meet@chime\.aws** if your attendees would rather open the invite and choose the meeting link\.
 

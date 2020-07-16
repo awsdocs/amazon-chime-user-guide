@@ -1,6 +1,6 @@
 # Setting up the Amazon Chime Assistant<a name="setup-assistant"></a>
 
-You must set up the Assistant before you can begin using it\.
+You must set up the Amazon Chime Assistant before you can begin using it\.
 
 **To set up the Amazon Chime Assistant**
 

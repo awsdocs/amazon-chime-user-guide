@@ -4,8 +4,9 @@ There are several different ways you can join a meeting, depending on where you 
 
 **Topics**
 + [Joining an Amazon Chime meeting](join-meetings.md)
++ [Removing yourself from a recurring meeting](remove-recurring.md)
 + [Using the Amazon Chime roster](chime-roster.md)
-+ [Chatting with users](chime-chat.md)
++ [Using in\-meeting chat](chime-chat.md)
 + [Using video during an Amazon Chime meeting](use-video.md)
 + [Sharing your screen during an Amazon Chime meeting](screen-share.md)
 + [Requesting desktop control](remote-control.md)

@@ -1,6 +1,6 @@
 # Supported commands<a name="assistant-commands"></a>
 
-The Assistant supports the following commands: 
+The Amazon Chime Assistant supports the following commands: 
 + **Get my attachments** allows you to access attachments that you uploaded to 1:1 chat, group chat, and chat rooms that you created\.
 
   After you enter this command as a chat message to the Assistant, you receive instructions that look similar to the following text in the chat message:
@@ -31,4 +31,4 @@ The Assistant supports the following commands:
   After you provide the requested confirmation, you are signed out of Amazon Chime on all your devices\. You no longer have access to your chat, chat rooms, contacts, or scheduled meetings\.
 **Note**  
 While the **Delete me** command removes the link between your Amazon Chime profile and your amazon\.com account, which you use to sign into Amazon Chime, that account is provided by amazon\.com\. To delete your associated amazon\.com account, go to http://amazon\.com\.
-+ **Help** provides a description and instructions for the Amazon Chime Assistant's commands\.
++ **Help** provides a description and instructions for the commands available in the Amazon Chime Assistant\.

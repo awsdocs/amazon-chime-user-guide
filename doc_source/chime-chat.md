@@ -1,6 +1,6 @@
-# Chatting with users<a name="chime-chat"></a>
+# Using in\-meeting chat<a name="chime-chat"></a>
 
-All meeting attendees who have the Amazon Chime app have access to chat\. Chat for a meeting is available after a meeting begins, and becomes unavailable when the meeting ends\.
+All meeting attendees who have the Amazon Chime app have access to chat\. Chat for a meeting is available after a meeting begins and becomes unavailable when the meeting ends\.
 
 All chat messages are public, meaning any message posted is visible to all meeting attendees\.
 

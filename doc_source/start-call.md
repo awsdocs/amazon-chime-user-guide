@@ -1,6 +1,6 @@
 # Starting an instant meeting or call<a name="start-call"></a>
 
-To start a meeting right away rather than scheduling in advance, you can use instant meetings or call another user directly from chat\.
+To start an Amazon Chime meeting right away rather than scheduling in advance, you can use instant meetings or call another user directly from chat\.
 
 **To start an instant meeting**
 
@@ -14,7 +14,9 @@ To start a meeting right away rather than scheduling in advance, you can use ins
 
 **To start a call from chat**
 
-1. [Chatting with another user in Amazon Chime](direct-chat.md) or [Chatting with multiple users in Amazon Chime](group-chat.md)\.
+1. Do one of the following:
+   + Follow the steps in [Chatting with another user in Amazon Chime](direct-chat.md)\.
+   + Follow the steps in [Chatting with multiple users in Amazon Chime](group-chat.md)\.
 
 1. Choose the phone icon in the top\-right corner of the screen\.
 

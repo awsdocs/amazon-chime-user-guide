@@ -1,10 +1,10 @@
 # Assigning a delegate<a name="delegates"></a>
 
-If you have a pro license, you can give delegate status to other pro users\. This enables them to schedule meetings on your behalf and attend meetings with full organizer permissions\.
+If you have Amazon Chime Pro permissions, you can assign delegate status to other Pro users\. This status allows them to schedule meetings on your behalf and to attend meetings with access to the same actions that a meeting host has\. For more information about the additional meeting actions available to a delegate, see [Hosting a meeting](chime-organizer-call-controls.md)\.
 
 ## Assigning delegates<a name="assign-delegates"></a>
 
-Assign delegates using the desktop client or web application\.
+Assign delegates using the Amazon Chime desktop client or web application\.
 
 **To assign delegates**
 
@@ -18,7 +18,7 @@ Assign delegates using the desktop client or web application\.
 
 ## Removing delegates<a name="remove-delegates"></a>
 
-Remove delegates using the desktop client or web application\.
+Remove delegates using the Amazon Chime desktop client or web application\.
 
 **To remove delegates**
 
@@ -62,7 +62,7 @@ After you receive this information from your meeting host, schedule the meeting 
 
 1. Copy and paste one of the three sets of email addresses into the **To** field\. For example, the email addresses would be **meet@chime\.aws** and **pin\+*meeting\-id*@chime\.aws**\.
 
-1. Copy and paste the corresponding meeting instructions into the body of the appointment\. Make sure that it includes the link to join the meeting\. An example would be **https://chime\.aws/*meeting\-id***\.
+1. Copy and paste the corresponding meeting instructions into the body of the appointment\. Make sure that it includes the link to join the meeting\. An example is **https://chime\.aws/*meeting\-id***\.
 
 1. Add the other meeting attendees to the appointment and finish scheduling it\.
 

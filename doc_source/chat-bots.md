@@ -6,7 +6,9 @@ When Amazon Chime administrators integrate chatbots with Amazon Chime, users can
 
 ## Adding a chatbot to a chat room<a name="add-bot-chat"></a>
 
-Only chat room administrators can add chatbots to chat rooms\. Before you begin, get the chatbot's email address from your Amazon Chime account administrator\.
+Only chat room administrators can add chatbots to chat rooms\. The chat room must be created by a member of an Amazon Chime Enterprise account\.
+
+Before you begin, get the chatbot's email address from your Amazon Chime account administrator\.
 
 **To add a chatbot to a chat room**
 

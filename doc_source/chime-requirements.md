@@ -40,7 +40,7 @@ Supported versions:
 
 Software requirements:
 + OpenGL ES is required for the screen share viewer\.
-+ Google Services and Google Account are required for the best messaging experience\.
++ Google services and a Google Account are required for the best messaging experience\.
 
 Hardware requirements:
 + Some features are not available on devices without Bluetooth, telephony, or Wi\-Fi\.
@@ -80,10 +80,10 @@ The following browsers are supported for the simple screen share viewer, which p
 
 ## Amazon Chime Add\-In for Outlook<a name="addin"></a>
 
-The Amazon Chime Add\-In for Outlook is compatible with Office 365 and recent versions of Exchange On\-premises\. To decide whether it is right for your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\.
+The Amazon Chime Add\-In for Outlook is compatible with Office 365 and recent versions of Microsoft Exchange Server on\-premises\. To decide whether it is right for your organization, see [Choosing the Right Outlook Add\-In](https://answers.chime.aws/articles/663/choosing-the-right-outlook-add-in.html)\.
 
 Supported Outlook versions:
-+ Outlook on the Web in Office 365 and Outlook\.com
++ Outlook on the web in Office 365 and Outlook\.com
 + Outlook 2013 or newer for Windows
 + Outlook 2016 or newer for macOS
 
@@ -105,4 +105,4 @@ Supported Outlook versions:
 
 Supported Exchange versions:
 + Office 365
-+ On\-premises exchange
++ On\-premises Exchange
