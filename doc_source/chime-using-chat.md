@@ -2,6 +2,9 @@
 
 You can use Amazon Chime to chat with colleagues directly, in a group, or in a chat room\. You can share attachments up to 50 megabytes, search contacts, conversations, and chat rooms, and read conversations across all devices\. Go to **Recent Messages** to see the latest one\-on\-one and groups messages from the past 7 days, or choose **All messages** to browse through all of your chat conversation history\. Use **Favorites** to organize important threads\.
 
+**Note**  
+Amazon Chime deletes all chats at the end of a meeting\. To retain your chats and comments, copy and paste them into a text editor before the meeting ends\.
+
 The following statuses indicate whether a user is available to chat\.
 + Green checkmark – The user is available\.
 + Red – The user is busy\.

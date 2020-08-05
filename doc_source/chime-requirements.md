@@ -7,9 +7,9 @@ Amazon Chime works on common versions of the most popular operating systems\. In
 ## Windows<a name="windows"></a>
 
 Supported versions:
-+ Windows 7, 32\-bit and 64\-bit
-+ Windows 8\.1, 32\-bit and 64\-bit
 + Windows 10, 32\-bit and 64\-bit
++ Windows 8\.1, 32\-bit and 64\-bit
++ Windows 7, 32\-bit and 64\-bit
 
 Hardware requirements:
 + Microphone and speakers \(for phone calls\)

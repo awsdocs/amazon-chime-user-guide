@@ -1,6 +1,6 @@
 # Amazon Chime Readiness Checker<a name="checker"></a>
 
-To see if your device is ready to use with Amazon Chime, use the Amazon Chime Readiness Checker at [https://app\.chime\.aws/check](https://app.chime.aws/check)\.
+To see if your device is ready to use with Amazon Chime, use the Amazon Chime Readiness Checker at [https://app\.chime\.aws/check](https://app.chime.aws/check)\. The Amazon Chime Readiness Checker runs in your browser, but it also ensures that Amazon Chime works on your desktop if you have the client installed\.
 
 The Amazon Chime Readiness Checker checks the speaker, microphone, camera, screen sharing, and connectivity for the following conditions\.
 
