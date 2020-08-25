@@ -14,4 +14,4 @@ For more information about screen sharing, see [Sharing your screen during an Am
 
 1. The other user chooses **Allow** to allow shared control\. The gold band around the desktop turns red, and cursors of both users are labeled\. 
 
-1. To end the shared session, either the viewer or the sharer chooses **End**\.
+1. To end the shared sYou want to hear ambient noise, such as music playing before the start of a presentationession, either the viewer or the sharer chooses **End**\.

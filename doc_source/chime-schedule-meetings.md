@@ -13,6 +13,7 @@ Amazon Chime Pro users can schedule Amazon Chime meetings from their calendar ap
 |  Schedule an auto\-call meeting  |  [Using auto\-call](chime-scheduling-best-practices.md#autocall)  | 
 |  Cancel a scheduled meeting  |  [Canceling a meeting](cancel-meeting.md)  | 
 |  Learn about scheduling best practices  |  [Scheduling best practices](chime-scheduling-best-practices.md)  | 
+|  Learn how to reschedule a meeting after a host leaves the organization  |  [Rescheduling a meeting when the host leaves](reschedule-meeting.md)  | 
 
 Amazon Chime Pro users can choose whether to allow external attendees to join their meetings\. They can also assign other Amazon Chime Pro users to schedule meetings on their behalf as delegates\. Delegates can attend meetings and access the same meeting actions that a meeting host can\. For more information about the meeting actions available to a delegate, see [Hosting a meeting](chime-organizer-call-controls.md)\.
 
@@ -51,3 +52,4 @@ The meeting host, delegate, or moderators who are signed in to the Amazon Chime 
 + [Hosting a meeting](chime-organizer-call-controls.md)
 + [Assigning a delegate](delegates.md)
 + [Scheduling a moderated meeting](moderate-meeting.md)
++ [Rescheduling a meeting when the host leaves](reschedule-meeting.md)

@@ -4,9 +4,9 @@ If you have the Amazon Chime client app installed and have signed in from your i
 
 **To join a meeting using the Amazon Chime mobile app**
 
-1. When the meeting starts, listen for the ring notification and see the visual notification on your phone\.
+1. When the meeting starts, listen for the ring notification and look for the visual notice on your phone\.
 
-1. Slide your finger across the notification to launch the Amazon Chime app and choose your meeting\.
+1. Slide your finger across the notice to launch the Amazon Chime app and choose your meeting\.
 
 1. In the **Meeting Starting** dialog box, choose **Answer**\.
 **Note**  
