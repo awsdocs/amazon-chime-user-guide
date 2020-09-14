@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon Chime User Guide*
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Amazon Voice Focus](#doc-history) | Meeting attendees can now use Amazon Voice Focus to suppress unwanted background and foreground noises during an Amazon Chime meeting\. For more information, see [Using Amazon Voice Focus](https://docs.aws.amazon.com/chime/latest/ug/voice-focus.html)\. | August 20, 2020 | 
 | [Raise hand](#doc-history) | Meeting attendees can raise their hands during an Amazon Chime meeting to get the attention of the meeting presenter\. For more information, see [Raising your hand](https://docs.aws.amazon.com/chime/latest/ug/raise-hand.html) in the Amazon Chime User Guide\. | August 4, 2020 | 
 | [Amazon Chime on Dolby Voice Huddle](#doc-history) | If Dolby Voice Huddle is enabled with Amazon Chime, you can join an Amazon Chime meeting quickly from a conference room\. For more information, see [Using Amazon Chime on Dolby Hardware](https://docs.aws.amazon.com/chime/latest/ug/using-dolby.html) in the Amazon Chime User Guide\. | June 3, 2020 | 
 | [Attendee access options](#doc-history) | Set attendee access options for meetings that you schedule\. For more information, see [Choosing a meeting type](https://docs.aws.amazon.com/chime/latest/ug/personal-ID.html) in the Amazon Chime User Guide\. | May 4, 2020 | 

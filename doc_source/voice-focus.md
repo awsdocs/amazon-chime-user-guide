@@ -21,3 +21,8 @@ You can turn Amazon Voice Focus off at any time during a meeting\. For example, 
 1. Choose **Voice Focus \(noise suppression\)** to clear the check mark\.
 
 Repeat those steps to turn Amazon Voice Focus on again\.
+
+**Note**  
+Currently, Amazon Voice Focus runs on these devices:  
+Windows 7 SP1 and later on computers running at least 4th generation Intel processors, or the AMD equivalent\.
+macOS machines from 2007 and later\.

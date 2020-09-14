@@ -13,3 +13,4 @@ To continue using Amazon Chime with Pro permissions after the 30\-day free trial
 + [System requirements](chime-requirements.md)
 + [Amazon Chime Readiness Checker](checker.md)
 + [Creating an Amazon Chime account](chime-create-account.md)
++ [Understanding Amazon Chime automatic updates](chime-auto-update.md)

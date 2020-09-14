@@ -19,6 +19,7 @@ Amazon's trademarks and trade dress may not be used in
    + [System requirements](chime-requirements.md)
    + [Amazon Chime Readiness Checker](checker.md)
    + [Creating an Amazon Chime account](chime-create-account.md)
+   + [Understanding Amazon Chime automatic updates](chime-auto-update.md)
 + [Attending meetings using Amazon Chime](chime-attend-meetings.md)
    + [Joining an Amazon Chime meeting](join-meetings.md)
       + [Joining an auto-call meeting using the Amazon Chime client](chime-join-meeting-client.md)

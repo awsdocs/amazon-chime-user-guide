@@ -73,7 +73,7 @@ The following browsers are supported for the Amazon Chime web application\. To o
   + Microsoft Edge \(latest version\)
   + Safari 10 or later for macOS
 **Note**  
-Limited meeting support requires attendees to dial in for audio\.
+Limited meeting support requires you to dial in for audio, and you can't use video\.
 
 The following browsers are supported for the simple screen share viewer, which provides meeting support for additional browsers and allows attendees to view shared screens and dial in for audio\.
 + Internet Explorer 9, 10, and 11
