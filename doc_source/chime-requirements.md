@@ -45,7 +45,7 @@ Hardware requirements:
 ## iOS<a name="ios"></a>
 
 Supported versions:
-+ iOS 10\.0 and later
++ iOS 10\.0 and later \(including iOS 14\)
 
 Hardware requirements:
 + PSTN dial\-in functionality is not available on devices without telephony\.
@@ -61,9 +61,11 @@ The following browsers are supported for the Amazon Chime web application\. To o
 + Browsers supported for meetings and video:
   + Google Chrome \(latest three versions\)
   + Mozilla Firefox \(latest three versions\)
+  + Chromium Edge version 84 and later
 + Browsers supported for screen sharing:
   + Google Chrome for Windows, macOS, and Linux desktops \(latest three versions, version 72 or later\)
   + Mozilla Firefox for Windows, macOS, and Linux desktops \(latest three versions, version 66 or later\)
+  + Chromium Edge version 84 and later
 + Browsers with limited meeting support:
   + Microsoft Edge \(latest version\)
   + Safari 10 or later for macOS

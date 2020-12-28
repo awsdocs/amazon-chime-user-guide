@@ -9,6 +9,8 @@ Amazon Chime provides several ways to join a meeting, depending on where you joi
 + [Using in\-meeting chat](chime-chat.md)
 + [Raising your hand](raise-hand.md)
 + [Using video during an Amazon Chime meeting](use-video.md)
++ [Changing your video source](change-video-source.md)
++ [Undocking video tiles during a meeting](undocking.md)
 + [Sharing your screen during an Amazon Chime meeting](screen-share.md)
 + [Requesting desktop control](remote-control.md)
 + [Muting and unmuting](chime-mute.md)

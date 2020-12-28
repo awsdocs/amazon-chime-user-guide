@@ -3,7 +3,7 @@
 Amazon Chime provides several ways to join a meeting\. How you join depends on your environment and the features that you want to use\. To determine the best way to join, review these criteria to see which items apply to you\.
 
 **Note**  
-Meetings can sometimes open in a browser when you expect them to open in the desktop client\. That happens when you sign into the web app and you click a meeting link\. It also happens when you sign into Slack and you join a Chime meeting on the web\. In either case, you can sign out of the web app and launch the Chime client\.
+Meetings can sometimes open in a browser when you expect them to open in the desktop client\. That happens when you sign into the web app and you click a meeting link\. It also happens when you sign into Slack and you join an Amazon Chime meeting on the web\. In either case, you can sign out of the web app and launch the Amazon Chime client\.
 + Audio configurations
 **Note**  
 To avoid an echo, choose one audio source for each room\.
@@ -20,6 +20,7 @@ To avoid an echo, choose one audio source for each room\.
 + [Joining an auto\-call meeting using the Amazon Chime client](chime-join-meeting-client.md)
 + [Why meetings sometimes open in your browser](why-browser.md)
 + [Joining a meeting using the Amazon Chime mobile app](chime-join-meeting-mobile-app.md)
++ [Using Echo devices to join Amazon Chime meetings](join-with-echo.md)
 + [Joining a meeting using an in\-room video conference system](chime-join-meeting-conference-room.md)
 + [Joining a meeting without the Amazon Chime app](chime-join-meeting.md)
 + [Joining a meeting anonymously](join-anonymous.md)
