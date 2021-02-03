@@ -1,7 +1,7 @@
 # Amazon Chime User Guide
 
 -----
-*****Copyright &copy; 2020 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy; 2021 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -67,7 +67,7 @@ Amazon's trademarks and trade dress may not be used in
 + [Using the Amazon Chime web application](chime-web-app.md)
 + [Using the Amazon Chime Meetings App for Slack](using-slack.md)
 + [Using Amazon Chime on Dolby hardware](using-dolby.md)
-+ [Getting user support](chime-getting-support.md)
++ [Getting support from an Amazon Chime administrator](chime-getting-support.md)
    + [Using the Amazon Chime Assistant](chime-using-assistant.md)
       + [Setting up the Amazon Chime Assistant](setup-assistant.md)
       + [Supported commands](assistant-commands.md)
