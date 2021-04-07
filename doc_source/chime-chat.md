@@ -2,7 +2,7 @@
 
 All meeting attendees who have the Amazon Chime app have access to chat\. Chat for a meeting is available after a meeting begins and becomes unavailable when the meeting ends\.
 
-All chat messages are public, meaning any message posted is visible to all meeting attendees\.
+All chat messages are public, meaning any message posted is visible to all meeting invitees\.
 
 Messages can include both file attachments and emojis\.
 

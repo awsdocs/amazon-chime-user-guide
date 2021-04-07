@@ -15,7 +15,7 @@ Message actions display in the menu next to a message\. Choose **Copy** to copy 
 Use [markdown syntax](http://commonmark.org/help) to format text using bold font, lists, and heading levels, and other options\. Amazon Chime also supports sending code blocks\. For more information, see [Sending markdown messages](#send-chat-markdown) and [Sending code blocks in messages](#send-chat-code)\.
 
 **Emoji and \.gif support**  
-To insert an emoji, choose **Pick an emoji** next to the chat input field\. Choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\. For more information about using markdown, see [Sending markdown messages](#send-chat-markdown)\.
+To insert an emoji in the chat window, choose **Pick an emoji** next to the chat input field\. You can also choose **Attach a file** to upload a saved \.gif file into the chat input field and play it inline, or use markdown to display \.gif files from the web\.  You also use markdown to send emojis in a meeting chat\. Currently, the **Chat** pane doesn't provide an emoji picker\. For more information about using markdown, see [Sending markdown messages](#send-chat-markdown)\.
 
 **Drag and drop files**  
 Drag and drop files into the chat pane, or copy and paste images directly from your clipboard\.
@@ -30,7 +30,7 @@ The following example demonstrates how to format an Amazon Chime chat message us
 /md **Hello world!**
 ```
 
-The following example demonstrates how the sent message appears in Amazon Chime\.
+The message looks like this when sent\.
 
 ```
 Hello world!
@@ -41,6 +41,25 @@ The following example demonstrates how to format a web link to a \.gif file usin
 ```
 /md ![](https://example.com/filename.gif)
 ```
+
+## Adding emojis to chat messages<a name="add-emojis"></a>
+
+You can add emojis to your chat messages at any time\. In Amazon Chime chat, choose the **Pick an emoji** icon next to the chat input field, then pick the emoji that you want to add\.
+
+In a meeting, you enter *markdown*, also called short codes, for the emoji that you want to use\.
+
+The following table lists the markdown for inserting several common emojis\. You enter or copy and paste the codes, then press **Enter**\. Remember to start and end each code with a colon \(**:**\)\.
+
+
+| Name | Code | Image | 
+| --- | --- | --- | 
+| Thumbs up | `:+1:` |  ![\[Thumbs up emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/thumbsup.png)  | 
+| Thumbs down | `:-1:` |  ![\[Thumbs down emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/thumbsdown.g)  | 
+| Smile | `:smiley:` |  ![\[Smile emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/smile.png)  | 
+| Frown | `:frowning:` |  ![\[Frown emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/frown.png)  | 
+| Blush | `:blush:` |  ![\[Blush emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/blush.png)  | 
+
+For a complete list of emoji codes, see the Web FX [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)\.
 
 ## Sending code blocks in messages<a name="send-chat-code"></a>
 

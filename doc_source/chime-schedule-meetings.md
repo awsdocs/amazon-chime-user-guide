@@ -11,7 +11,7 @@ Amazon Chime Pro users can schedule Amazon Chime meetings from their calendar ap
 |  Schedule meetings with Google Calendar  |  [Scheduling meetings with Google Calendar](chime-scheduling-google.md)  | 
 |  Schedule meetings with another calendar app  |  [Scheduling meetings with a calendar app](chime-scheduling-calendar-app.md)  | 
 |  Schedule an auto\-call meeting  |  [Using auto\-call](chime-scheduling-best-practices.md#autocall)  | 
-|  Cancel a scheduled meeting  |  [Canceling a meeting](cancel-meeting.md)  | 
+|  Cancel a scheduled meeting  |  [Canceling meetings](cancel-meeting.md)  | 
 |  Learn about scheduling best practices  |  [Scheduling best practices](chime-scheduling-best-practices.md)  | 
 |  Learn how to reschedule a meeting after a host leaves the organization  |  [Rescheduling a meeting when the host leaves](reschedule-meeting.md)  | 
 
@@ -47,7 +47,7 @@ The meeting host, delegate, or moderators who are signed in to the Amazon Chime 
 + [Scheduling meetings with a calendar app](chime-scheduling-calendar-app.md)
 + [Scheduling meetings with Google Calendar](chime-scheduling-google.md)
 + [Scheduling meetings with the Add\-In for Outlook](chime-scheduling-outlook.md)
-+ [Canceling a meeting](cancel-meeting.md)
++ [Canceling meetings](cancel-meeting.md)
 + [Scheduling best practices](chime-scheduling-best-practices.md)
 + [Hosting a meeting](chime-organizer-call-controls.md)
 + [Assigning a delegate](delegates.md)

@@ -10,7 +10,7 @@ The Amazon Chime desktop client checks for updates whenever you choose **Quit** 
 + You're attending a meeting\.
 + You were invited to a meeting that is still in progress\.
 
-Amazon Chime prompts you to install the latest version, and it gives you a 15\-second countdown so you can postpone the installation\. Choose **Try Later** to postpone the update\.
+Amazon Chime prompts you to install the latest version, and it gives you a 15\-second countdown so you can postpone the update\. Choose **Try Later** to postpone the update\.
 
 If you postpone an update, and you aren't in an ongoing meeting, the client checks for the update after three hours and prompts you again to install\. The installation begins when the countdown ends\. 
 

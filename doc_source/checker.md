@@ -1,4 +1,4 @@
-# Amazon Chime Readiness Checker<a name="checker"></a>
+# Using the Amazon Chime Readiness Checker<a name="checker"></a>
 
 To see if your device is ready to use with Amazon Chime, use the Amazon Chime Readiness Checker at [https://app\.chime\.aws/check](https://app.chime.aws/check)\. The Amazon Chime Readiness Checker runs in your browser, but it also ensures that Amazon Chime works on your desktop if you have the client installed\. 
 
@@ -25,4 +25,4 @@ Are you using the Google Chrome or Mozilla Firefox browser?
 Update your browser to the latest version\. Screen share is available for Chrome version 72 and Firefox version 66 or later, and native Amazon Chime desktop applications\.
 
 **Connectivity**  
-For detailed information about connectivity requirements, see [Network configuration and bandwidth requirements](https://docs.aws.amazon.com/chime/latest/ag/network-config.html) in the *Amazon Chime Administrator Guide*\.
+For detailed information about connectivity requirements, see [ Network configuration and bandwidth requirements](https://docs.aws.amazon.com/chime/latest/ag/network-config.html) in the *Amazon Chime Administrator Guide*\.

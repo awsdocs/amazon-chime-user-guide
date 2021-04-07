@@ -10,4 +10,4 @@ Also, you can't create another meeting bridge ID for an existing meeting, or use
 
 1. Create and schedule a new meeting\. Then, invite the attendees from the old meeting\. You can host the meeting, or ask someone else to host\. 
 
- For more information about canceling meetings, see [Canceling a meeting](cancel-meeting.md)\. For more information about scheduling meetings, see the topics in [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\. 
+ For more information about canceling meetings, see [Canceling meetings](cancel-meeting.md)\. For more information about scheduling meetings, see the topics in [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\. 

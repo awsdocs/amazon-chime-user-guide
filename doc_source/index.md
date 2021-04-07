@@ -1,7 +1,7 @@
 # Amazon Chime User Guide
 
 -----
-*****Copyright &copy; 2021 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy;  Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -17,8 +17,13 @@ Amazon's trademarks and trade dress may not be used in
 + [What is Amazon Chime?](what-is-chime.md)
 + [Getting started with Amazon Chime](chime-getting-started.md)
    + [System requirements](chime-requirements.md)
-   + [Amazon Chime Readiness Checker](checker.md)
-   + [Creating an Amazon Chime account](chime-create-account.md)
+   + [Downloading Amazon Chime](download.md)
+   + [Creating an Amazon Chime user account](create-account.md)
+   + [Setting a personalized meeting link](set-link.md)
+   + [Adding contacts to Amazon Chime](contacts.md)
+   + [Scheduling meetings](schedule.md)
+   + [Using the Amazon Chime Readiness Checker](checker.md)
+   + [Resetting your password](reset-password.md)
    + [Understanding Amazon Chime automatic updates](chime-auto-update.md)
 + [Attending meetings using Amazon Chime](chime-attend-meetings.md)
    + [Joining an Amazon Chime meeting](join-meetings.md)
@@ -49,7 +54,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Scheduling meetings with a calendar app](chime-scheduling-calendar-app.md)
    + [Scheduling meetings with Google Calendar](chime-scheduling-google.md)
    + [Scheduling meetings with the Add-In for Outlook](chime-scheduling-outlook.md)
-   + [Canceling a meeting](cancel-meeting.md)
+   + [Canceling meetings](cancel-meeting.md)
    + [Scheduling best practices](chime-scheduling-best-practices.md)
    + [Hosting a meeting](chime-organizer-call-controls.md)
    + [Assigning a delegate](delegates.md)
