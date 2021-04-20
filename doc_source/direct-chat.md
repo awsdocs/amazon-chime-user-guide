@@ -1,6 +1,6 @@
 # Chatting with another user in Amazon Chime<a name="direct-chat"></a>
 
-You can have a one\-on\-one chat conversation with another user using Amazon Chime\. It’s also easy to turn that chat into an instant meeting\. Prefer a message to a chat? You can use your call history to find and select a contact to message\.
+In Amazon Chime chat, you can have a one\-on\-one chat conversation with another user using Amazon Chime\. It’s also easy to turn that chat into an instant meeting\. Prefer a message to a chat? You can use your call history to find and select a contact to message\.
 
 **To chat directly with another user**
 

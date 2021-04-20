@@ -1,5 +1,11 @@
 # Collaborating using Amazon Chime chat<a name="chime-using-chat"></a>
 
+Amazon Chime gives you two ways to chat—Amazon Chime chat and in\-meeting chat\. The topics in this section explain how to use Amazon Chime chat\. For information about in\-meeting chat, see [Using in\-meeting chat](chime-chat.md)\.
+
+In Amazon Chime chat, you can chat with colleagues directly, in a group, or in a chat room\. You can share attachments of up to 50 megabytes, search contacts, conversations, and chat rooms, and read conversations across all devices\.
+
+You can also go to **Recent Messages** to see the latest one\-on\-one and group messages from the past 7 days, or choose **All messages** to browse through all of your chat conversation history\. Use **Favorites** to organize important threads\.
+
 Amazon Chime gives you two ways to chat—the chat window and the **Chat** pane in meetings\.
 
 In the chat window, you can use Amazon Chime to chat with colleagues directly, in a group, or in a chat room\. You can share attachments up to 50 megabytes, search contacts, conversations, and chat rooms, and read conversations across all devices\. Go to **Recent Messages** to see the latest one\-on\-one and group messages from the past 7 days, or choose **All messages** to browse through all of your chat conversation history\. Use **Favorites** to organize important threads\.

@@ -7,6 +7,7 @@ Amazon Chime provides several ways to join a meeting, depending on where you joi
 + [Removing yourself from a recurring meeting](remove-recurring.md)
 + [Using the Amazon Chime roster](chime-roster.md)
 + [Using in\-meeting chat](chime-chat.md)
++ [Adding emojis to in\-meeting chat messages](add-meeting-emojis.md)
 + [Raising your hand](raise-hand.md)
 + [Using video during an Amazon Chime meeting](use-video.md)
 + [Changing your video source](change-video-source.md)
