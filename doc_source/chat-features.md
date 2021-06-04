@@ -54,13 +54,13 @@ To send a code block in an Amazon Chime chat message, type `/code` followed by a
 The following table lists the markdown for inserting several common emojis\. You enter or copy and paste the codes, then press **Enter**\. Remember to start and end each code with a colon \(**:**\)\.
 
 
-| Name | Code | Image | 
+|  Name  |  Code  |  Image  | 
 | --- | --- | --- | 
-| Thumbs up | `:+1:` |  ![\[Thumbs up emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/thumbsup.png)  | 
-| Thumbs down | `:-1:` |  ![\[Thumbs down emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/thumbsdown.g)  | 
-| Smile | `:smiley:` |  ![\[Smile emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/smile.png)  | 
-| Frown | `:frowning:` |  ![\[Frown emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/frown.png)  | 
-| Blush | `:blush:` |  ![\[Blush emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/blush.png)  | 
+|  Thumbs up  |  `:+1:`  |  ![\[Thumbs up emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/thumbsup.png)  | 
+|  Thumbs down  |  `:-1:`  |  ![\[Thumbs down emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/thumbsdown.png)  | 
+|  Smile  |  `:smiley:`  |  ![\[Smile emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/smile.png)  | 
+|  Frown  |  `:frowning:`  |  ![\[Frown emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/frown.png)  | 
+|  Blush  |  `:blush:`  |  ![\[Blush emoji.\]](http://docs.aws.amazon.com/chime/latest/ug/images/blush.png)  | 
 
 For a complete list of emoji codes, see the Web FX [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)\.
 
