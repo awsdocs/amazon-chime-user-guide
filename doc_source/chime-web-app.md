@@ -61,7 +61,7 @@ The Amazon Chime web application uses your default audio device\. If you use Moz
 
 ## Screen sharing options for the Amazon Chime web application<a name="web-app-sharing"></a>
 
-You can share your screen or an application window, if you are using the latest three versions of Mozilla Firefox or Google Chrome\. Screen share is available for Chrome version 72 and Firefox version 66 or later\.
+You can share your screen or an application window if you are using the latest three versions of Google Chrome\. Screen share is available for Chrome version 72 or later\.
 
 **To share your screen or application window**
 
