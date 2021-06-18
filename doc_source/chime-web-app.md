@@ -1,8 +1,8 @@
-# Using the Amazon Chime Web Application<a name="chime-web-app"></a>
+# Using the Amazon Chime web application<a name="chime-web-app"></a>
 
 The Amazon Chime web application brings Amazon Chime meetings and chat to your browser\. The web application makes it easy for clients, vendors, and other third parties to join your meetings, even if they are new to Amazon Chime\. There's no need to create an account and no downloads are required to participate in meetings\. Users with Amazon Chime accounts can sign in to access many of the same features available on our downloadable clients\. It's a great option for users on operating systems that aren't supported by the Amazon Chime desktop and mobile apps, users that can't download the Amazon Chime desktop and mobile apps, or users that prefer web applications\.
 
-Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attending Meetings Using Amazon Chime](chime-attend-meetings.md) and [Scheduling Meetings Using Amazon Chime](chime-schedule-meetings.md)\. Attendees that join your meetings using the web app can view and share screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\. 
+Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attending meetings using Amazon Chime](chime-attend-meetings.md) and [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\. Attendees that join your meetings using the web app can view and share screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\. 
 
 Additionally, if your administrator has enabled the Amazon Chime call me feature, your meeting attendees can choose **Call me at a phone number** to have Amazon Chime call them at their preferred phone number\.
 
@@ -11,13 +11,13 @@ To use the Amazon Chime web application, sign in to [https://app\.chime\.aws/](h
 **Note**  
 The downloadable clients available in Amazon Chime provide the most consistent experience for video, screen sharing, remote desktop control, and other features on supported operating systems\. For more information, see [downloadable clients](https://aws.amazon.com/chime/download/)\. 
 
-## Supported Browsers<a name="web-app-browsers"></a>
+## Supported browsers<a name="web-app-browsers"></a>
 
 The Amazon Chime web application works best with Google Chrome or Mozilla Firefox\. Mobile browsers are not currently supported\. 
 
-For a complete list of supported browsers, see [Browser Requirements](chime-requirements.md#browser)\.
+For a complete list of supported browsers, see [Browser requirements](chime-requirements.md#browser)\.
 
-## Chat Features in the Amazon Chime Web Application<a name="web-app-chat"></a>
+## Chat features in the Amazon Chime web application<a name="web-app-chat"></a>
 
 Chat features in the Amazon Chime web application lets you send direct messages, request chat room access using web application URLs, and navigate with browser controls\.
 
@@ -41,7 +41,7 @@ You can also use keyboard shortcuts in the web application\. Type `Ctrl + /` to 
 **To navigate with browser controls**
 + Use the back and forward buttons in your browser to navigate through rooms and conversations you have visited\. Each room and conversation in the Amazon Chime web application has its own URL\.
 
-## Meeting Audio Options for the Amazon Chime Web Application<a name="web-app-audio"></a>
+## Meeting audio options for the Amazon Chime web application<a name="web-app-audio"></a>
 
 Choose from the following audio options when you join a meeting using the Amazon Chime web application:
 
@@ -59,7 +59,7 @@ This option is recommended if you are already dialed in using a phone, or if you
 
 The Amazon Chime web application uses your default audio device\. If you use Mozilla Firefox to join your meeting, you can select a different audio input source in your browser's settings\. 
 
-## Screen Sharing Options for the Amazon Chime Web Application<a name="web-app-sharing"></a>
+## Screen sharing options for the Amazon Chime web application<a name="web-app-sharing"></a>
 
 You can share your screen or an application window, if you are using the latest three versions of Mozilla Firefox or Google Chrome\. Screen share is available for Chrome version 72 and Firefox version 66 or later\.
 
@@ -77,7 +77,7 @@ You can share your screen or an application window, if you are using the latest 
 **Note**  
 If another attendee takes over the meeting, or if the meeting ends, sharing automatically stops\.
 
-## Unsupported Features in the Amazon Chime Web Application<a name="web-app-unsupported"></a>
+## Unsupported features in the Amazon Chime web application<a name="web-app-unsupported"></a>
 
 The following feature is not currently supported in the Amazon Chime web application\.
 

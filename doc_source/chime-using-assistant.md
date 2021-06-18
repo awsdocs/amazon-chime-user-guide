@@ -1,12 +1,12 @@
 # Using the Amazon Chime Assistant<a name="chime-using-assistant"></a>
 
-The Amazon Chime Assistant is a self\-service tool that you can use to get attachments or submit a request to delete your account\.
+The Amazon Chime Assistant is a self\-service tool that you can use to get any files attached to chat messages or submit a request to delete your account\.
 
 You must meet the following requirements to use the tool:
-+ You are a registered user\.
-+ You're using an Amazon Chime client\.
-+ You aren't a managed user associated with an Amazon Chime account \(that is, you didn't accept a team invite or weren't added to an enterprise account\)\.
++ You have an Amazon Chime account\.
++ You use one of the Amazon Chime clients, desktop or mobile\.
++ You don't belong to a Team or Enterprise account, meaning an administrator didn't invite you to join Amazon Chime\. 
 
 **Topics**
-+ [Setting Up the Amazon Chime Assistant](setup-assistant.md)
-+ [Supported Commands](assistant-commands.md)
++ [Setting up the Amazon Chime Assistant](setup-assistant.md)
++ [Supported commands](assistant-commands.md)

@@ -1,11 +1,13 @@
-# Dialing Phone Numbers with Amazon Chime<a name="phone"></a>
+# Dialing phone numbers with Amazon Chime<a name="phone"></a>
 
-If your administrator has enabled the corresponding calling options for your Amazon Chime account, you can use the Amazon Chime client to dial phone numbers, send SMS messages to phone numbers, add phone numbers to your contacts, and access voicemail\. You can also call or message phone numbers or contacts from the past 30 days in **Call history**, under **Meetings and Calls**\.
+If your Amazon Chime administrator has enabled the corresponding calling options for your account, you can use the Amazon Chime client to dial phone numbers in the public switched telephone network \(PSTN\)\. You can also send SMS messages to PSTN phone numbers, add PSTN phone numbers to your contacts, and access voicemail\. For more information, see [Managing phone numbers in Amazon Chime](https://docs.aws.amazon.com/chime/latest/ag/phone-numbers.html) in the *Amazon Chime Administrator Guide*\.
+
+You can also call or message phone numbers or contacts from the past 30 days in **Call history**, under **Meetings and Calls**\.
 
 **Note**  
-Amazon Chime is not a replacement for your telephone\. It can not be used for emergency calling\.
+Amazon Chime is not a replacement for your telephone\. It cannot be used for emergency calling\.
 
-## Dial a Phone Number<a name="dial-phone"></a>
+## Dial a phone number<a name="dial-phone"></a>
 
 **To dial a phone number**
 
@@ -15,7 +17,7 @@ Amazon Chime is not a replacement for your telephone\. It can not be used for em
 
 1. Choose **Dial**\.
 
-When the person you call answers their phone, an instant meeting opens in Amazon Chime\. As the meeting host with Amazon Chime Pro permissions, you can choose **More** to invite others to the call, or to change your meeting settings\. For more information, see [Hosting a Meeting](chime-organizer-call-controls.md)\.
+When the person you call answers their phone, an instant meeting opens in Amazon Chime\. As a meeting host with Amazon Chime Pro permissions, you can choose **More** to invite others to the call, or to change your meeting settings\. For more information, see [Hosting a meeting](chime-organizer-call-controls.md)\.
 
 **To call a phone number from your history**
 
@@ -27,9 +29,9 @@ When the person you call answers their phone, an instant meeting opens in Amazon
 
 1. Choose **Call**\.
 
-## Sending an SMS Message to a Phone Number<a name="sms-phone"></a>
+## Sending an SMS message to a phone number<a name="sms-phone"></a>
 
-If your administrator has enabled SMS messages for your account, you can send an SMS message to a phone number in your contacts\.
+If your Amazon Chime administrator has enabled SMS messages for your account, you can send an SMS message to a phone number in your contacts\.
 
 **To send an SMS message to a phone number in your contacts**
 
@@ -41,7 +43,7 @@ If your administrator has enabled SMS messages for your account, you can send an
 
 1. Enter your message\. Press **Enter** to send it\.
 
-An SMS message is sent to the phone number\.
+An SMS message is sent to the phone number, and a chat conversation between you and the recipient opens in Amazon Chime\. To call the chat recipient, choose the phone icon in the chat conversation\.
 
 **Note**  
 Text messaging to and from short codes is not supported\.
@@ -56,7 +58,7 @@ Text messaging to and from short codes is not supported\.
 
 1. Choose **Message**\.
 
-## Adding a Phone Number to Your Contacts<a name="phone-contact"></a>
+## Adding a phone number to your contacts<a name="phone-contact"></a>
 
 You can add phone numbers to your **Contacts** list\. To edit the contact name after you create it, search for and select the contact in your **Contacts** list, and choose **Edit contact name**\.
 
@@ -78,7 +80,7 @@ You can add phone numbers to your **Contacts** list\. To edit the contact name a
 
 1. Choose **Add to my contacts**\.
 
-## Accessing Voicemail<a name="vm"></a>
+## Accessing voicemail<a name="vm"></a>
 
 If your administrator enables inbound calling, unanswered and declined calls from PSTN phone numbers are redirected to your voicemail\.
 

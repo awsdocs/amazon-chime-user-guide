@@ -1,21 +1,21 @@
-# Removing Yourself from a Recurring Meeting<a name="remove-recurring"></a>
+# Removing yourself from a recurring meeting<a name="remove-recurring"></a>
 
-We recommend that hosts remove attendees from recurring meetings using the calendar app\. However, there can be times when Amazon Chime doesn't receive an update indicating that an attendee has been removed\. Therefore, **Amazon Chime** might continue to auto\-call an attendee for meetings that are no longer displayed on their calendar\. You can remove yourself as an attendee from recurring meetings by following these steps\. 
+Most of the time, you can use your calendar application to remove yourself from a recurring meeting\. However, you may still receive auto calls from the meeting series, even if it doesn't appear on your calendar\. If that happens, use one of the Amazon Chime clients to remove yourself from recurring meetings\. Follow these steps\.
 
 **Note**  
-The following steps are supported only for recurring events, and are available only for meeting attendees, not the meeting organizer\. Don't use this option if you want to be removed from a single occurrence in a series\.
+Don't follow these steps to remove yourself from a single meeting in a series\. Also, don't follow these steps if you organize or host a meeting\. Instead, see [ Canceling a recurring meeting](https://docs.aws.amazon.com/chime/latest/ug/scheduling-meetings.html#cancel-recurring-meeting)\.
 
-**To remove yourself from a recurring meeting as an attendee**
+**To remove yourself from a recurring meeting**
 
-1. From the **Amazon Chime** app, choose **Home**\.
+1. In Amazon Chime, choose **Home**\.
 
-1. **In progress meetings** and **Upcoming meetings** meetings starting in the next 30 minutes display\.
+1. A list of **In progress meetings** and **Upcoming meetings**—meetings starting in the next 30 minutes—appears\.
 
 1. Select a meeting, and choose **Remove me from series**\.
 
-1. When prompted, confirm that you want to delete yourself or the attendee\.
+1. When prompted, confirm the deletion\.
 
-**Amazon Chime** won't auto\-call you for upcoming or future meetings in the recurring series, and your name won't appear on the meeting roster\.
+Amazon Chime stops auto\-calling you for the remaining meetings in the series, and your name stops appearing on the meeting roster\.
 
 **Note**  
-If you requested to be removed, but you are still on the calendar invite, you might be auto\-called in the future if there is an update to the event in the calendar app\. To ensure removal, contact the meeting organizer and ask to be removed from the meeting series\.
+If you ask to be removed but you're still on the calendar invitation, you may receive auto calls if someone updates the event\. To ensure removal, contact the meeting organizer and ask to be removed from the meeting series\.

@@ -1,4 +1,4 @@
-# Joining a Meeting Early<a name="join-meeting-early"></a>
+# Joining a meeting early<a name="join-meeting-early"></a>
 
 If you need to get set up for a meeting before the start time, or just prefer to stay ahead of schedule, you can join a meeting early\.
 
@@ -21,4 +21,4 @@ If anyone else joins early, you can see their information and communicate with t
 
 If you are joining a moderated meeting early, the **Message all** option and other attendee interactions are blocked until a moderator joins and starts the meeting\.
 
-If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a Moderated Meeting](moderate-meeting.md)\.
+If you are the meeting host or delegate for a moderated meeting, the meeting starts automatically as soon as you join\. If you have the moderator passcode, choose **Enter moderator passcode** to join as a moderator and start the meeting\. For more information, see [Scheduling a moderated meeting](moderate-meeting.md)\.
