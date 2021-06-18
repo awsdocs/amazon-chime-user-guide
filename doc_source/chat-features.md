@@ -85,5 +85,5 @@ CreateBotRequest createBotRequest = new CreateBotRequest()
     .withAccountId("chimeAccountId")
     .withDisplayName("exampleBot")
     .withDomain("example.com");
-    chime.createBot(createBotRequest);
+chime.createBot(createBotRequest);
 ```
