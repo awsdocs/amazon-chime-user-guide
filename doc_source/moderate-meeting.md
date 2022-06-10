@@ -1,8 +1,8 @@
 # Scheduling a moderated meeting<a name="moderate-meeting"></a>
 
-Meeting hosts and delegates with Pro permissions can schedule moderated meetings, which only start when a moderator joins\. Until a moderator joins, moderated meeting attendees cannot interact with each other using audio, video, screen sharing, meeting chat, or the visual roster features\. After moderated meetings start, they continue until the meeting is ended, even if the moderators drop or leave the meeting\.
+Meeting hosts and delegates with Pro permissions can schedule moderated meetings, which only start when a moderator joins\. Until a moderator joins, moderated meeting attendees cannot interact with each other\. The audio, video, screen sharing, meeting chat, and visual roster remain unavailable\. After moderated meetings start, those features continue until the meeting ends, even if the moderators drop or leave the meeting\.
 
-Meeting hosts and delegates are meeting moderators by default\. If a meeting host or delegate shares the moderator passcode with other attendees, they can also join the meeting as moderators\. There can be multiple moderators for a moderated meeting\. Meeting attendees who enter the moderator passcode can access additional host actions\. They can lock, record, and end meetings, and mute all other attendees\. For more information, see [Moderator actions using the Amazon Chime app](#actions-app) and [Moderator actions using phone or in\-room video systems](#actions-phone-vid)\.
+By default, meeting hosts and delegates have moderator permission, and a meeting can have more than one moderator\. Hosts and delegates can share the moderator passcode with other attendees, and they can also join the meeting as moderators\. When they do, they can lock, record, and end meetings, and mute all other attendees\. For more information, see [Moderator actions using the Amazon Chime app](#actions-app) and [Moderator actions using phone or in\-room video systems](#actions-phone-vid)\.
 
 ## Joining a meeting as a moderator<a name="mod-join"></a>
 
@@ -27,18 +27,18 @@ Schedule moderated meetings from the Amazon Chime app\.
 
 1. Choose **Copy moderator info** to copy and paste the moderator information for your moderated meeting\.
 
-1. Send the moderator information to one or more attendees who will act as meeting moderators\. To protect the moderator passcode, moderator information is not included in the Amazon Chime meeting invite and must be sent to moderators separately\.
+1. Send the moderator information to the attendees who will moderate the meeting\. To protect the moderator passcode, the Amazon Chime meeting invite doesn't contain moderator information\. You must send that information to moderators separately\.
 
 **Note**  
-Moderator passcodes cannot be changed or added to an existing meeting\. If you forget the moderator passcode, reschedule the meeting with a new meeting ID and passcode\.
+You can't add or change the moderator passcodes for an existing meeting\. If you forget the moderator passcode, reschedule the meeting with a new meeting ID and passcode\.
 
-If you are scheduling a moderated meeting using one of the Amazon Chime Outlook Add\-Ins, select **Generate a new ID and require moderator to start** and enter a moderator passcode when scheduling the meeting\. Send the moderator passcode to one or more attendees who will act as meeting moderators\.
+If you use one of the Amazon Chime Outlook Add\-Ins, to schedule a moderated meeting, select **Generate a new ID and require moderator to start** and enter a moderator passcode\. Send the moderator passcode to one or more attendees who will act as meeting moderators\.
 
 Meeting attendees who have the moderator passcode can become moderators by entering the passcode after they join the meeting\. To enter the moderator passcode during a meeting in progress, choose **More** from the Amazon Chime app, then choose **Enter moderator passcode**\.
 
 ## Moderator actions using the Amazon Chime app<a name="actions-app"></a>
 
-When signing in to join a moderated meeting using the Amazon Chime app, moderators can perform the same actions as meeting hosts and delegates\. For a list of available actions, see [Hosting a meeting](chime-organizer-call-controls.md)\.
+When signing in to join a moderated meeting using the Amazon Chime app, moderators can perform the same actions as meeting hosts and delegates\. For a list of available actions, see [Meeting host actions](chime-organizer-call-controls.md)\.
 
 If a moderator joins a moderated meeting without signing in, they can use the following subset of host actions:
 + Mute all other attendees\.

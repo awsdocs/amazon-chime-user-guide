@@ -19,6 +19,7 @@ To avoid an echo, choose one audio source for each room\.
 **Topics**
 + [Joining an auto\-call meeting using the Amazon Chime client](chime-join-meeting-client.md)
 + [Why meetings sometimes open in your browser](why-browser.md)
++ [Unblocking meeting audio and video in a browser](unblock-audio-video.md)
 + [Joining a meeting using the Amazon Chime mobile app](chime-join-meeting-mobile-app.md)
 + [Using Echo devices to join Amazon Chime meetings](join-with-echo.md)
 + [Joining a meeting using an in\-room video conference system](chime-join-meeting-conference-room.md)

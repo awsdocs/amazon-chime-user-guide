@@ -1,17 +1,17 @@
-# Hosting a meeting<a name="chime-organizer-call-controls"></a>
+# Meeting host actions<a name="chime-organizer-call-controls"></a>
 
-The meeting host, delegate, or moderators who are signed in to the Amazon Chime app can perform additional actions during a meeting\. For more information about moderated meetings, see [Scheduling a moderated meeting](moderate-meeting.md)\.
+When Amazon Chime Pro users schedule meetings, or a delegate schedules meetings for them, they become *hosts*\. The meeting hosts, delegates, or moderators who sign in to the Amazon Chime app can perform the actions listed here during a meeting\. For more information about moderated meetings, see [Scheduling a moderated meeting](moderate-meeting.md)\.
 
 ## Mute attendee actions<a name="mute-actions"></a>
 
 The meeting host, delegate, or moderators can perform the following muting actions:
 + **Mute All Others** – Mutes meeting attendees\. Use this to eliminate an echo or external noise\. Attendees are able to unmute themselves to resume audio\.
 + **Disable Attendee Unmute** – Meeting attendees are not able to unmute themselves\. \(Moderators must be signed in to the Amazon Chime app to perform this action\.\)
-+ **Enable Attendee Unmute** – Returns unmute control to meeting attendees\. \(Moderators must be signed in to the Amazon Chime app to perform this action\.\)
++ **Enable Attendee Unmute** – Returns unmute control to meeting attendees\. Moderators must sign in to the Amazon Chime app to perform this action\.
 
 ## Record meeting actions<a name="record-actions"></a>
 
-The meeting host, delegate, or moderators can perform the following recording actions:
+A meeting host, delegate, or moderators can perform the following recording actions:
 + Start and stop recording the meeting by choosing the **More** menu, then **Start Recording** or **Stop Recording**\. From a phone or in\-room video system, press \*2\.
 
 When meeting attendees join, they are notified audibly and visually that their meeting is being recorded\. When meeting recording is stopped, the attendees receive an update that the meeting is no longer being recorded\. Recording automatically stops when the meeting ends\.

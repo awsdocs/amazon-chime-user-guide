@@ -1,6 +1,6 @@
 # Using background blur<a name="blur-background"></a>
 
-Sometimes you want to reduce distractions during a meeting, such as people moving behind you\. When that happens, turn on background blurring\. You can turn blurring on whenever you have the meeting window open — before or during a meeting\. You can also control the strength of the blur, and the steps in this topic show you how to do both tasks\.
+Sometimes you want to reduce visual distractions during a meeting, such as people moving behind you\. When that happens, turn on background blurring\. You can turn blurring on whenever you have the meeting window open — before or during a meeting\. You can also control the strength of the blur, and the steps in this topic show you how to do both tasks\.
 
 **Note**  
 Currently, background blur only runs in the desktop clients on Windows 10 and macOS Mojave 10\.14 or later\. The feature uses your computer's graphics processing unit \(GPU\) for best performance, and older GPUs may not have the power to run it\. If you try to use background blur on a computer with an unsupported operating system or an older GPU, Amazon Chime displays an advisory message, and the feature won’t start\. If you have an older computer and your video starts to lag, make sure you have the latest video driver\. If updating your video driver doesn't help, turn off background blur\.

@@ -31,6 +31,6 @@ The following indicators provide more information about each user in the roster:
   + Eye icon – The attendee is viewing the screen share in the Amazon Chime app or web screen viewer\.
 + Video icons
   + Video camera icon – The attendee has their webcam enabled\.
-  + Video tiles – A maximum of 16 tiles are displayed on a first\-come basis\.
+  + Video tiles – Amazon Chime displays a maximum of 25 tiles on a first\-come, first\-served basis\.
 **Note**  
-Meeting attendees can view video tiles without enabling their webcam\.
+Meeting attendees can view video tiles without enabling their webcams\.

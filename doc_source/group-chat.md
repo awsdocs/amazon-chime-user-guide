@@ -27,3 +27,6 @@ When you’re in a chat conversation, you can edit the members of the chat to cr
 1. In the **To** field, add or remove users from the group chat\.
 
 As you add or remove members, Amazon Chime loads any previous conversations with the group of users you select\. If there are no previous conversations with the group you select, Amazon Chime creates a new, blank group chat\.
+
+**To remove yourself from a group chat**
++ Contact the person who created the group chat and ask to be removed from the conversation\. 

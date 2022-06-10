@@ -1,6 +1,6 @@
 # Using video during an Amazon Chime meeting<a name="use-video"></a>
 
-To turn on your webcam during an Amazon Chime meeting, choose **Video**\. Up to 16 attendee video tiles appear on a first\-come, first\-served basis\. To pause or play an attendee's video, choose their video tile\. Attendees don't know when they've been paused\.
+To turn on your webcam during an Amazon Chime meeting, choose **Video**\. Up to 25 attendee video tiles appear on a first\-come, first\-served basis\. To pause or play an attendee's video, choose their video tile\. Attendees don't know when they've been paused\.
 
 You don't have to turn on your own video to watch other attendees' videos\. If you want to turn off your own video, complete the following step\.
 

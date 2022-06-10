@@ -2,7 +2,7 @@
 
 Before you get set up with Amazon Chime, first make sure that you meet the following requirements for your operating system\.
 
-Amazon Chime works on common versions of the most popular operating systems\. In most cases, you can just download Amazon Chime or access it in your web browser and it works\.
+Amazon Chime provides client applications for the following operating systems\.
 
 ## Windows<a name="windows"></a>
 
@@ -36,6 +36,9 @@ Hardware requirements:
 + **For video background blur**: OS X 10\.14 \(Mojave\) and later
 + **For Amazon Voice Focus** \(noise suppression\) macOS machines from 2007 and later
 
+**Note**  
+M1 MacBooks are not supported\.
+
 ## Android<a name="android"></a>
 
 Supported versions:
@@ -59,9 +62,15 @@ Hardware requirements:
 + Some features are only available on devices with Bluetooth, telephony, or Wi\-Fi\.
 + Tablet and phone devices are supported\.
 
+**Note**  
+M1 MacBooks are not supported\.
+
 ## Browser requirements<a name="browser"></a>
 
-The following browsers are supported for the Amazon Chime web application\. We don't support mobile browsers at this time\. To open the Amazon Chime web application, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) in a supported web browser\.
+The Amazon Chime web application supports the following web browsers\. We don't support mobile browsers at this time\. To open the Amazon Chime web application, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) in a supported browser\.
+
+**Note**  
+To hear audio during meetings, you must have a microphone and speakers\.
 + Browsers supported for chat:
   + Google Chrome \(latest three versions\)
   + Mozilla Firefox \(latest three versions\)
@@ -72,8 +81,8 @@ The following browsers are supported for the Amazon Chime web application\. We d
   + Mozilla Firefox \(latest three versions\)
   + Chromium Edge \(latest three versions\)
 + Browsers supported for screen sharing:
-  + Google Chrome for Windows and macOS desktops \(latest three versions\)
-  + Mozilla Firefox for Windows, and macOS desktops \(latest three versions\)
+  + Google Chrome \(latest three versions\)
+  + Mozilla Firefox \(latest three versions\)
   + Chromium Edge \(version 84 and later\)
 + Browsers with limited meeting support:
   + Safari 10 or later for macOS

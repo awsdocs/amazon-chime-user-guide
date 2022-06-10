@@ -1,6 +1,6 @@
-# Assigning a delegate<a name="delegates"></a>
+# Assigning delegates<a name="delegates"></a>
 
-If you have Amazon Chime Pro permissions, you can assign delegate status to other Pro users\. This status allows them to schedule meetings on your behalf and to attend meetings with access to the same actions that a meeting host has\. For more information about the additional meeting actions available to a delegate, see [Hosting a meeting](chime-organizer-call-controls.md)\.
+If you have Amazon Chime Pro permissions, you can assign delegate status to other Pro users\. This status allows them to schedule meetings on your behalf and to attend meetings with access to the same actions that a meeting host has\. For more information about the additional meeting actions available to a delegate, see [Meeting host actions](chime-organizer-call-controls.md)\.
 
 ## Assigning delegates<a name="assign-delegates"></a>
 
@@ -10,11 +10,31 @@ Assign delegates using the Amazon Chime desktop client or web application\.
 
 1. On the **Amazon Chime** menu next to your name, choose **Settings**\.
 
-1. Under **Settings**, choose **Meetings**\.
+1. Under **Settings**, choose **Delegates**\.
 
 1. Choose **Add delegates**\.
 
 1. Search for and select the name of the contact, then choose **Add**\.
+
+## Setting delegate permissions in Microsoft Outlook<a name="set-delegate-permissions-outlook"></a>
+
+If you use Amazon Chime with Microsoft Outlook, some delegates may not be able to schedule meetings unless they have **Owner** permissions to your inbox\. If your delegate can't schedule meetings, follow these steps:
+
+**To set delegate permissions**
+
+1. In Outlook, open the context \(right\-click\) menu for your inbox and choose **Properties\.**\.
+
+   The **Inbox Properties** dialog box appears\.
+
+1. Choose the **Permissions** tab, and then choose **Add**\.
+
+   The **Add Users** dialog box appears\. 
+
+1. Search for and select your delegate’s name, and then choose **OK**\.
+
+   That returns you to the **Inbox Properties** dialog box\.
+
+1. Under **Permissions**, open the **Permissions** list and choose **Owner**, then choose **Apply**\. 
 
 ## Removing delegates<a name="remove-delegates"></a>
 

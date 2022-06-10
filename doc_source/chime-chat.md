@@ -1,6 +1,6 @@
 # Using in\-meeting chat<a name="chime-chat"></a>
 
-Amazon Chime gives you two ways to chat—Amazon Chime chat and meeting chat\. The topics in this section explain how to use in\-meeting chat\. For information about Amazon Chime chat, see [Collaborating using Amazon Chime chat](chime-using-chat.md)\.
+Amazon Chime gives you two ways to chat—Amazon Chime chat and in\-meeting chat\. The topics in this section explain how to use in\-meeting chat\. For information about Amazon Chime chat, see [Collaborating using Amazon Chime chat](chime-using-chat.md)\.
 
 Remember these facts about in\-meeting chat\.
 + In\-meeting chat becomes available when a meeting starts, and it stops when a meeting ends\.

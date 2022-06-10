@@ -18,6 +18,9 @@ When your meeting starts, Amazon Chime can call every attendee automatically on 
 
 To use auto\-call, make sure that **meet@chime\.aws** is invited to your meeting\.
 
+**Note**  
+Auto\-call doesn't work if the meeting invitation uses a distribution list, such as myteam@amazon\.com\. Make sure you use the email addresses of individual attendees\.
+
 You can remove **meet@chime\.aws** from the meeting invite to avoid having everyone’s devices ring at the same time; for example, if everyone is in the same office\. You can also remove **meet@chime\.aws** if your attendees would rather open the invite and choose the meeting link\.
 
 **Note**  
