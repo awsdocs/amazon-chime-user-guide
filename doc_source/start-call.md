@@ -24,9 +24,7 @@ To start an Amazon Chime meeting right away rather than scheduling in advance, y
 
 **To start a call from your history**
 
-1. Do one of the following:
-   + From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **History**\.
-   + From the Amazon Chime mobile app, choose **Calls**\.
+1. From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **History**\.
 
 1. Select the contact to open the actions menu\.
 

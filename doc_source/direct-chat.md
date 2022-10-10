@@ -10,17 +10,15 @@ In Amazon Chime chat, you can have a one\-on\-one chat conversation with another
 **Note**  
 If you don't see the name that you want, choose **Contacts**\. Search for or invite the contact\.
 
-1. Messages are sent to your desktop app if it’s the most active device\. If you’re away or on a mobile device, Amazon Chime sends them to your mobile app as push notifications\.
+1. Amazon Chime routes messages to your most active device\. If you’re away or on a mobile device, Amazon Chime sends messages to the mobile app as push notifications\.
 
 1. To start an instant meeting, choose the phone icon in the upper\-right corner to call the other person\.
 
 When you’re in a chat conversation, you can edit the members of the chat to create a new group chat conversation with the users that you select\. For more information, see [Chatting with multiple users in Amazon Chime](group-chat.md)\.
 
-**To message another user from your history**
+**To message another user from your call history**
 
-1. Do one of the following:
-   + From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
-   + From the Amazon Chime mobile app, choose **Calls**\.
+1. In the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
 
 1. Select the contact to open the actions menu\.
 

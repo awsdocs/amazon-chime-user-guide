@@ -16,5 +16,3 @@ If you postpone an update, and you aren't in an ongoing meeting, the client chec
 
 **Note**  
 On a macOS machine, you need to choose **Restart Now** to begin the update\.
-
-**On your mobile device** – Amazon Chime mobile applications use the update options provided by the App Store and Google Play to deliver the latest version of the Amazon Chime client\. If your company manages your mobile device, updates may come through your IT department's mobile device management systems\.

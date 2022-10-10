@@ -6,9 +6,7 @@ You must set up the Amazon Chime Assistant before you can begin using it\.
 
 1. Log into your Amazon Chime account using one of the clients\.
 
-1. Invite **assistant\_no\_reply@chime\.aws** as a contact:
-   + On a desktop app, choose **Contacts**, **Invite contact**\.
-   + On a mobile app, on the **Contacts** tab, choose **\+** in the upper\-right corner\.
+1. Invite **assistant\_no\_reply@chime\.aws** as a contact\. To do that, choose **Contacts**, and then choose **Invite contact**\.
 
 1. Start a 1:1 chat thread with **Amazon Chime Assistant \(Webhook\)**\.
 

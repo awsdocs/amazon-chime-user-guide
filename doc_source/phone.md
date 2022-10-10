@@ -25,7 +25,7 @@ When the person you call answers their phone, an instant meeting opens in Amazon
    + From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
    + From the Amazon Chime mobile app, choose **Calls**\.
 
-1. Select the phone number or contact to open the actions menu\.
+1. Select the contact to open the actions menu\.
 
 1. Choose **Call**\.
 
@@ -73,7 +73,7 @@ You can add phone numbers to your **Contacts** list\. To edit the contact name a
 **To add a phone number from your history to your contacts**
 
 1. Do one of the following:
-   + From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
+   + In the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
    + From the Amazon Chime mobile app, choose **Calls**\.
 
 1. Select the phone number or contact to open the actions menu\.

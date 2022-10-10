@@ -4,7 +4,7 @@ If you have Amazon Chime Pro permissions, you can create a personalized meeting 
 
 **To set a personalized link**
 
-1. Choose the menu in the upper\-left corner by your name, and choose **My meeting bridge information**\.
+1. Open the actions menu in the upper\-left corner by your name, and choose **My meeting bridge information**\.
 
 1. For **Personalized ID:**, choose **Create your personalized ID**\.
 

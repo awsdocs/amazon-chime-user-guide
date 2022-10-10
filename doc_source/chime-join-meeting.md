@@ -22,7 +22,7 @@ If your administrator has enabled the Amazon Chime call me feature, you can choo
 **Note**  
 If the host’s administrator enabled the call me feature, you can choose **Call me at a phone number**, select a supported country, and provide a phone number for Amazon Chime to call you for the meeting\.
 
-Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a complete list of supported browsers, see [System requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
+Browsers that aren't supported by the web application are supported by the simple screen share viewer\. For a list of supported browsers, see [System requirements](chime-requirements.md)\. With the simple screen share viewer, you can see when someone shares their screen in your browser and can dial in from your phone to hear audio\.
 
 **To join a meeting from the meeting invite with the simple screen share viewer**
 

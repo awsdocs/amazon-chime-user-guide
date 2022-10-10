@@ -1,6 +1,6 @@
 # Creating a chat room<a name="chime-chat-room"></a>
 
-To collaborate informally on projects, invite others during escalations, or discuss topics and teams on an ongoing basis, you can create a chat room\. There is no limit to the number of users that can be invited to a chat room, nor is there a limit to the number of chat rooms that an individual user can join\.
+You can create a chat room whenever you need to collaborate with a group of people, usually for ongoing issues or projects\. You can invite any number of users to your chat rooms, and users can join any number of chat rooms\.
 
 **To create a chat room**
 

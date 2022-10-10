@@ -22,7 +22,7 @@ If you use Amazon Chime with Microsoft Outlook, some delegates may not be able t
 
 **To set delegate permissions**
 
-1. In Outlook, open the context \(right\-click\) menu for your inbox and choose **Properties\.**\.
+1. In Outlook, open the context \(right\-click\) menu for your inbox and choose **Properties**\.
 
    The **Inbox Properties** dialog box appears\.
 

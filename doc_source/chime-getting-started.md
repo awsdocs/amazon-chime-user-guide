@@ -13,7 +13,7 @@ To continue using Amazon Chime with Pro permissions after the 30\-day free trial
 
 **Topics**
 + [System requirements](chime-requirements.md)
-+ [Downloading Amazon Chime](download.md)
++ [How to download Amazon Chime](download.md)
 + [Creating an Amazon Chime user account](create-account.md)
 + [Setting a personalized meeting link](set-link.md)
 + [Adding contacts to Amazon Chime](contacts.md)

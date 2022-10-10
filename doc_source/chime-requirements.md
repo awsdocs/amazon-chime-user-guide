@@ -1,6 +1,6 @@
 # System requirements<a name="chime-requirements"></a>
 
-Before you get set up with Amazon Chime, first make sure that you meet the following requirements for your operating system\.
+Before you set up Amazon Chime, first make sure you meet the following requirements\.
 
 Amazon Chime provides client applications for the following operating systems\.
 
@@ -56,7 +56,7 @@ Hardware requirements:
 ## iOS<a name="ios"></a>
 
 Supported versions:
-+ iOS 10\.0 and later \(including iOS 14\)
++ iOS 12\.0 and later
 
 Hardware requirements:
 + Some features are only available on devices with Bluetooth, telephony, or Wi\-Fi\.

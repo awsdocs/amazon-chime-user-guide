@@ -14,9 +14,7 @@ If the contact does not appear in your search, choose **Invite contact** to send
 
 **To add a contact from your history**
 
-1. Do one of the following:
-   + From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\.
-   + From the Amazon Chime mobile app, choose **Calls**\.
+1. From the Amazon Chime desktop or web client, under **Meetings and Calls**, choose **Call history**\. 
 
 1. Select the contact to open the actions menu\.
 

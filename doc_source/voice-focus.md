@@ -22,17 +22,11 @@ You can turn Amazon Voice Focus off at any time during a meeting\. For example, 
 
 Repeat those steps to turn Amazon Voice Focus on again\.
 
-**To turn off Amazon Voice Focus in a mobile app**
-
-1. In the meeting window, choose **Options** in the upper\-right corner\.
-
-1. Choose **Disable Voice Focus \(noise suppression\)**\.
-
-Repeat those steps to turn Amazon Voice Focus on again\.
-
 **Note**  
-Currently, Amazon Voice Focus runs on these devices:  
-Windows 8\.1 and later on computers running at least 4th generation Intel processors, or the AMD equivalent\.
-macOS machines from 2007 and later\.
-Android version 4\.5 and later\.
-iOS version 10\.0 and later\.
+For information about turning off Amazon Voice Focus in the Amazon Chime mobile app, see [Turning off Amazon Voice Focus](mobile-mtg-options.md#mobile-voice-focus)\.
+
+Currently, Amazon Voice Focus runs on these devices:
++ Windows 8\.1 and later on computers running at least 4th generation Intel processors, or the AMD equivalent\.
++ macOS machines from 2007 and later\.
++ Android version 4\.5 and later\.
++ iOS version 10\.0 and later\.

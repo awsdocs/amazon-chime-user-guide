@@ -4,20 +4,20 @@
 *****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
-Amazon's trademarks and trade dress may not be used in 
-     connection with any product or service that is not Amazon's, 
-     in any manner that is likely to cause confusion among customers, 
-     or in any manner that disparages or discredits Amazon. All other 
-     trademarks not owned by Amazon are the property of their respective
-     owners, who may or may not be affiliated with, connected to, or 
-     sponsored by Amazon.
+Amazon's trademarks and trade dress may not be used in
+connection with any product or service that is not Amazon's,
+in any manner that is likely to cause confusion among customers,
+or in any manner that disparages or discredits Amazon. All other
+trademarks not owned by Amazon are the property of their respective
+owners, who may or may not be affiliated with, connected to, or
+sponsored by Amazon.
 
 -----
 ## Contents
 + [What is Amazon Chime?](what-is-chime.md)
 + [Getting started with Amazon Chime](chime-getting-started.md)
    + [System requirements](chime-requirements.md)
-   + [Downloading Amazon Chime](download.md)
+   + [How to download Amazon Chime](download.md)
    + [Creating an Amazon Chime user account](create-account.md)
    + [Setting a personalized meeting link](set-link.md)
    + [Adding contacts to Amazon Chime](contacts.md)
@@ -27,10 +27,9 @@ Amazon's trademarks and trade dress may not be used in
    + [Understanding Amazon Chime automatic updates](chime-auto-update.md)
 + [Attending meetings using Amazon Chime](chime-attend-meetings.md)
    + [Joining an Amazon Chime meeting](join-meetings.md)
-      + [Joining an auto-call meeting using the Amazon Chime client](chime-join-meeting-client.md)
+      + [Joining an auto-call meeting using the Amazon Chime client](join-auto-call.md)
       + [Why meetings sometimes open in your browser](why-browser.md)
       + [Unblocking meeting audio and video in a browser](unblock-audio-video.md)
-      + [Joining a meeting using the Amazon Chime mobile app](chime-join-meeting-mobile-app.md)
       + [Using Echo devices to join Amazon Chime meetings](join-with-echo.md)
       + [Joining a meeting using an in-room video conference system](chime-join-meeting-conference-room.md)
       + [Joining a meeting without the Amazon Chime app](chime-join-meeting.md)
@@ -73,6 +72,30 @@ Amazon's trademarks and trade dress may not be used in
 + [Dialing phone numbers with Amazon Chime](phone.md)
    + [Making emergency calls with Amazon Chime](emergency-calls.md)
 + [Using the Amazon Chime web application](chime-web-app.md)
++ [Using the Amazon Chime mobile app](chime-mobile-app.md)
+   + [Quick start guide](mobile-app-nav.md)
+   + [Using Meetings view](use-meetings-view.md)
+      + [Joining scheduled meetings](chime-join-scheduled-meeting.md)
+         + [Joining a meeting](join-meeting-mobile-network.md)
+         + [Dialing in to a meeting](mobile-join-dial-in.md)
+         + [Setting a meeting to call you](mobile-call-me.md)
+         + [Letting others know you're running late](mobile-running-late.md)
+         + [Messaging all meeting attendees](mobile-message-all.md)
+      + [Starting instant meetings](mobile-instant-mtgs.md)
+      + [Scheduling meetings](mobile-scheduling.md)
+      + [Using the Amazon Chime mobile app during a meeting](mobile-in-meeting.md)
+         + [Using the meeting roster](mobile-meeting-roster.md)
+         + [Using in-meeting chat](mobile-meeting-chat.md)
+         + [Using the audio control](mobile-meeting-audio.md)
+         + [Using video](mobile-meeting-video.md)
+         + [Additional meeting actions](mobile-mtg-options.md)
+   + [Using Calls view](use-call-view.md)
+   + [Using Messages view](mobile-chat.md)
+   + [Using Rooms view](mobile-rooms.md)
+   + [Using Contacts view](mobile-contacts.md)
+   + [Changing your status](mobile-status.md)
+   + [Getting additional support](mobile-assistant.md)
+   + [Settings](app-options.md)
 + [Using the Amazon Chime Meetings App for Slack](using-slack.md)
 + [Getting support from an Amazon Chime administrator](chime-getting-support.md)
    + [Using the Amazon Chime Assistant](chime-using-assistant.md)

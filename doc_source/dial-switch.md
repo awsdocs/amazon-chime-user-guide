@@ -28,20 +28,6 @@ If your internet connection is poor, the Amazon Chime web application prompts yo
 
 1. Use the dial\-in number shown\.
 
-If you know you'll want to dial in manually before your meeting starts, you can choose to do so when joining the meeting\. For more information, see [Meeting audio options for the Amazon Chime web application](chime-web-app.md#web-app-audio)\.
-
 ## Switching to dial\-in with the Amazon Chime mobile app<a name="dial-in-mobile-app"></a>
 
-If you have a slow cellular data connection or poor signal strength, the Amazon Chime mobile app prompts you to switch to dial\-in\.
-
-**To switch to dial\-in using the mobile app**
-
-1. When Amazon Chime prompts you to do so, choose **Dial In**\.
-
-1. \(Optional\) For **Dial\-in country**, choose the country to open the **Select Dial\-in** menu and select a different country for your dial\-in number\. You can also choose whether to use a toll\-free number\.
-
-1. For **Dial\-in**, choose **One\-touch dial now**\.
-
-1. Choose **Call**\.
-
-If you know you'll want to dial in manually before your meeting starts, you can choose to do so when joining the meeting\. For more information, see [Joining a meeting using the Amazon Chime mobile app](chime-join-meeting-mobile-app.md)\.
+For information about switching to dial\-in with the Amazon Chime mobile app, see [Dialing in to a meeting](mobile-join-dial-in.md)\. 

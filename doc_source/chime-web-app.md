@@ -1,12 +1,14 @@
 # Using the Amazon Chime web application<a name="chime-web-app"></a>
 
-The Amazon Chime web application brings Amazon Chime meetings and chat to your browser\. The web application makes it easy for clients, vendors, and other third parties to join your meetings, even if they are new to Amazon Chime\. There's no need to create an account and no downloads are required to participate in meetings\. Users with Amazon Chime accounts can sign in to access many of the same features available on our downloadable clients\. It's a great option for users on operating systems that aren't supported by the Amazon Chime desktop and mobile apps, users that can't download the Amazon Chime desktop and mobile apps, or users that prefer web applications\.
+To use the Amazon Chime web application, navigate to [https://app\.chime\.aws/](https://app.chime.aws/) in a browser and sign in\.
 
-Joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop and mobile apps\. For more information, see [Attending meetings using Amazon Chime](chime-attend-meetings.md) and [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\. Attendees that join your meetings using the web app can view and share screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on their phone or though their computer’s audio\. 
+If you use an unsupported operating system, you don't have an Amazon Chime account, or your organization prevents downloads, you can use the Amazon Chime web application to attend meetings and use chat in your browser\. Clients, vendors, and other third parties can also use the web application to join your meetings\.
 
-Additionally, if your administrator has enabled the Amazon Chime call me feature, your meeting attendees can choose **Call me at a phone number** to have Amazon Chime call them at their preferred phone number\.
+But, if you sign in using an Amazon Chime account, the web app provides more of the features available in the desktop client\. For example, joining and scheduling meetings from the web application works the same way as the Amazon Chime desktop client\. For more information, see [Attending meetings using Amazon Chime](chime-attend-meetings.md) and [Scheduling meetings using Amazon Chime](chime-schedule-meetings.md)\.
 
-To use the Amazon Chime web application, sign in to [https://app\.chime\.aws/](https://app.chime.aws/) from your web browser\.
+Attendees who use the web app to join meetings can view and share screens, view and share video, use the meeting roster, participate in meeting chat, and join audio by dialing in on a mobile device or though their computer’s audio\. 
+
+Additionally, if your administrator enables the Amazon Chime call me feature, your meeting attendees can choose **Call me at a** *phone number* to have Amazon Chime call them at their preferred phone number\.
 
 **Note**  
 The downloadable clients available in Amazon Chime provide the most consistent experience for video, screen sharing, remote desktop control, and other features on supported operating systems\. For more information, see [downloadable clients](https://aws.amazon.com/chime/download/)\. 

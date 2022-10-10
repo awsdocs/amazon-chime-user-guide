@@ -4,9 +4,9 @@ If you need to get set up for a meeting before the start time, or just prefer to
 
 **To join a meeting early**
 
-1. Do one of the following:
-   + From the Amazon Chime desktop client or web app, choose **Home**, **Join a meeting**\.
-   + From the Amazon Chime mobile app, choose **Meetings**\.
+1. In the Amazon Chime desktop client or web app, choose **Home**, **Join a meeting**\.
+
+   For information about joining early In the Amazon Chime mobile app, see [Joining scheduled meetings](chime-join-scheduled-meeting.md#chime-join-scheduled-meeting.title)\. 
 
 1. A list of meetings that start in the next 30 minutes appears\. Choose your meeting to join\.
 **Note**  
