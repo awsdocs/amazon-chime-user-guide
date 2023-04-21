@@ -1,0 +1,3 @@
+# Removing attendees<a name="remove-actions"></a>
+
+The meeting host, delegate, or moderators who are signed in to the Amazon Chime app can remove other attendees from a meeting as long as the other attendees are not a host, delegate, or moderator\. To remove another attendee, choose or right\-click the attendee's name in the meeting roster and choose **Remove from meeting**\. If the removed attendee was previously invited, they are also removed from the meeting invitation and the meeting is no longer displayed as an ongoing meeting in their Amazon Chime app\.

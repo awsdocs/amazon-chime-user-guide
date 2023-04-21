@@ -17,4 +17,5 @@ Amazon Chime provides several ways to join a meeting, depending on where you joi
 + [Muting and unmuting](chime-mute.md)
 + [Using Amazon Voice Focus](voice-focus.md)
 + [Using background blur](blur-background.md)
++ [Recording meetings](record-meetings.md)
 + [Switching from VoIP to dial\-in](dial-switch.md)

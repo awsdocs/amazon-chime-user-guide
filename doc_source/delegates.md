@@ -1,6 +1,6 @@
 # Assigning delegates<a name="delegates"></a>
 
-If you have Amazon Chime Pro permissions, you can assign delegate status to other Pro users\. This status allows them to schedule meetings on your behalf and to attend meetings with access to the same actions that a meeting host has\. For more information about the additional meeting actions available to a delegate, see [Meeting host actions](chime-organizer-call-controls.md)\.
+If you have Amazon Chime Pro permissions, you can assign delegate status to other Pro users\. This status allows them to schedule meetings on your behalf and to attend meetings with access to the same actions that a meeting host has\. For more information about the additional meeting actions available to a delegate, see [Hosting meetings](chime-organizer-call-controls.md)\.
 
 ## Assigning delegates<a name="assign-delegates"></a>
 

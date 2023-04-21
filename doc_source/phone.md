@@ -17,7 +17,7 @@ Amazon Chime is not always a replacement for your telephone\. You can only make 
 
 1. Choose **Dial**\.
 
-When the person you call answers their phone, an instant meeting opens in Amazon Chime\. As a meeting host with Amazon Chime Pro permissions, you can choose **More** to invite others to the call, or to change your meeting settings\. For more information, see [Meeting host actions](chime-organizer-call-controls.md)\.
+When the person you call answers their phone, an instant meeting opens in Amazon Chime\. As a meeting host with Amazon Chime Pro permissions, you can choose **More** to invite others to the call, or to change your meeting settings\. For more information, see [Hosting meetings](chime-organizer-call-controls.md)\.
 
 **To call a phone number from your history**
 

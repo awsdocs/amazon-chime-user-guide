@@ -36,7 +36,7 @@ Meeting hosts and their delegates can also prevent attendees from unmuting thems
 
 ## Starting Event mode<a name="mobile-host-event-mode"></a>
 
-Only meeting hosts and their delegates can start Event mode\. For more information about Event mode, see [Event mode actions](chime-organizer-call-controls.md#event-actions)\.
+Only meeting hosts and their delegates can start Event mode\. For more information about Event mode, see [Using Event Mode](event-actions.md)\.
 
 **To start event mode**
 

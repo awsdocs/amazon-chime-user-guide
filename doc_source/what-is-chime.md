@@ -12,7 +12,7 @@ If you have time before a meeting starts, you can install the Amazon Chime deskt
 
 ## How to get started with Amazon Chime<a name="how-start"></a>
 
-To use Amazon Chime regularly, download the Amazon Chime Pro version\. Create an Amazon Chime user account, and use Amazon Chime Pro for free for 30 days\. To download Amazon Chime, see [Download Amazon Chime](http://aws.amazon.com/chime/download-chime/)\. For instructions about how to get started, see [Getting started](https://docs.aws.amazon.com/chime/latest/ag/getting-started.html) in the *Amazon Chime Administrator Guide*\.
+To use Amazon Chime regularly, download the Amazon Chime Pro version\. Create an Amazon Chime user account, and use Amazon Chime Pro for free for 30 days\. To download Amazon Chime, see [Download Amazon Chime](http://aws.amazon.com/chime/download-chime/)\. For information about using Amazon Chime, see [Getting started](https://docs.aws.amazon.com/chime/latest/ag/getting-started.html) in the this guide\.
 
 ## Creating an Amazon Chime administrator account<a name="chime-create"></a>
 

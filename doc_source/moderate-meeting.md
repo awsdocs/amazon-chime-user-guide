@@ -38,7 +38,7 @@ Meeting attendees who have the moderator passcode can become moderators by enter
 
 ## Moderator actions using the Amazon Chime app<a name="actions-app"></a>
 
-When signing in to join a moderated meeting using the Amazon Chime app, moderators can perform the same actions as meeting hosts and delegates\. For a list of available actions, see [Meeting host actions](chime-organizer-call-controls.md)\.
+When signing in to join a moderated meeting using the Amazon Chime app, moderators can perform the same actions as meeting hosts and delegates\. For a list of available actions, see [Hosting meetings](chime-organizer-call-controls.md)\.
 
 If a moderator joins a moderated meeting without signing in, they can use the following subset of host actions:
 + Mute all other attendees\.

@@ -5,7 +5,7 @@ The information in the following sections explains how to cancel individual and 
 **Topics**
 + [Canceling individual meetings](#cancel-individual-meeting)
 + [Canceling recurring meetings that continue to auto call](#cancel-recurring-meeting)
-+ [Removing yourself from a recurring meeting when you aren't the organizer](#w26aac13c33c11)
++ [Removing yourself from a recurring meeting when you aren't the organizer](#w9aac13c33c11)
 
 ## Canceling individual meetings<a name="cancel-individual-meeting"></a>
 
@@ -34,6 +34,6 @@ You can cancel recurring meetings from 30 minutes before they start until they r
 
 1. Amazon Chime ends the meeting for all attendees, if it has already started\. The host and invited attendees won’t receive auto\-calls for any future meetings in the recurring series\.
 
-## Removing yourself from a recurring meeting when you aren't the organizer<a name="w26aac13c33c11"></a>
+## Removing yourself from a recurring meeting when you aren't the organizer<a name="w9aac13c33c11"></a>
 
 To remove yourself from a recurring meeting that you don't own, follow the steps in [ Removing yourself from a recurring meeting ](https://docs.aws.amazon.com/chime/latest/ug/remove-recurring.html)\. 
