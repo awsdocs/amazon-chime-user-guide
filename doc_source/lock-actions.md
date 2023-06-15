@@ -1,3 +1,0 @@
-# Locking a meeting<a name="lock-actions"></a>
-
-To prevent a removed attendee or an uninvited or unauthenticated user from joining a meeting, the meeting host, delegate, or moderators can lock the meeting\. If attendees with no Amazon Chime account or attendees who are not invited try to join a locked meeting, they receive a message that the meeting is locked\. Attendees who are signed in to their Amazon Chime accounts and are invited can still join the meeting, even if they have to drop and reconnect after the meeting is locked\. Attendees who join a locked meeting from an in\-room video system or by using the **Dial\-in** or **Switch to dial\-in** options must enter the 13\-digit meeting ID that appears in the Amazon Chime client or web app in order to join\.
